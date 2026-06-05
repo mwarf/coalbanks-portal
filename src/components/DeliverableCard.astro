@@ -1,0 +1,28 @@
+---
+import StatusBadge from './StatusBadge.astro';
+
+interface Props {
+  title: string;
+  status: 'draft' | 'in-review' | 'delivered' | 'approved';
+  url?: string;
+  date?: Date;
+}
+const { title, status, url, date } = Astro.props;
+
+const formattedDate = date
+  ? date.toLocaleDateString('en-CA', { year: 'numeric', month: 'short', day: 'numeric' })
+  : null;
+---
+<div class="deliverable-card">
+  <div class="deliverable-card__info">
+    {url ? (
+      <a href={url} class="deliverable-card__title">{title}</a>
+    ) : (
+      <span class="deliverable-card__title">{title}</span>
+    )}
+    <StatusBadge status={status} />
+  </div>
+  {formattedDate && (
+    <span class="deliverable-card__date">{formattedDate}</span>
+  )}
+</div>

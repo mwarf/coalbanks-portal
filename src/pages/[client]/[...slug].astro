@@ -1,0 +1,36 @@
+---
+import { getCollection, render } from 'astro:content';
+import PortalLayout from '../../layouts/PortalLayout.astro';
+import AssetLink from '../../components/AssetLink.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('portal', (e) => e.data.publish === true);
+
+  return entries
+    .filter((e) => e.id !== e.data.client)   // index entries are handled by [client]/index.astro
+    .map((entry) => {
+      // entry.id is like "stranville-living/production-update"
+      // We need slug to be "production-update" (strip client prefix)
+      const slug = entry.id.replace(entry.data.client + '/', '');
+      return {
+        params: { client: entry.data.client, slug },
+        props: { entry },
+      };
+    });
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const assetLinks = entry.data.asset_links ?? [];
+---
+<PortalLayout
+  title={entry.data.title}
+  client={entry.data.client}
+  status={entry.data.status}
+  date={entry.data.date}
+>
+  {assetLinks.length > 0 && (
+    <AssetLink links={assetLinks} />
+  )}
+  <Content />
+</PortalLayout>

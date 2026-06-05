@@ -1,0 +1,66 @@
+---
+import { getCollection, render } from 'astro:content';
+import PortalLayout from '../../layouts/PortalLayout.astro';
+import DeliverableCard from '../../components/DeliverableCard.astro';
+import AssetLink from '../../components/AssetLink.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('portal', (e) => e.data.publish === true);
+
+  // Group entries by client to get unique client paths
+  const clients = [...new Set(entries.map((e) => e.data.client))];
+
+  return clients.map((client) => ({
+    params: { client },
+  }));
+}
+
+const { client } = Astro.params;
+const allEntries = await getCollection('portal', (e) => e.data.publish === true && e.data.client === client);
+
+// Find the overview/index entry — glob loader gives index.md an id equal to the folder name
+const overviewEntry = allEntries.find((e) => e.id === client);
+
+// All other entries, sorted by date descending
+const otherEntries = allEntries
+  .filter((e) => e.id !== client)
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+
+// Render the overview content if it exists
+let OverviewContent = null;
+if (overviewEntry) {
+  const rendered = await render(overviewEntry);
+  OverviewContent = rendered.Content;
+}
+
+const pageTitle = overviewEntry?.data.title ?? `${client} — Project Overview`;
+const pageStatus = overviewEntry?.data.status;
+const pageDate = overviewEntry?.data.date;
+const assetLinks = overviewEntry?.data.asset_links ?? [];
+---
+<PortalLayout title={pageTitle} client={client} status={pageStatus} date={pageDate}>
+  {assetLinks.length > 0 && (
+    <AssetLink links={assetLinks} />
+  )}
+
+  {OverviewContent && (
+    <OverviewContent />
+  )}
+
+  {otherEntries.length > 0 && (
+    <section class="notes-list">
+      <h2 class="notes-list__heading">Updates</h2>
+      {otherEntries.map((entry) => {
+        const slug = entry.id.replace(entry.data.client + '/', '');
+        return (
+          <DeliverableCard
+            title={entry.data.title}
+            status={entry.data.status}
+            url={`/${entry.data.client}/${slug}`}
+            date={entry.data.date}
+          />
+        );
+      })}
+    </section>
+  )}
+</PortalLayout>

@@ -1,0 +1,82 @@
+---
+import StatusBadge from '../components/StatusBadge.astro';
+import '../styles/global.css';
+
+interface Props {
+  title:   string;
+  client:  string;
+  status?: 'draft' | 'in-review' | 'delivered' | 'approved';
+  date?:   Date;
+}
+
+const { title, client, status, date } = Astro.props;
+
+// Convert slug to display name: "stranville-living" → "Stranville Living"
+const clientDisplayName = client
+  .split('-')
+  .map((word: string) => word.charAt(0).toUpperCase() + word.slice(1))
+  .join(' ');
+
+const formattedDate = date
+  ? date.toLocaleDateString('en-CA', { year: 'numeric', month: 'long', day: 'numeric' })
+  : null;
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex, nofollow" />
+  <title>{title} — Coalbanks Creative</title>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap"
+    rel="stylesheet"
+  />
+</head>
+<body>
+  <div class="portal-wrapper">
+    <!-- Header -->
+    <header class="portal-header">
+      <a href={`/${client}/`} class="portal-header__logo">
+        <img src="/coalbanks-logo.svg" alt="Coalbanks Creative" />
+        <span>Coalbanks Creative</span>
+      </a>
+      <a href="mailto:michael@coalbanks.ca" class="portal-header__contact">
+        michael@coalbanks.ca
+      </a>
+    </header>
+
+    <!-- Breadcrumb -->
+    <nav class="portal-breadcrumb" aria-label="Breadcrumb">
+      <a href={`/${client}/`}>Projects</a>
+      <span class="portal-breadcrumb__separator">/</span>
+      <span>{clientDisplayName}</span>
+    </nav>
+
+    <!-- Main -->
+    <main class="portal-main">
+      <div class="page-header">
+        <h1>{title}</h1>
+        {(status || formattedDate) && (
+          <div class="page-header__meta">
+            {status && <StatusBadge status={status} />}
+            {formattedDate && <time>{formattedDate}</time>}
+          </div>
+        )}
+      </div>
+      <div class="prose">
+        <slot />
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="portal-footer">
+      <span>&copy; Coalbanks Creative Inc.</span>
+      <span>{clientDisplayName}</span>
+    </footer>
+  </div>
+</body>
+</html>
