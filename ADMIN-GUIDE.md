@@ -258,7 +258,7 @@ The script outputs something like:
 
 ```yaml
 videos:
-  - id: "60e31a4220cb8a545fd0cd7569e15cfc"
+  - id: "16f3d4237d1e2390c189cdf46ab0c0ed"
     title: "Kasko Cattle — Scouting Dailies, June 5"
     poster: "https://customer-....cloudflarestream.com/.../thumbnails/thumbnail.jpg"
 ```
@@ -276,7 +276,7 @@ status: delivered
 date: 2026-06-05
 type: update
 videos:
-  - id: "60e31a4220cb8a545fd0cd7569e15cfc"
+  - id: "16f3d4237d1e2390c189cdf46ab0c0ed"
     title: "Kasko Cattle — Scouting Dailies, June 5"
 ---
 
@@ -307,11 +307,11 @@ If you want the embedded player AND a direct link (e.g., for the client to share
 
 ```yaml
 videos:
-  - id: "60e31a4220cb8a545fd0cd7569e15cfc"
+  - id: "16f3d4237d1e2390c189cdf46ab0c0ed"
     title: "Scouting Dailies — June 5"
 asset_links:
   - label: "Direct Stream Link — Scouting Dailies"
-    url: "https://customer-31b8f0c35512bdf0006e669ed89ed74a.cloudflarestream.com/60e31a4220cb8a545fd0cd7569e15cfc/watch"
+    url: "https://customer-1nnz6nljigkdvldi.cloudflarestream.com/16f3d4237d1e2390c189cdf46ab0c0ed/watch"
 ```
 
 ### Video Tips

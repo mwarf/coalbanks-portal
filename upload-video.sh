@@ -20,7 +20,7 @@ set -euo pipefail
 
 # --- Config ---
 ACCOUNT_ID="${CLOUDFLARE_ACCOUNT_ID:-31b8f0c35512bdf0006e669ed89ed74a}"
-CUSTOMER_CODE="31b8f0c35512bdf0006e669ed89ed74a"  # for embed URLs
+CUSTOMER_CODE="1nnz6nljigkdvldi"  # customer subdomain for embed URLs
 
 # Load .env if present
 if [ -f "$(dirname "$0")/.env" ]; then
@@ -248,10 +248,10 @@ echo "  ─── Paste into your Markdown frontmatter ───"
 echo ""
 echo "  videos:"
 echo "    - id: \"${STREAM_MEDIA_ID}\""
-echo "    title: \"${VIDEO_TITLE}\""
+echo "      title: \"${VIDEO_TITLE}\""
 
 if [ -n "$THUMBNAIL" ]; then
-  echo "    poster: \"${THUMBNAIL}\""
+  echo "      poster: \"${THUMBNAIL}\""
 fi
 
 echo ""
@@ -259,7 +259,7 @@ echo "  ─── Or as an asset link ───"
 echo ""
 echo "  asset_links:"
 echo "    - label: \"${VIDEO_TITLE}\""
-echo "    url: \"https://customer-${CUSTOMER_CODE}.cloudflarestream.com/${STREAM_MEDIA_ID}/watch\""
+echo "      url: \"https://customer-${CUSTOMER_CODE}.cloudflarestream.com/${STREAM_MEDIA_ID}/watch\""
 echo ""
 
 if [ "$READY" != "True" ]; then
