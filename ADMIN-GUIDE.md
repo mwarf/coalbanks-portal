@@ -58,6 +58,10 @@ gallery:
   - src: "https://assets.coalbanks.com/kasko-cattle/location-scouting/photo.jpg"
     alt: "Description of the image"
     caption: "Optional caption shown below image"
+videos:
+  - id: "cloudflare-stream-video-uid"
+    title: "Video title shown below player"
+    poster: "https://optional-thumbnail-url.jpg"
 ---
 ```
 
@@ -78,6 +82,7 @@ gallery:
 |-------|---------|
 | `asset_links` | List of labelled external links (Google Drive, Cloudflare Stream, etc.) |
 | `gallery` | List of images displayed as a photo gallery with lightbox |
+| `videos` | List of Cloudflare Stream videos displayed as branded embedded players |
 
 ---
 
@@ -141,14 +146,10 @@ asset_links:
     url: "https://drive.google.com/file/d/XXXXX/view"
 ```
 
-### Cloudflare Stream (video review)
-For rough cuts and edits that need client review, upload to Cloudflare Stream and link:
+### Cloudflare Stream (video review — embedded player)
+For rough cuts, dailies, and edits that need client review, upload to Cloudflare Stream. Videos can be embedded directly in the portal with a branded player, or linked as an asset.
 
-```yaml
-asset_links:
-  - label: "Rough Cut — Edit 1"
-    url: "https://customer-XXXXX.cloudflarestream.com/XXXXX/watch"
-```
+See the **Video Streaming** section below for full details.
 
 ### Direct URLs
 Any public URL works — Vimeo, YouTube (unlisted), Dropbox share links, Frame.io, etc.
@@ -214,6 +215,111 @@ gallery:
 - Default max width is 2400px — good for detail viewing without huge file sizes
 - Use 1800px for BTS/reference photos where detail doesn't matter as much
 - Write descriptive `alt` text — it helps with accessibility and shows if images fail to load
+
+---
+
+## Video Streaming
+
+Videos are hosted on Cloudflare Stream and embedded in portal pages with a branded player (dark letterbox, Prairie Cinematic title bar). Clients can play, pause, scrub, and fullscreen directly on the portal — no external links needed.
+
+**Cloudflare Stream costs:** $5/month base (1,000 minutes storage) + $1 per 1,000 minutes viewed. For client review, viewing costs are negligible.
+
+### Step 1 — Upload the video
+
+Use the `upload-video.sh` script from the repo root:
+
+```bash
+./upload-video.sh <video-file> "Video Title"
+```
+
+**Examples:**
+
+```bash
+# Upload scouting dailies
+./upload-video.sh /Volumes/A022/kasko-social/kasko-rushes-june-5.mov "Kasko Cattle — Scouting Dailies, June 5"
+
+# Upload a rough cut
+./upload-video.sh ~/Desktop/stranville-edit-1.mp4 "Better Everywhere — Rough Cut Edit 1"
+```
+
+The script will:
+1. Initiate a resumable (tus) upload — handles files up to 30GB
+2. Upload in 100MB chunks with a progress bar
+3. Wait for Cloudflare to process the video
+4. Print YAML frontmatter to paste into your content file
+
+**Requirements:**
+- `CLOUDFLARE_API_TOKEN` set in `.env` (or as an env var) — needs Stream:Edit permission
+- Cloudflare Stream subscription active on your account
+
+### Step 2 — Add the video to your content file
+
+The script outputs something like:
+
+```yaml
+videos:
+  - id: "60e31a4220cb8a545fd0cd7569e15cfc"
+    title: "Kasko Cattle — Scouting Dailies, June 5"
+    poster: "https://customer-....cloudflarestream.com/.../thumbnails/thumbnail.jpg"
+```
+
+Paste the `videos` block into your frontmatter. The `poster` field is optional — if omitted, Stream auto-generates a thumbnail.
+
+### Step 3 — Create the content page
+
+```yaml
+---
+title: "Scouting Dailies — June 5"
+client: kasko-cattle
+publish: true
+status: delivered
+date: 2026-06-05
+type: update
+videos:
+  - id: "60e31a4220cb8a545fd0cd7569e15cfc"
+    title: "Kasko Cattle — Scouting Dailies, June 5"
+---
+
+## Scouting Dailies
+
+Description of the video content and what the client should look for.
+```
+
+The video player renders automatically above the page body — no extra markup needed.
+
+### Multiple Videos Per Page
+
+You can embed multiple videos on a single page:
+
+```yaml
+videos:
+  - id: "abc123..."
+    title: "Rough Cut — Edit 1"
+  - id: "def456..."
+    title: "Rough Cut — Edit 2 (revised)"
+```
+
+Each gets its own branded player card.
+
+### Video + Asset Link (both)
+
+If you want the embedded player AND a direct link (e.g., for the client to share):
+
+```yaml
+videos:
+  - id: "60e31a4220cb8a545fd0cd7569e15cfc"
+    title: "Scouting Dailies — June 5"
+asset_links:
+  - label: "Direct Stream Link — Scouting Dailies"
+    url: "https://customer-31b8f0c35512bdf0006e669ed89ed74a.cloudflarestream.com/60e31a4220cb8a545fd0cd7569e15cfc/watch"
+```
+
+### Video Tips
+- The player is responsive — works on desktop, tablet, and mobile
+- Videos process on Cloudflare's side after upload — allow a few minutes before they're playable
+- `.mov` and `.mp4` are both supported (Stream transcodes everything to HLS/DASH)
+- For very large files (>5GB), the upload may take a while — the script is resumable so you can retry if it fails
+- The branded player matches the portal design — dark `#1A1A1A` letterbox, `#2D2D2D` controls
 
 ---
 
@@ -334,6 +440,8 @@ The site will rebuild and deploy within about 30 seconds of the push.
 | New client | Create folder in `src/content/portal/`, add `index.md`, set up Cloudflare Access |
 | New update | Create `.md` file in client folder with frontmatter |
 | Upload gallery | `./upload-gallery.sh client/gallery /path/to/photos` |
+| Upload video | `./upload-video.sh /path/to/video.mov "Video Title"` |
+| Embed video | Add `videos` array to frontmatter with Stream ID |
 | Link to Google Drive | Add to `asset_links` in frontmatter |
 | Hide a page | Set `publish: false` |
 | Private notes | Prefix filename with `_` |

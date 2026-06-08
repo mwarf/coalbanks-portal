@@ -45,6 +45,10 @@ gallery:
   - src: "https://assets.coalbanks.com/client/gallery/image.jpg"
     alt: "Description of what the image shows"
     caption: "Optional caption"
+videos:
+  - id: "cloudflare-stream-video-uid"
+    title: "Video title shown below the player"
+    poster: "https://optional-custom-thumbnail.jpg"
 ---
 ```
 
@@ -65,6 +69,7 @@ gallery:
 |-------|------|-------|
 | `asset_links` | array of `{label, url}` | External links to files, videos, documents. Both `label` and `url` are required. `url` must be a valid URL with protocol. |
 | `gallery` | array of `{src, alt, caption?}` | Image gallery. `src` must be a full `https://assets.coalbanks.com/...` URL. `alt` is required. `caption` is optional. |
+| `videos` | array of `{id, title, poster?}` | Cloudflare Stream embedded videos. `id` is the Stream video UID (32-character hex string). `title` is displayed below the player. `poster` is an optional custom thumbnail URL. |
 
 ### Validation Rules
 
@@ -72,7 +77,8 @@ gallery:
 - `client` must be an exact match to the folder name — not the display name, not capitalized
 - `date` must be `YYYY-MM-DD` format, not quoted (YAML parses it as a date)
 - `publish` must be bare `true` or `false`, not quoted
-- `asset_links` and `gallery` can be omitted entirely, but if present, every entry must have all required subfields
+- `asset_links`, `gallery`, and `videos` can be omitted entirely, but if present, every entry must have all required subfields
+- Video `id` is a plain string (not a URL) — it's the Cloudflare Stream UID, not a watch link
 
 ---
 
@@ -226,6 +232,39 @@ Send your notes to michael@coalbanks.com by **{deadline date}**.
 {Any specific format preferences for feedback — e.g., timestamps for video, page numbers for documents.}
 ```
 
+### Video Deliverable Template
+
+```markdown
+---
+title: "{Project Name} — {Video Name}"
+client: {client-slug}
+publish: true
+status: in-review
+date: {YYYY-MM-DD}
+type: deliverable
+videos:
+  - id: "{stream-video-uid}"
+    title: "{Video Name} — {Version}"
+---
+
+## What You're Watching
+
+{1 paragraph describing what this video is — rough cut, dailies, final edit, etc.}
+
+## What to Look For
+
+{Guidance on what stage this is and what kind of feedback is useful.}
+
+- {Specific thing to evaluate}
+- {Specific thing to evaluate}
+
+## How to Send Feedback
+
+Send your notes to michael@coalbanks.com by **{deadline date}**.
+
+For video feedback, timestamps are very helpful (e.g., "at 1:32, the transition feels too fast").
+```
+
 ### Feedback Template
 
 ```markdown
@@ -290,6 +329,23 @@ type: update
 
 Uses `gallery` frontmatter with descriptive `alt` text and production-relevant `caption` values. Body adds scouting notes organized by location with numbered key findings.
 
+### Good Video Update (Kasko — Scouting Dailies)
+
+```yaml
+title: "Scouting Dailies — June 5"
+client: kasko-cattle
+status: delivered
+type: update
+videos:
+  - id: "60e31a4220cb8a545fd0cd7569e15cfc"
+    title: "Kasko Cattle — Scouting Dailies, June 5"
+asset_links:
+  - label: "Location Scouting Gallery"
+    url: "https://portal.coalbanks.com/kasko-cattle/location-scouting"
+```
+
+Uses `videos` frontmatter to embed a branded player directly in the page. Body describes what the dailies contain, lists key moments to note, and cross-references the photo gallery. Note: `asset_links` URLs must be full URLs (not relative paths like `/kasko-cattle/...`).
+
 ---
 
 ## Common Mistakes
@@ -306,6 +362,9 @@ Uses `gallery` frontmatter with descriptive `alt` text and production-relevant `
 | `[[Some Link]]` | Standard Markdown: `[Some Link](url)` |
 | Inline links to assets | Use `asset_links` in frontmatter — they render as a styled list |
 | Missing `alt` on gallery | Every gallery image requires `alt` text |
+| `videos: - url: "https://..."` | Use the Stream UID, not a URL: `videos: - id: "60e31a..."` |
+| `asset_links` with relative URL | Must be full URL: `https://portal.coalbanks.com/kasko-cattle/...` not `/kasko-cattle/...` |
+| Missing `title` on video | Every video entry requires a `title` string |
 
 ---
 
