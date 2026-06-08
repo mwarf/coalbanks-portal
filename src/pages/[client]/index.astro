@@ -4,6 +4,7 @@ import PortalLayout from '../../layouts/PortalLayout.astro';
 import DeliverableCard from '../../components/DeliverableCard.astro';
 import AssetLink from '../../components/AssetLink.astro';
 import Gallery from '../../components/Gallery.astro';
+import VideoPlayer from '../../components/VideoPlayer.astro';
 import ProjectSummary from '../../components/ProjectSummary.astro';
 
 export async function getStaticPaths() {
@@ -41,12 +42,17 @@ const pageDate = overviewEntry?.data.date;
 const pageType = overviewEntry?.data.type;
 const assetLinks = overviewEntry?.data.asset_links ?? [];
 const gallery = overviewEntry?.data.gallery ?? [];
+const videos = overviewEntry?.data.videos ?? [];
 ---
 <PortalLayout title={pageTitle} client={client} status={pageStatus} date={pageDate} type={pageType}>
   <ProjectSummary status={pageStatus} entries={otherEntries} fallbackDate={pageDate} />
 
   {assetLinks.length > 0 && (
     <AssetLink links={assetLinks} />
+  )}
+
+  {videos.length > 0 && (
+    <VideoPlayer videos={videos} />
   )}
 
   {OverviewContent && (

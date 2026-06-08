@@ -20,6 +20,11 @@ const portal = defineCollection({
       alt:     z.string(),
       caption: z.string().optional(),
     })).optional(),
+    videos: z.array(z.object({
+      id:      z.string(),                              // Cloudflare Stream video UID
+      title:   z.string(),
+      poster:  z.string().url().optional(),             // custom poster image URL
+    })).optional(),
   }),
 });
 
