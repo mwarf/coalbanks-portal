@@ -6,7 +6,7 @@ status: delivered
 date: 2026-06-05
 type: update
 videos:
-  - id: "60e31a4220cb8a545fd0cd7569e15cfc"
+  - id: "16f3d4237d1e2390c189cdf46ab0c0ed"
     title: "Kasko Cattle — Scouting Dailies, June 5"
 asset_links:
   - label: "Location Scouting Gallery"

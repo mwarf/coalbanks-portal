@@ -128,14 +128,30 @@ while [ $OFFSET -lt $FILE_SIZE ]; do
     "$PROGRESS" "$UPLOADED_MB" "$FILE_SIZE_MB"
 
   # Extract chunk using dd
-  dd if="$VIDEO_FILE" bs=1048576 skip=$((OFFSET / 1048576)) count=$((CURRENT_CHUNK / 1048576 + 1)) 2>/dev/null | \
-    head -c "$CURRENT_CHUNK" > "$CHUNK_FILE"
+  SKIP_BLOCKS=$((OFFSET / 1048576))
+  COUNT_BLOCKS=$((CURRENT_CHUNK / 1048576))
+  REMAINDER_BYTES=$((CURRENT_CHUNK % 1048576))
+
+  if [ $COUNT_BLOCKS -gt 0 ]; then
+    dd if="$VIDEO_FILE" of="$CHUNK_FILE" bs=1048576 skip=$SKIP_BLOCKS count=$COUNT_BLOCKS 2>/dev/null
+  else
+    : > "$CHUNK_FILE"
+  fi
+
+  # Append any remainder bytes (last partial megabyte)
+  if [ $REMAINDER_BYTES -gt 0 ]; then
+    REMAINDER_OFFSET=$(( (SKIP_BLOCKS + COUNT_BLOCKS) * 1048576 ))
+    dd if="$VIDEO_FILE" bs=1 skip=$REMAINDER_OFFSET count=$REMAINDER_BYTES 2>/dev/null >> "$CHUNK_FILE"
+  fi
+
+  ACTUAL_CHUNK=$(stat -f%z "$CHUNK_FILE" 2>/dev/null || stat --printf="%s" "$CHUNK_FILE" 2>/dev/null)
 
   HTTP_CODE=$(curl -s -o /dev/null -w "%{http_code}" -X PATCH "$UPLOAD_URL" \
+    -H "Authorization: Bearer ${API_TOKEN}" \
     -H "Tus-Resumable: 1.0.0" \
     -H "Upload-Offset: ${OFFSET}" \
     -H "Content-Type: application/offset+octet-stream" \
-    -H "Content-Length: ${CURRENT_CHUNK}" \
+    -H "Content-Length: ${ACTUAL_CHUNK}" \
     --data-binary "@${CHUNK_FILE}" \
     2>/dev/null)
 
@@ -147,7 +163,7 @@ while [ $OFFSET -lt $FILE_SIZE ]; do
     exit 1
   fi
 
-  OFFSET=$((OFFSET + CURRENT_CHUNK))
+  OFFSET=$((OFFSET + ACTUAL_CHUNK))
 done
 
 rm -f "$CHUNK_FILE"
