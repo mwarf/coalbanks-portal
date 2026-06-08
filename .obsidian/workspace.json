@@ -11,10 +11,14 @@
             "id": "33b58042757e4465",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "src/content/portal/kasko-cattle/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -177,5 +181,20 @@
     }
   },
   "active": "33b58042757e4465",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "src/content/portal/kasko-cattle/location-scouting.md",
+    "src/content/portal/kasko-cattle/index.md",
+    "dist/index.html",
+    "dist/stranville-living/production-update/index.html",
+    "dist/stranville-living/production-update",
+    "dist/stranville-living/index.html",
+    "dist/stranville-living",
+    "dist/kasko-cattle/location-scouting/index.html",
+    "dist/kasko-cattle/location-scouting",
+    "dist/kasko-cattle/index.html",
+    "dist/kasko-cattle",
+    "dist/_astro/AssetLink.BP-mp9Ru.css",
+    "dist/favicon.svg",
+    "dist/coalbanks-logo.svg"
+  ]
 }

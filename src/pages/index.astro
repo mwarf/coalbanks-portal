@@ -1,5 +1,7 @@
 ---
-// Root index — no public landing page. Return 404.
+// Root index — branded landing page for the client portal.
+// No project list, no login. Just enough to orient a visitor.
+import '../styles/global.css';
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -7,54 +9,110 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="robots" content="noindex, nofollow" />
-  <title>Not Found — Coalbanks Creative</title>
+  <title>Client Portal — Coalbanks Creative</title>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link
     href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap"
     rel="stylesheet"
   />
-  <style>
-    body {
-      font-family: 'Inter', system-ui, sans-serif;
-      background: #F9F8F5;
-      color: #1A1A1A;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      min-height: 100vh;
-      margin: 0;
-      text-align: center;
-    }
-    .not-found {
-      max-width: 400px;
-      padding: 2rem;
-    }
-    h1 {
-      font-family: 'Space Grotesk', system-ui, sans-serif;
-      font-size: 1.5rem;
-      font-weight: 600;
-      color: #2D2D2D;
-      margin-bottom: 0.5rem;
-    }
-    p {
-      color: #6B6B6B;
-      font-size: 0.875rem;
-      line-height: 1.6;
-    }
-    a {
-      color: #2D2D2D;
-    }
-  </style>
 </head>
 <body>
-  <div class="not-found">
-    <h1>Nothing here</h1>
-    <p>
-      If you're looking for your project portal, check the link
-      from your email or contact
-      <a href="mailto:michael@coalbanks.ca">michael@coalbanks.ca</a>.
-    </p>
+  <div class="landing">
+    <div class="landing__card">
+      <img src="/logo-coalbanks.svg" alt="Coalbanks Creative" class="landing__logo" />
+      <div class="landing__rule"></div>
+      <h1 class="landing__title">Client Portal</h1>
+      <p class="landing__body">
+        This is a private project portal for Coalbanks Creative clients.
+        Project updates, deliverables, and review materials are shared here
+        during active productions.
+      </p>
+      <p class="landing__body">
+        If you're a client, use the link from your email to access your project.
+        You'll be asked to verify your email address.
+      </p>
+      <div class="landing__rule"></div>
+      <p class="landing__contact">
+        Questions? Reach out to
+        <a href="mailto:michael@coalbanks.com">michael@coalbanks.com</a>
+      </p>
+      <p class="landing__footer">
+        &copy; Coalbanks Creative Inc. &middot; Lethbridge, Alberta
+      </p>
+    </div>
   </div>
 </body>
 </html>
+
+<style>
+  .landing {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+  }
+
+  .landing__card {
+    max-width: 480px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .landing__logo {
+    width: 200px;
+    height: auto;
+    margin-bottom: 2rem;
+  }
+
+  .landing__rule {
+    width: 48px;
+    height: 1px;
+    background: var(--color-rule);
+    margin: 1.75rem auto;
+  }
+
+  .landing__title {
+    font-family: var(--font-heading);
+    font-size: var(--size-xl);
+    font-weight: 500;
+    color: var(--color-accent);
+    margin: 0 0 1.25rem;
+    letter-spacing: -0.01em;
+  }
+
+  .landing__body {
+    font-family: var(--font-body);
+    font-size: var(--size-sm);
+    color: var(--color-mid);
+    line-height: 1.7;
+    margin: 0 0 0.75rem;
+  }
+
+  .landing__contact {
+    font-family: var(--font-body);
+    font-size: var(--size-sm);
+    color: var(--color-text);
+    margin: 0 0 1.5rem;
+  }
+
+  .landing__contact a {
+    color: var(--color-accent);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  .landing__contact a:hover {
+    color: var(--color-text);
+  }
+
+  .landing__footer {
+    font-family: var(--font-body);
+    font-size: 0.75rem;
+    color: var(--color-mid);
+    margin: 0;
+    letter-spacing: 0.02em;
+  }
+</style>

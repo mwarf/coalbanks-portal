@@ -15,6 +15,11 @@ const portal = defineCollection({
       label: z.string(),
       url:   z.string().url(),
     })).optional(),
+    gallery: z.array(z.object({
+      src:     z.string().url(),
+      alt:     z.string(),
+      caption: z.string().optional(),
+    })).optional(),
   }),
 });
 

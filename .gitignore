@@ -15,5 +15,8 @@ node_modules/
 .DS_Store
 Thumbs.db
 
+# Obsidian
+.obsidian/
+
 # Underscore-prefixed content files (Obsidian drafts)
 src/content/portal/**/_*

@@ -1,20 +1,21 @@
 ---
 import StatusBadge from './StatusBadge.astro';
+import DateStamp from './DateStamp.astro';
+import TypeBadge from './TypeBadge.astro';
+import type { ProjectType } from '../lib/projectTypes';
 
 interface Props {
   title: string;
   status: 'draft' | 'in-review' | 'delivered' | 'approved';
   url?: string;
   date?: Date;
+  type?: ProjectType;
 }
-const { title, status, url, date } = Astro.props;
-
-const formattedDate = date
-  ? date.toLocaleDateString('en-CA', { year: 'numeric', month: 'short', day: 'numeric' })
-  : null;
+const { title, status, url, date, type } = Astro.props;
 ---
 <div class="deliverable-card">
   <div class="deliverable-card__info">
+    {type && <TypeBadge type={type} />}
     {url ? (
       <a href={url} class="deliverable-card__title">{title}</a>
     ) : (
@@ -22,7 +23,9 @@ const formattedDate = date
     )}
     <StatusBadge status={status} />
   </div>
-  {formattedDate && (
-    <span class="deliverable-card__date">{formattedDate}</span>
+  {date && (
+    <span class="deliverable-card__date">
+      <DateStamp date={date} format="short" />
+    </span>
   )}
 </div>

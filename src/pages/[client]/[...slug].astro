@@ -2,6 +2,7 @@
 import { getCollection, render } from 'astro:content';
 import PortalLayout from '../../layouts/PortalLayout.astro';
 import AssetLink from '../../components/AssetLink.astro';
+import Gallery from '../../components/Gallery.astro';
 
 export async function getStaticPaths() {
   const entries = await getCollection('portal', (e) => e.data.publish === true);
@@ -22,15 +23,20 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await render(entry);
 const assetLinks = entry.data.asset_links ?? [];
+const gallery = entry.data.gallery ?? [];
 ---
 <PortalLayout
   title={entry.data.title}
   client={entry.data.client}
   status={entry.data.status}
   date={entry.data.date}
+  type={entry.data.type}
 >
   {assetLinks.length > 0 && (
     <AssetLink links={assetLinks} />
   )}
   <Content />
+  {gallery.length > 0 && (
+    <Gallery images={gallery} title={entry.data.title} />
+  )}
 </PortalLayout>

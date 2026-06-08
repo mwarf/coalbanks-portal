@@ -1,0 +1,64 @@
+---
+import StatusBadge from './StatusBadge.astro';
+import DateStamp from './DateStamp.astro';
+import type { ProjectType } from '../lib/projectTypes';
+import { typeLabel, typeLabelPlural, typeOrder } from '../lib/projectTypes';
+
+interface SummaryEntry {
+  data: { type: ProjectType; date: Date };
+}
+
+interface Props {
+  status?: 'draft' | 'in-review' | 'delivered' | 'approved';
+  entries: SummaryEntry[];
+  fallbackDate?: Date;
+}
+const { status, entries, fallbackDate } = Astro.props;
+
+// Latest activity = most recent date across all timeline entries.
+const dates = entries.map((e) => e.data.date);
+if (fallbackDate) dates.push(fallbackDate);
+const latestDate = dates.length
+  ? new Date(Math.max(...dates.map((d) => d.getTime())))
+  : null;
+
+// Count items per type, preserving the canonical display order.
+const counts = new Map<ProjectType, number>();
+for (const e of entries) {
+  counts.set(e.data.type, (counts.get(e.data.type) ?? 0) + 1);
+}
+const itemParts = typeOrder
+  .filter((t) => counts.has(t))
+  .map((t) => {
+    const n = counts.get(t)!;
+    return `${n} ${n === 1 ? typeLabel[t] : typeLabelPlural[t]}`;
+  });
+
+const hasStats = latestDate || itemParts.length > 0;
+---
+{(status || hasStats) && (
+  <section class="project-summary" aria-label="Project status summary">
+    {status && (
+      <div class="project-summary__main">
+        <span class="project-summary__label">Project Status</span>
+        <StatusBadge status={status} />
+      </div>
+    )}
+    {hasStats && (
+      <dl class="project-summary__stats">
+        {latestDate && (
+          <div class="project-summary__stat">
+            <dt>Latest activity</dt>
+            <dd><DateStamp date={latestDate} format="short" /></dd>
+          </div>
+        )}
+        {itemParts.length > 0 && (
+          <div class="project-summary__stat">
+            <dt>Timeline</dt>
+            <dd class="project-summary__items">{itemParts.join(' · ')}</dd>
+          </div>
+        )}
+      </dl>
+    )}
+  </section>
+)}

@@ -1,0 +1,166 @@
+---
+import { Image } from 'astro:assets';
+
+interface GalleryImage {
+  src: string;
+  alt: string;
+  caption?: string;
+}
+
+interface Props {
+  images: GalleryImage[];
+  title?: string;
+}
+
+const { images, title } = Astro.props;
+const [hero, ...rest] = images;
+const totalCount = images.length;
+---
+<section class="gallery" aria-label="Image gallery">
+  {/* Hero — first image, full width */}
+  {hero && (
+    <figure class="gallery__hero gallery__reveal">
+      <button type="button" class="gallery__hero-link" data-lightbox="0" aria-label={`View: ${hero.alt}`}>
+        <Image
+          src={hero.src}
+          alt={hero.alt}
+          width={1440}
+          height={810}
+          format="webp"
+          quality={85}
+          loading="eager"
+          class="gallery__hero-img"
+        />
+        <div class="gallery__hero-scrim">
+          <div class="gallery__hero-text">
+            {title && <h2 class="gallery__hero-title">{title}</h2>}
+            {hero.caption && <p class="gallery__hero-sub">{hero.caption}</p>}
+          </div>
+          <span class="gallery__hero-count">{totalCount} photos</span>
+        </div>
+      </button>
+    </figure>
+  )}
+
+  {/* Masonry — remaining images */}
+  {rest.length > 0 && (
+    <div class="gallery__masonry">
+      {rest.map((img, i) => (
+        <figure class="gallery__tile gallery__reveal">
+          <button type="button" class="gallery__tile-link" data-lightbox={String(i + 1)} aria-label={`View: ${img.alt}`}>
+            <Image
+              src={img.src}
+              alt={img.alt}
+              width={720}
+              height={480}
+              format="webp"
+              quality={80}
+              loading="lazy"
+              class="gallery__tile-img"
+            />
+            <div class="gallery__tile-overlay">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="m21 15-5-5L5 21"/></svg>
+            </div>
+          </button>
+        </figure>
+      ))}
+    </div>
+  )}
+</section>
+
+{/* Lightbox overlay */}
+<div class="lightbox" id="galleryLightbox" role="dialog" aria-modal="true" aria-label="Image viewer" hidden>
+  <div class="lightbox__backdrop"></div>
+  <button class="lightbox__close" aria-label="Close viewer" type="button">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+  </button>
+  <button class="lightbox__nav lightbox__nav--prev" aria-label="Previous image" type="button">
+    <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+  </button>
+  <button class="lightbox__nav lightbox__nav--next" aria-label="Next image" type="button">
+    <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
+  </button>
+  <div class="lightbox__stage">
+    <img class="lightbox__img" src="" alt="" />
+  </div>
+  <div class="lightbox__footer">
+    <p class="lightbox__caption"></p>
+    <span class="lightbox__counter"></span>
+  </div>
+</div>
+
+{/* Hidden data for lightbox JS */}
+<script id="galleryData" type="application/json" set:html={JSON.stringify(images.map(img => ({
+  src: img.src,
+  alt: img.alt,
+  caption: img.caption || '',
+})))} />
+
+<script>
+  // Reveal animation
+  const reveals = document.querySelectorAll('.gallery__reveal');
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((e) => {
+      if (e.isIntersecting) {
+        e.target.classList.add('gallery__visible');
+        observer.unobserve(e.target);
+      }
+    });
+  }, { threshold: 0.1, rootMargin: '0px 0px 60px 0px' });
+  reveals.forEach((el) => observer.observe(el));
+
+  // Lightbox
+  const lightbox = document.getElementById('galleryLightbox')!;
+  const lbImg = lightbox.querySelector('.lightbox__img') as HTMLImageElement;
+  const lbCaption = lightbox.querySelector('.lightbox__caption')!;
+  const lbCounter = lightbox.querySelector('.lightbox__counter')!;
+  const images = JSON.parse(document.getElementById('galleryData')!.textContent!) as Array<{src: string; alt: string; caption: string}>;
+  let current = 0;
+
+  function show(index: number) {
+    current = ((index % images.length) + images.length) % images.length;
+    const img = images[current];
+    lbImg.src = img.src;
+    lbImg.alt = img.alt;
+    lbCaption.textContent = img.caption;
+    lbCounter.textContent = `${current + 1} / ${images.length}`;
+    lightbox.hidden = false;
+    document.body.style.overflow = 'hidden';
+  }
+
+  function close() {
+    lightbox.hidden = true;
+    document.body.style.overflow = '';
+  }
+
+  // Open triggers
+  document.querySelectorAll('[data-lightbox]').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      show(parseInt((btn as HTMLElement).dataset.lightbox!, 10));
+    });
+  });
+
+  // Controls
+  lightbox.querySelector('.lightbox__close')!.addEventListener('click', close);
+  lightbox.querySelector('.lightbox__backdrop')!.addEventListener('click', close);
+  lightbox.querySelector('.lightbox__nav--prev')!.addEventListener('click', () => show(current - 1));
+  lightbox.querySelector('.lightbox__nav--next')!.addEventListener('click', () => show(current + 1));
+
+  // Keyboard
+  document.addEventListener('keydown', (e) => {
+    if (lightbox.hidden) return;
+    if (e.key === 'Escape') close();
+    if (e.key === 'ArrowLeft') show(current - 1);
+    if (e.key === 'ArrowRight') show(current + 1);
+  });
+
+  // Swipe support
+  let touchStartX = 0;
+  lightbox.addEventListener('touchstart', (e) => { touchStartX = e.touches[0].clientX; }, { passive: true });
+  lightbox.addEventListener('touchend', (e) => {
+    const dx = e.changedTouches[0].clientX - touchStartX;
+    if (Math.abs(dx) > 50) {
+      dx > 0 ? show(current - 1) : show(current + 1);
+    }
+  });
+</script>

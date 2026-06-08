@@ -1,5 +1,8 @@
 ---
 import StatusBadge from '../components/StatusBadge.astro';
+import DateStamp from '../components/DateStamp.astro';
+import TypeBadge from '../components/TypeBadge.astro';
+import type { ProjectType } from '../lib/projectTypes';
 import '../styles/global.css';
 
 interface Props {
@@ -7,19 +10,16 @@ interface Props {
   client:  string;
   status?: 'draft' | 'in-review' | 'delivered' | 'approved';
   date?:   Date;
+  type?:   ProjectType;
 }
 
-const { title, client, status, date } = Astro.props;
+const { title, client, status, date, type } = Astro.props;
 
 // Convert slug to display name: "stranville-living" → "Stranville Living"
 const clientDisplayName = client
   .split('-')
   .map((word: string) => word.charAt(0).toUpperCase() + word.slice(1))
   .join(' ');
-
-const formattedDate = date
-  ? date.toLocaleDateString('en-CA', { year: 'numeric', month: 'long', day: 'numeric' })
-  : null;
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -40,9 +40,8 @@ const formattedDate = date
   <div class="portal-wrapper">
     <!-- Header -->
     <header class="portal-header">
-      <a href={`/${client}/`} class="portal-header__logo">
-        <img src="/coalbanks-logo.svg" alt="Coalbanks Creative" />
-        <span>Coalbanks Creative</span>
+      <a href={`/${client}/`} class="portal-header__logo" aria-label="Coalbanks Creative — home">
+        <img src="/logo-coalbanks.svg" alt="Coalbanks Creative" />
       </a>
       <a href="mailto:michael@coalbanks.ca" class="portal-header__contact">
         michael@coalbanks.ca
@@ -60,10 +59,11 @@ const formattedDate = date
     <main class="portal-main">
       <div class="page-header">
         <h1>{title}</h1>
-        {(status || formattedDate) && (
+        {(status || date || type) && (
           <div class="page-header__meta">
+            {type && <TypeBadge type={type} />}
             {status && <StatusBadge status={status} />}
-            {formattedDate && <time>{formattedDate}</time>}
+            {date && <DateStamp date={date} format="long" />}
           </div>
         )}
       </div>
