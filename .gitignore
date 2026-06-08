@@ -13,10 +13,18 @@ node_modules/
 
 # OS files
 .DS_Store
+._*
 Thumbs.db
 
 # Obsidian
 .obsidian/
+
+# Wrangler local state
+.wrangler/
+
+# Editor config
+.claude/
+.vscode/
 
 # Underscore-prefixed content files (Obsidian drafts)
 src/content/portal/**/_*
