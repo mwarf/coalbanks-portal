@@ -5,13 +5,6 @@ publish: true
 status: approved
 date: 2026-06-10
 type: brief
-asset_links:
-  - label: "Approved Video Proposal (v4)"
-    url: "https://example.com/KASKO-proposal-video.pdf"
-  - label: "Central Farms History"
-    url: "https://example.com/central-farms-history.pdf"
-  - label: "Signed SOW — Phase 1"
-    url: "https://example.com/kasko-sow-signed.pdf"
 ---
 
 ## Project Scope

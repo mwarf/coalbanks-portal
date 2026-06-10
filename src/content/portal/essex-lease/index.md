@@ -5,11 +5,6 @@ publish: true
 status: approved
 date: 2026-06-10
 type: brief
-asset_links:
-  - label: "Statement of Work — ELFC-40-2026"
-    url: "https://drive.google.com/file/d/1ExampleEssexSOW/view"
-  - label: "Leadership Discussion Summary"
-    url: "https://drive.google.com/file/d/1ExampleEssexLeadership/view"
 ---
 
 ## Project Scope

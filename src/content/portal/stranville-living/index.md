@@ -5,13 +5,6 @@ publish: true
 status: draft
 date: 2026-06-10
 type: brief
-asset_links:
-  - label: "Campaign Proposal — Better Everywhere (v2)"
-    url: "https://drive.google.com/file/d/1ExampleStranvilleProposalV2/view"
-  - label: "Statement of Work — SOW-2026-001 (Signed)"
-    url: "https://drive.google.com/file/d/1ExampleStranvilleSOW/view"
-  - label: "Master Services Agreement (Signed)"
-    url: "https://drive.google.com/file/d/1ExampleStranvilleMSA/view"
 ---
 
 ## Project Scope
