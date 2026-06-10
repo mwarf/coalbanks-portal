@@ -7,33 +7,34 @@ date: 2026-05-10
 type: update
 ---
 
-## Project Scope Expands to Full Package
+## Campaign Approved at Full Package
 
-After months of conversation and creative development, the "Better Everywhere" campaign has been approved at the **full package tier** — $22,000 + GST.
-
-What started as a single anthem film has grown into a complete content suite:
-
-- **Brand anthem film** — the hero piece showcasing Stranville's geographic and architectural diversity
-- **Two documentary profiles** — real homeowners, real stories
-- **12–15 social reels** — built from production footage for year-round rollout
-- **Community aerial + FPV content** — Crowsnest Pass, Sparwood, Coaldale, and Lethbridge
+After months of creative development, the "Better Everywhere" campaign has been approved at the **full package tier**. What started as a single anthem film has grown into a complete content suite covering Stranville's entire Southern Alberta footprint.
 
 ### How We Got Here
 
 | Date | Milestone |
 |------|-----------|
-| Nov 2025 | Initial campaign concepts shared |
-| Feb 2026 | Reconnected, meeting scheduled |
-| Mar 4 | Discovery meeting with Sheva and Dell |
-| Mar 24 | Proposal v1 sent |
-| Mar 26 | Developer partner concept introduced |
-| Apr 29 | Developer approved — green light |
-| May 8 | Sheva confirmed full package scope |
+| Nov 2025 | Initial campaign concepts shared — "Better Everywhere" and "Because Home Matters" |
+| Feb 2026 | Reconnected after the holidays, meeting scheduled |
+| Mar 4 | Discovery meeting with Sheva Whitehead and Dell Matthews |
+| Mar 24 | Proposal v1 sent — "Better Everywhere" direction |
+| Mar 26 | Scope evolves — developer partner concept introduced for community content |
+| Apr 13 | Michael checks in on timeline |
+| Apr 16 | Sheva confirms **75–80% to green light** — developer buy-in the remaining piece |
+| Apr 29 | **Developer approved — full green light** 🟢 |
+| May 8 | Sheva confirms full package scope — anthem + profiles + reels + aerial |
 | May 10 | Budget and scope locked |
-| May 14 | SOW + MSA sent for signature |
+
+### Creative Direction
+
+The campaign centres on a single idea: **"Better" isn't defined by size or budget — it's about the experience, craftsmanship, and care every customer receives.** Whether it's a first home in Coaldale, a mountain estate in Crowsnest Pass, or an investment property in Sparwood — you deserve better.
+
+Key production elements:
+- **Geographic diversity** — mountain, rural, and urban environments in a single campaign
+- **Real people** — homeowner testimonials and community moments, not empty rooms
+- **Year-round content** — a library of social reels built from production footage
 
 ## What's Next
 
-We're preparing production logistics — location scouting across Stranville's properties, coordinating homeowner availability, and planning shoot windows for June. We'll share a detailed production schedule once the agreement is finalized.
-
-Questions? Reach out to michael@coalbanks.ca.
+SOW and Master Services Agreement are being prepared for signature. Once signed and deposit received, we'll begin location scouting and coordinate shoot dates for June.
