@@ -1,42 +1,39 @@
 ---
-title: "Better Everywhere — Production Update"
+title: "Better Everywhere — Full Package Green Light"
 client: stranville-living
 publish: true
-status: in-review
-date: 2026-06-05
+status: delivered
+date: 2026-05-10
 type: update
-asset_links:
-  - label: "Rough Cut — Edit 1"
-    url: "https://stream.cloudflare.com/example-rough-cut"
-  - label: "Script Draft"
-    url: "https://drive.google.com/example-script"
 ---
 
-## Shoot Day Recap
+## Project Scope Expands to Full Package
 
-Principal photography wrapped June 2. We captured all planned sequences at the Hemsdale show home and surrounding community areas.
+After months of conversation and creative development, the "Better Everywhere" campaign has been approved at the **full package tier** — $22,000 + GST.
 
-### Hemsdale Show Home
+What started as a single anthem film has grown into a complete content suite:
 
-The match-cut concept worked beautifully in practice. We shot the exterior approach, living room reveal, and kitchen detail sequences with two camera angles each to give us flexibility in the edit.
+- **Brand anthem film** — the hero piece showcasing Stranville's geographic and architectural diversity
+- **Two documentary profiles** — real homeowners, real stories
+- **12–15 social reels** — built from production footage for year-round rollout
+- **Community aerial + FPV content** — Crowsnest Pass, Sparwood, Coaldale, and Lethbridge
 
-### Community Lifestyle
+### How We Got Here
 
-B-roll coverage included:
-- Walking paths and green spaces
-- Playground and community gathering area
-- Neighbourhood streetscape at golden hour
+| Date | Milestone |
+|------|-----------|
+| Nov 2025 | Initial campaign concepts shared |
+| Feb 2026 | Reconnected, meeting scheduled |
+| Mar 4 | Discovery meeting with Sheva and Dell |
+| Mar 24 | Proposal v1 sent |
+| Mar 26 | Developer partner concept introduced |
+| Apr 29 | Developer approved — green light |
+| May 8 | Sheva confirmed full package scope |
+| May 10 | Budget and scope locked |
+| May 14 | SOW + MSA sent for signature |
 
-## Edit Timeline
+## What's Next
 
-| Milestone | Target Date |
-|-----------|-------------|
-| Rough cut review | June 10, 2026 |
-| Revision round | June 17, 2026 |
-| Final delivery | July 1, 2026 |
+We're preparing production logistics — location scouting across Stranville's properties, coordinating homeowner availability, and planning shoot windows for June. We'll share a detailed production schedule once the agreement is finalized.
 
-## Your Action Items
-
-1. Review the rough cut using the link above
-2. Note any specific moments or sequences that need adjustment
-3. Send consolidated feedback to michael@coalbanks.ca by **June 20**
+Questions? Reach out to michael@coalbanks.ca.
