@@ -35,7 +35,7 @@ type: brief
 | Full package scope locked | May 10 | ✅ Complete |
 | SOW + MSA sent for signature | May 14 | ✅ Sent |
 | SOW + MSA signed | Jun 9 | ✅ Signed |
-| Deposit received | — | ⏳ Pending |
+| Deposit received | Jun 10 | ✅ Received |
 | Location scouting | June | ⏳ Planned |
 | Principal photography | June–July | ⏳ Planned |
 | Final delivery | TBD | ⏳ Planned |
@@ -45,7 +45,7 @@ type: brief
 - ✅ Developer partner approved the investment (April 29)
 - ✅ Full package scope confirmed (May 10)
 - ✅ SOW and Master Services Agreement **signed** (June 9)
-- ⏳ Deposit payment pending
+- ✅ Deposit payment **received** (June 10)
 - ⏳ Assigning shoot dates — in progress
 
 ## Next Step for You
