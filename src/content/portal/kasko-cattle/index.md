@@ -40,7 +40,7 @@ The story arc spans three generations — Les & Betty's generation, Ryan & his s
 - ✅ Proposal and Scope of Work signed (June 3)
 - ✅ Phase 1 deposit received — $18,060 via EFT (June 4)
 - ✅ Pre-production "before" footage captured (June 4) — community garden, new HQ, community kitchen site
-- ⏳ Archival session at Central Farms — **tomorrow, June 11**
+- ⏳ Archival session at Kasko Head office — **tomorrow, June 11**
 - ⏳ Coordinating with Nate (architect) and Todd (feedlot manager)
 
 ## Next Step for You
