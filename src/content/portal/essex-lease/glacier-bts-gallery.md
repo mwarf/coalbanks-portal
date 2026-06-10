@@ -5,6 +5,9 @@ publish: true
 status: delivered
 date: 2026-04-21
 type: update
+asset_links:
+  - label: "Full Resolution Photos (Google Drive)"
+    url: "https://drive.google.com/drive/folders/1nJO-hvWcL1A5uAjRT61OyA4oZGTHJ4im?usp=drive_link"
 gallery:
   - src: "https://assets.coalbanks.com/essex-lease/glacier-bts/DSC03708.webp"
     alt: "Videographer operating gimbal-mounted cinema camera on the Icefields Parkway construction site"

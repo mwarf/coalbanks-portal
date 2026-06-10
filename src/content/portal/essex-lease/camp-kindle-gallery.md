@@ -5,6 +5,9 @@ publish: true
 status: delivered
 date: 2026-05-29
 type: update
+asset_links:
+  - label: "Full Resolution Photos (Google Drive)"
+    url: "https://drive.google.com/drive/folders/1aL9B6R0f8usGYp-grahx3soel9MkiMaw?usp=drive_link"
 gallery:
   - src: "https://assets.coalbanks.com/essex-lease/camp-kindle-excavator/essex-excavator.webp"
     alt: "Close-up of the yellow excavator-themed treehouse at Camp Kindle with 'Danger: Kidstruction Zone' signage, safety vests, and black tube slide among birch and spruce"
