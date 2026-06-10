@@ -23,10 +23,7 @@ This is ungraded, uncut footage from the scouting day — it's meant to give you
 
 ### Key Moments to Note
 
-- **Feedlot overview** — establishing shot angles from multiple elevations
-- **North Pasture** — sunrise light tests for day 1 drone work
-- **Processing area** — interior natural light assessment
-- **Property wide shots** — full scope establishing angles
+- **Community Garden** — progress "before" shots
 
 ### Related
 

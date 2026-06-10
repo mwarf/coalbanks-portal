@@ -17,14 +17,14 @@ The story arc spans three generations — Les & Betty's generation, Ryan & his s
 
 ### What's Being Captured
 
-| Element | Purpose |
-|---------|---------|
-| **Parent interviews** | Legacy content — public film or private family piece for Ryan's kids |
-| **Community kitchen site** | "Before" footage — construction starts soon |
-| **Current HQ + community garden** | Documenting the operation in transition |
-| **Feedlot operations** | Day-to-day ranch life with Todd (feedlot manager) |
-| **Three-generation family moments** | The emotional core of the film |
-| **Central Farms archives** | Historical photos and documents for the narrative |
+| Element                             | Purpose                                                              |
+| ----------------------------------- | -------------------------------------------------------------------- |
+| **Parent interviews**               | Legacy content — public film or private family piece for Ryan's kids |
+| **Community kitchen site**          | "Before" footage — construction starts soon                          |
+| **Current HQ + community garden**   | Documenting the operation in transition                              |
+| **Feedlot operations**              | Day-to-day life with Todd (feedlot manager)                          |
+| **Three-generation family moments** | The emotional core of the film                                       |
+| **Central Farms archives**          | Historical photos and documents for the narrative                    |
 
 ## Production Schedule
 
@@ -40,11 +40,11 @@ The story arc spans three generations — Les & Betty's generation, Ryan & his s
 - ✅ Proposal and Scope of Work signed (June 3)
 - ✅ Phase 1 deposit received — $18,060 via EFT (June 4)
 - ✅ Pre-production "before" footage captured (June 4) — community garden, new HQ, community kitchen site
-- ⏳ Archival session at Kasko Head office — **tomorrow, June 11**
+- ⏳ Archival session at Kasko Head Office — **tomorrow, June 11**
 - ⏳ Coordinating with Nate (architect) and Todd (feedlot manager)
 
 ## Next Step for You
 
-We're all set for the archival session at Central Farms tomorrow. Ryan — if there are any specific family photos, documents, or memorabilia you'd like us to scan or photograph, please have them ready.
+We're all set for the archival session at your head office tomorrow. Ryan — if there are any specific family photos, documents, or memorabilia you'd like us to scan or photograph, please have them ready.
 
 Questions? Reach out to **michael@coalbanks.ca**.

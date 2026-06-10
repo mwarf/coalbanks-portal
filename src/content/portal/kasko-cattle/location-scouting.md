@@ -55,12 +55,8 @@ gallery:
 
 ## Scouting Notes
 
-We spent Tuesday morning walking the primary feedlot and the pasture land to the north. The lighting at the north pasture is going to be spectacular for sunrise drone work.
+3:30 pm - 6pm offers the better opportunity for the sun to land on the signage, tile mosaic and office entrance. Our scouting photos were taken in a high contrast window, and aren't ideal. It would be great to capture the entrance from the same position at midday, sunset and evening, given the changing skies and the backlit presentation of the signage on the mosaic wall.
 
-### Key Locations Identified
 
-1. **North Pasture:** Ideal for sunrise and early morning herd shots. We'll start day 1 here at 5:30 AM.
-2. **Processing Barn:** Great natural light through the east doors. We'll want to shoot the veterinary sequences here mid-morning.
-3. **Main Office:** We'll use the boardroom for the family interview setups.
 
-The gallery above contains reference photos of these locations with notes on where we plan to place cameras.
+The gallery above contains reference photos of some of the locations that are part of this project (particularly the community garden and greenhouse progress stages.)
