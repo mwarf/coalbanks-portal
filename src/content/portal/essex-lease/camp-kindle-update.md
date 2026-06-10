@@ -5,6 +5,9 @@ publish: true
 status: delivered
 date: 2026-05-29
 type: update
+asset_links:
+  - label: "Excavator Treehouse — Photo Gallery"
+    url: "https://portal.coalbanks.com/essex-lease/camp-kindle-gallery"
 ---
 
 ## Camp Kindle — Shane Homes Treehouse Village
