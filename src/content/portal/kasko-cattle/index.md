@@ -3,7 +3,7 @@ title: "Brand Film — Project Overview & Brief"
 client: kasko-cattle
 publish: true
 status: approved
-date: 2026-06-10
+date: 2026-06-11
 type: brief
 ---
 
@@ -25,13 +25,14 @@ The story arc spans three generations — Les & Betty's generation, Ryan & his s
 | **Feedlot operations**              | Day-to-day life with Todd (feedlot manager)                          |
 | **Three-generation family moments** | The emotional core of the film                                       |
 | **Central Farms archives**          | Historical photos and documents for the narrative                    |
+| **Greenhouse & flowerbeds**         | Family working together — captured June 11                           |
 
 ## Production Schedule
 
 | Date | Event | Location | Status |
 |------|-------|----------|--------|
 | **Jun 4** | Pre-production "before" visit | Central Farms / New HQ | ✅ Complete |
-| **Jun 11** | Archival scan session | Central Farms | ⏳ Tomorrow |
+| **Jun 11** | Archival scan session + family in greenhouse & flowerbeds | Central Farms | ✅ Complete |
 | **Jun 18–19** | Team meetings + b-roll | Moose Lodge, Banff | ⏳ Planned |
 | **Jun 29** | Family meeting & interviews | New Office / Yard, Coaldale | ⏳ Planned |
 
@@ -40,11 +41,14 @@ The story arc spans three generations — Les & Betty's generation, Ryan & his s
 - ✅ Proposal and Scope of Work signed (June 3)
 - ✅ Phase 1 deposit received — $18,060 via EFT (June 4)
 - ✅ Pre-production "before" footage captured (June 4) — community garden, new HQ, community kitchen site
-- ⏳ Archival session at Kasko Head Office — **tomorrow, June 11**
+- ✅ **Archival session complete (June 11)** — scanned historical family photos and documents at Central Farms
+- ✅ **Impromptu shoot (June 11)** — captured family members working in the greenhouse and planting in the outdoor flowerbeds. Unplanned but great material for the three-generation story.
 - ⏳ Coordinating with Nate (architect) and Todd (feedlot manager)
 
 ## Next Step for You
 
-We're all set for the archival session at your head office tomorrow. Ryan — if there are any specific family photos, documents, or memorabilia you'd like us to scan or photograph, please have them ready.
+The archival material is in hand and the greenhouse footage adds a beautiful, authentic layer to the story. Next up is the Banff trip (June 18–19), followed by the main family meeting and interviews in Coaldale on June 29.
+
+Ryan — if there are any specific family photos or documents that came to mind after today's session, let us know and we can arrange a follow-up scan.
 
 Questions? Reach out to **michael@coalbanks.ca**.
