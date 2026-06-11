@@ -12,7 +12,7 @@ videos:
 
 ## Archival Session Dailies
 
-Raw dailies from our June 11 session at Central Farms. The day had two parts: scanning archival family photos and documents, and an impromptu shoot with family members working in the greenhouse and planting in the outdoor flowerbeds.
+Raw dailies from our June 11 session at Kasko main office. The day had two parts: scanning archival family photos and documents, and an impromptu shoot with family members working in the greenhouse and planting in the outdoor flowerbeds.
 
 ### What You're Seeing
 
@@ -22,6 +22,6 @@ This is ungraded, uncut footage — selects from the day's shoot. The final prod
 
 - **Archival scanning** — historical family photos and documents captured for use in the brand film
 - **Greenhouse work** — family members working together in the greenhouse
-- **Outdoor flowerbed planting** — impromptu moments of the family planting in the flowerbeds
+- **Outdoor flowerbed planting** — impromptu moments of Parker planting in the flowerbeds
 
 These greenhouse and flowerbed scenes were unplanned but add a warmth and authenticity that fits perfectly with the three-generation story.
