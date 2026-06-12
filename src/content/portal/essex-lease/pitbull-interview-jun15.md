@@ -34,6 +34,22 @@ On June 15, we're filming the Pitbull Energy Services interview at their trainin
 - Big classroom available for staged interview setup
 - Full CSA-approved PPE required on-site
 
+## Cost Estimate (Sent Jun 12)
+
+This shoot day falls outside the original SOW scope locations (>50km from Calgary). Travel expenses billed at cost per SOW Section 5.3.
+
+| Item | Cost |
+|------|------|
+| Shoot Day (Michael Warf) | $1,150.00 |
+| Truck Rental (2 days @ $139.96) | $279.92 |
+| Accommodation (1 night, Wetaskiwin) | $232.25 |
+| Mileage (710 km @ $0.72/km) | $511.20 |
+| **Subtotal** | **$2,173.37** |
+| GST (5%) | $108.67 |
+| **Total** | **$2,282.04** |
+
+*Estimate sent to Carissa Kirk Jun 12. Awaiting approval.*
+
 ## After This Shoot
 
 Footage from this session will form the Pitbull customer story segment in the hero film. We'll share selects after the edit begins.
