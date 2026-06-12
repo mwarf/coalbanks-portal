@@ -58,8 +58,23 @@ Client interviews that demonstrate Essex's flexibility compared to traditional b
 - ✅ Boden Sand & Gravel interview complete
 - ✅ Pitbull interview confirmed for June 15 at SATO Millet
 - ✅ NAV Drone operation approved
+- 💵 **Cost estimate sent to Carissa** (Jun 12) — Pitbull shoot day + travel: **$2,282.04 incl GST**
 - ⏳ Pre-interview call with Sami (Pitbull) — awaiting reply
 - ⏳ Ross Sten interview + additional customer interview — June 24 (unconfirmed)
+
+### Pitbull / SATO Shoot Day — Cost Estimate (Jun 12)
+
+| Item | Cost |
+|------|------|
+| Shoot Day (Michael Warf) | $1,150.00 |
+| Truck Rental (2 days) | $279.92 |
+| Accommodation (1 night, Wetaskiwin) | $232.25 |
+| Mileage (710 km @ $0.72/km) | $511.20 |
+| **Subtotal** | **$2,173.37** |
+| GST (5%) | $108.67 |
+| **Total** | **$2,282.04** |
+
+Travel billed at cost per SOW Section 5.3. Awaiting Carissa's approval.
 
 ## Next Step for You
 
