@@ -1,55 +1,40 @@
 ---
-title: "Pitbull Energy Services — Interview Day"
+title: "Pitbull Energy Services — SATO Shoot Recap"
 client: essex-lease
 publish: true
-status: draft
+status: delivered
 date: 2026-06-15
 type: update
+videos:
+  - id: "ac3c7119f8308b87cf0050a3688c5d79"
+    title: "Pitbull Energy — Environmental Video Portrait (B-roll Sample)"
 ---
 
-## Filming at SATO Canada Training Facility — Millet, AB
+## SATO Canada Training Facility — Millet, AB
 
-On June 15, we're filming the Pitbull Energy Services interview at their training facility in Millet, Alberta. This is a key customer story for the 40th anniversary film — Essex helped Pitbull navigate the downturn when oil dropped to $30/barrel, and their partnership has only grown since.
+Filming wrapped June 15 at the SATO Canada training facility in Millet. The day gave us everything we were after — a strong interview with Sami, great equipment footage, and some unexpected gems from the training facility.
 
-### Who's Involved
+### Interview
 
-| Person | Role |
-|--------|------|
-| **Sami Hayek** | Pitbull Energy Services — primary interview |
-| **Danielle Thorkelsson** | Pitbull Energy Services — participant |
-| **Michael Warf** | Director / Camera |
-| **Ashley** | SATO on-site coordinator |
+Two-camera sit-down with **Sami Hayek** and **Danielle Thorkelsson** from Pitbull Energy Services. Their perspective on how Essex supported them through the downturn — and what the relationship looks like day-to-day — is exactly the customer story this film needs.
 
-### What We're Capturing
+### Footage Captured
 
-- **Sit-down interview** with Sami — how Essex supported Pitbull through the downturn, what the relationship means operationally
-- **Facility B-roll** — training equipment, operations, team in action
-- **Hero shot** — staged track hoe as background element (weather permitting)
-- **Equipment staging** — truck positioned for a signature "Essex-financed equipment in action" shot
+- ✅ **Two-camera interview** — Sami & Danielle, full conversation captured
+- ✅ **Drone footage** — aerial coverage of the SATO site and surrounding area
+- ✅ **Water truck** — interior cab shots and exterior tracking
+- ✅ **Classroom facility** — b-roll of the training space
+- ✅ **Truck driving simulator** — action shots of operators in the sim
+- ✅ **Drilling rig** — action shots on-site
 
-### Location Details
+## Sample Footage — Environmental Video Portrait
 
-- **SATO Canada Training Facility** — Millet, AB
-- Crew on-site daily from 7:30 AM — morning preferred for interview (students arrive afternoons)
-- Big classroom available for staged interview setup
-- Full CSA-approved PPE required on-site
+Below is a short environmental video portrait captured during the shoot. This type of footage will be used as b-roll layered beneath Sami's interview audio in the final edit — giving visual context to the story without cutting away to talking heads.
 
-## Cost Estimate (Sent Jun 12)
+It's a small taste of the look and feel we're building toward.
 
-This shoot day falls outside the original SOW scope locations (>50km from Calgary). Travel expenses billed at cost per SOW Section 5.3.
+## What's Next
 
-| Item | Cost |
-|------|------|
-| Shoot Day (Michael Warf) | $1,150.00 |
-| Truck Rental (2 days @ $139.96) | $279.92 |
-| Accommodation (1 night, Wetaskiwin) | $232.25 |
-| Mileage (710 km @ $0.72/km) | $511.20 |
-| **Subtotal** | **$2,173.37** |
-| GST (5%) | $108.67 |
-| **Total** | **$2,282.04** |
+Footage from this shoot heads into the edit pipeline alongside the Road to Rail and Boden Sand & Gravel interviews. We'll share selects and a rough cut of the customer story segment once the edit is underway.
 
-*Estimate sent to Carissa Kirk Jun 12. Awaiting approval.*
-
-## After This Shoot
-
-Footage from this session will form the Pitbull customer story segment in the hero film. We'll share selects after the edit begins.
+Up next: **headshot day at Essex HQ on June 23**, followed by Ross's interview.

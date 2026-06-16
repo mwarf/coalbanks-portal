@@ -44,7 +44,7 @@ Client interviews that demonstrate Essex's flexibility compared to traditional b
 | Date | Event | Location | Status |
 |------|-------|----------|--------|
 | **May 29** | Camp Kindle — Treehouse Village event | Water Valley, AB | ✅ Complete |
-| **Jun 15** | Pitbull Energy Services interview | SATO Training Facility, Millet | ✅ Confirmed |
+| **Jun 15** | Pitbull Energy Services interview | SATO Training Facility, Millet | ✅ Complete |
 | **Jun 23** | Essex HQ — Headshots (AM) + B-roll (PM) | Calgary | ✅ Locked |
 | **Jun 24** | Ross Sten interview + customer story | Calgary | 🟡 Pending |
 | **Jun 25** | Buffer day | Calgary | 🟡 Held |
@@ -56,15 +56,13 @@ Client interviews that demonstrate Essex's flexibility compared to traditional b
 - ✅ SOW signed and deposit received (50% — $14,925)
 - ✅ Camp Kindle event coverage complete (May 29)
 - ✅ Boden Sand & Gravel interview complete
-- ✅ Pitbull interview confirmed for June 15 at SATO Millet
+- ✅ Pitbull Energy interview complete (Jun 15) — two-camera interview + drone + equipment b-roll at SATO Millet
 - ✅ NAV Drone operation approved
-- 💵 **Cost estimate sent to Carissa** (Jun 12) — Pitbull shoot day + travel: **$2,282.04 incl GST** (see [Pitbull interview page](/essex-lease/pitbull-interview-jun15/) for breakdown)
-- ⏳ Pre-interview call with Sami (Pitbull) — awaiting reply
 
 ## Next Step for You
 
-We're heads-down in production. The Pitbull interview is locked for June 15, and headshot day at Essex HQ is confirmed for June 23.
+The Pitbull interview is wrapped — great footage from the SATO facility in Millet. Headshot day at Essex HQ is confirmed for **June 23**, with Ross's interview tentatively scheduled for June 24.
 
-We'll reach out shortly to confirm timing for Ross's interview and the additional customer session on June 24.
+Check out the [SATO shoot recap](/essex-lease/pitbull-interview-jun15/) for a sample of the footage.
 
 Questions? Reach out to **michael@coalbanks.ca**.
