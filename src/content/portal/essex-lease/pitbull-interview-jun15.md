@@ -16,11 +16,11 @@ Filming wrapped June 15 at the SATO Canada training facility in Millet. The day 
 
 ### Interview
 
-Two-camera sit-down with **Sami Hayek** and **Danielle Thorkelsson** from Pitbull Energy Services. Their perspective on how Essex supported them through the downturn — and what the relationship looks like day-to-day — is exactly the customer story this film needs.
+Two-camera sit-down with **Sami Hayek** from Pitbull Energy Services — captured at two angles for edit flexibility. Sami's perspective on how Essex supported them through the downturn — and what the relationship looks like day-to-day — is exactly the customer story this film needs. (Danielle Thorkelsson was unable to make it.)
 
 ### Footage Captured
 
-- ✅ **Two-camera interview** — Sami & Danielle, full conversation captured
+- ✅ **Two-camera interview** — Sami Hayek (two angles). Note: Danielle Thorkelsson was unable to attend
 - ✅ **Drone footage** — aerial coverage of the SATO site and surrounding area
 - ✅ **Water truck** — interior cab shots and exterior tracking
 - ✅ **Classroom facility** — b-roll of the training space
