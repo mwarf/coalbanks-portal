@@ -3,7 +3,7 @@ title: "Brand Film — Project Overview & Brief"
 client: kasko-cattle
 publish: true
 status: approved
-date: 2026-06-12
+date: 2026-06-19
 type: brief
 ---
 
@@ -33,7 +33,7 @@ The story arc spans three generations — Les & Betty's generation, Ryan & his s
 |------|-------|----------|--------|
 | **Jun 4** | Pre-production "before" visit | Central Farms / New HQ | ✅ Complete |
 | **Jun 11** | Archival scan session + family in greenhouse & flowerbeds | Central Farms | ✅ Complete |
-| **Jun 18–19** | Team meetings + b-roll | Moose Lodge, Banff | ⏳ Planned |
+| **Jun 18–19** | Team meetings + b-roll | Moose Lodge, Banff | ✅ Complete |
 | **Jun 29** | Family meeting & interviews | New Office / Yard, Coaldale | ⏳ Planned |
 
 ## Current Status
@@ -44,12 +44,13 @@ The story arc spans three generations — Les & Betty's generation, Ryan & his s
 - ✅ **Archival session complete (June 11)** — scanned historical family photos and documents at Central Farms
 - ✅ **Impromptu shoot (June 11)** — captured family members working in the greenhouse and planting in the outdoor flowerbeds. Unplanned but great material for the three-generation story.
 - ✅ **Archival photo restoration, Round 1 (June 12)** — first restoration pass on all scanned historical images complete. [High-res originals available on Google Drive](https://drive.google.com/drive/folders/1JHIg4-G1oofrCv4ISOih_RGZgs4vzhaP?usp=sharing).
+- ✅ **Banff team meeting shoot (June 18–19)** — covered the full team meeting at Moose Lodge and Suites with b-roll throughout. Interviews deferred to a later date. Also took advantage of having everyone together to capture a family photo (currently in editing).
 - ⏳ Coordinating with Nate (architect) and Todd (feedlot manager)
 
 ## Next Step for You
 
-The archival photos have been through their first round of restoration and the greenhouse footage adds a beautiful, authentic layer to the story. Next up is the Banff trip (June 18–19), followed by the main family meeting and interviews in Coaldale on June 29.
+The Banff footage captured team dynamics and meeting content, plus a family photo opportunity we couldn't pass up. Next up is the main event — the family meeting and three-generation interviews in Coaldale on June 29 at the new office and yard.
 
-Ryan — if there are any specific family photos or documents that came to mind after today's session, let us know and we can arrange a follow-up scan.
+Ryan — if there are any specific family photos or documents that came to mind after the archival session, let us know and we can arrange a follow-up scan.
 
 Questions? Reach out to **michael@coalbanks.ca**.
