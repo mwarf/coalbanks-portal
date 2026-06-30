@@ -1,9 +1,9 @@
 ---
+import BaseLayout from './BaseLayout.astro';
 import StatusBadge from '../components/StatusBadge.astro';
 import DateStamp from '../components/DateStamp.astro';
 import TypeBadge from '../components/TypeBadge.astro';
 import type { ProjectType } from '../lib/projectTypes';
-import '../styles/global.css';
 
 interface Props {
   title:   string;
@@ -15,28 +15,12 @@ interface Props {
 
 const { title, client, status, date, type } = Astro.props;
 
-// Convert slug to display name: "stranville-living" → "Stranville Living"
 const clientDisplayName = client
   .split('-')
   .map((word: string) => word.charAt(0).toUpperCase() + word.slice(1))
   .join(' ');
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="robots" content="noindex, nofollow" />
-  <title>{title} — Coalbanks Creative</title>
-  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link
-    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap"
-    rel="stylesheet"
-  />
-</head>
-<body>
+<BaseLayout title={`${title} — Coalbanks Creative`}>
   <div class="portal-wrapper">
     <!-- Header -->
     <header class="portal-header">
@@ -78,5 +62,4 @@ const clientDisplayName = client
       <span>{clientDisplayName}</span>
     </footer>
   </div>
-</body>
-</html>
+</BaseLayout>

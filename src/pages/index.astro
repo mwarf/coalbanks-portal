@@ -1,24 +1,7 @@
 ---
-// Root index — branded landing page for the client portal.
-// No project list, no login. Just enough to orient a visitor.
-import '../styles/global.css';
+import BaseLayout from '../layouts/BaseLayout.astro';
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="robots" content="noindex, nofollow" />
-  <title>Client Portal — Coalbanks Creative</title>
-  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link
-    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap"
-    rel="stylesheet"
-  />
-</head>
-<body>
+<BaseLayout title="Client Portal — Coalbanks Creative">
   <div class="landing">
     <div class="landing__card">
       <img src="/logo-coalbanks.svg" alt="Coalbanks Creative" class="landing__logo" />
@@ -36,15 +19,14 @@ import '../styles/global.css';
       <div class="landing__rule"></div>
       <p class="landing__contact">
         Questions? Reach out to
-        <a href="mailto:michael@coalbanks.com">michael@coalbanks.com</a>
+        <a href="mailto:michael@coalbanks.ca">michael@coalbanks.ca</a>
       </p>
       <p class="landing__footer">
         &copy; Coalbanks Creative Inc. &middot; Lethbridge, Alberta
       </p>
     </div>
   </div>
-</body>
-</html>
+</BaseLayout>
 
 <style>
   .landing {
