@@ -3,7 +3,7 @@ title: "Brand Film — Project Overview & Brief"
 client: kasko-cattle
 publish: true
 status: approved
-date: 2026-06-19
+date: 2026-06-29
 type: brief
 ---
 
@@ -34,7 +34,8 @@ The story arc spans three generations — Les & Betty's generation, Ryan & his s
 | **Jun 4** | Pre-production "before" visit | Central Farms / New HQ | ✅ Complete |
 | **Jun 11** | Archival scan session + family in greenhouse & flowerbeds | Central Farms | ✅ Complete |
 | **Jun 18–19** | Team meetings + b-roll | Moose Lodge, Banff | ✅ Complete |
-| **Jun 29** | Family meeting & interviews | New Office / Yard, Coaldale | ⏳ Planned |
+| **Jun 29** | Family meeting & on-camera interviews — Round 1 | New Office / Yard, Coaldale | ✅ Complete |
+| **TBD** | On-camera interviews — Round 2 | TBD | ⏳ To be scheduled |
 
 ## Current Status
 
@@ -44,13 +45,14 @@ The story arc spans three generations — Les & Betty's generation, Ryan & his s
 - ✅ **Archival session complete (June 11)** — scanned historical family photos and documents at Central Farms
 - ✅ **Impromptu shoot (June 11)** — captured family members working in the greenhouse and planting in the outdoor flowerbeds. Unplanned but great material for the three-generation story.
 - ✅ **Archival photo restoration, Round 1 (June 12)** — first restoration pass on all scanned historical images complete. [High-res originals available on Google Drive](https://drive.google.com/drive/folders/1JHIg4-G1oofrCv4ISOih_RGZgs4vzhaP?usp=sharing).
-- ✅ **Banff team meeting shoot (June 18–19)** — covered the full team meeting at Moose Lodge and Suites with b-roll throughout. Interviews deferred to a later date. Also took advantage of having everyone together to capture a family photo (currently in editing).
-- ⏳ Coordinating with Nate (architect) and Todd (feedlot manager)
+- ✅ **Banff team meeting shoot (June 18–19)** — covered the full team meeting at Moose Lodge and Suites with b-roll throughout. Also took advantage of having everyone together to capture a family photo (currently in editing).
+- ✅ **On-camera interviews — Round 1 (June 29)** — Ryan, Rhonda, Ella, Dylan, Parker, Jackson, Les, and Betty all sat down for on-camera interviews at the new Coaldale office and yard. This is the emotional core of the film.
+- ⏳ Round 2 interviews to be scheduled (date TBD)
 
 ## Next Step for You
 
-The Banff footage captured team dynamics and meeting content, plus a family photo opportunity we couldn't pass up. Next up is the main event — the family meeting and three-generation interviews in Coaldale on June 29 at the new office and yard.
+June 29 was a big day — we got everyone on camera, from Les and Betty right through to the next generation. That's the heart of this film, and it's now in the can.
 
-Ryan — if there are any specific family photos or documents that came to mind after the archival session, let us know and we can arrange a follow-up scan.
+We'll be in touch to schedule Round 2 interviews to round out the story. In the meantime, if any specific family photos or documents come to mind, let us know and we can arrange a follow-up scan.
 
 Questions? Reach out to **michael@coalbanks.ca**.
