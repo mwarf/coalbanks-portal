@@ -114,12 +114,12 @@ for img in "${VALID_IMAGES[@]}"; do
   # Step 3: Upload to R2
   OBJECT_KEY="$R2_PATH/${BASENAME}.webp"
   echo "    WebP ${WEBP_KB}KB → $OBJECT_KEY"
-  env -i HOME="$HOME" \
+  (cd /tmp && env -i HOME="$HOME" \
     PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:$HOME/.npm-global/bin:$HOME/.nvm/versions/node/v25.9.0/bin" \
     npx wrangler r2 object put "$BUCKET/$OBJECT_KEY" \
       --file="$TEMP_WEBP" \
       --content-type="image/webp" \
-      --remote 2>&1 | grep -E "Upload complete|Creating|Error"
+      --remote 2>&1 | grep -E "Upload complete|Creating|Error")
 
   # Build YAML entry
   R2_URL="$R2_PUBLIC_URL/$OBJECT_KEY"
