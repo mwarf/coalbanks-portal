@@ -1,8 +1,7 @@
 ---
-import { Image } from 'astro:assets';
-
 interface GalleryImage {
   src: string;
+  thumb?: string;
   alt: string;
   caption?: string;
 }
@@ -21,14 +20,16 @@ const totalCount = images.length;
   {hero && (
     <figure class="gallery__hero gallery__reveal">
       <button type="button" class="gallery__hero-link" data-lightbox="0" aria-label={`View: ${hero.alt}`}>
-        <Image
+        <img
           src={hero.src}
+          srcset={hero.thumb ? `${hero.thumb} 720w, ${hero.src} 2400w` : undefined}
+          sizes={hero.thumb ? "100vw" : undefined}
           alt={hero.alt}
-          width={1440}
-          height={810}
-          format="webp"
-          quality={85}
+          width="1440"
+          height="810"
           loading="eager"
+          decoding="async"
+          fetchpriority="high"
           class="gallery__hero-img"
         />
         <div class="gallery__hero-scrim">
@@ -48,14 +49,15 @@ const totalCount = images.length;
       {rest.map((img, i) => (
         <figure class="gallery__tile gallery__reveal">
           <button type="button" class="gallery__tile-link" data-lightbox={String(i + 1)} aria-label={`View: ${img.alt}`}>
-            <Image
-              src={img.src}
+            <img
+              src={img.thumb || img.src}
+              srcset={img.thumb ? `${img.thumb} 720w, ${img.src} 2400w` : undefined}
+              sizes={img.thumb ? "(max-width: 480px) 100vw, (max-width: 768px) 50vw, 33vw" : undefined}
               alt={img.alt}
-              width={720}
-              height={480}
-              format="webp"
-              quality={80}
+              width="720"
+              height="480"
               loading="lazy"
+              decoding="async"
               class="gallery__tile-img"
             />
             <div class="gallery__tile-overlay">

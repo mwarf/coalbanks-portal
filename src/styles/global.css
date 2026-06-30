@@ -688,6 +688,8 @@ a.deliverable-card__title:hover {
 .gallery__hero-img {
   width: 100%;
   height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
   display: block;
   border-radius: var(--radius);
   transition: transform 0.6s ease;
@@ -782,6 +784,8 @@ a.deliverable-card__title:hover {
 .gallery__tile-img {
   width: 100%;
   height: auto;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
   display: block;
   border-radius: var(--radius);
   transition: transform 0.4s ease;
