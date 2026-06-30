@@ -19,8 +19,9 @@ const { videos } = Astro.props;
         <div class="video-card__aspect">
           <iframe
             src={`https://iframe.cloudflarestream.com/${video.id}?${video.poster ? `poster=${encodeURIComponent(video.poster)}&` : ''}primaryColor=%232D2D2D&letterboxColor=%231A1A1A`}
+            title={video.title}
             loading={i === 0 ? 'eager' : 'lazy'}
-            allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture"
+            allow="autoplay; encrypted-media; picture-in-picture; fullscreen"
             allowfullscreen
             class="video-card__iframe"
           ></iframe>
@@ -69,13 +70,10 @@ const { videos } = Astro.props;
   .video-card__aspect {
     position: relative;
     width: 100%;
-    padding-bottom: 56.25%; /* 16:9 */
+    aspect-ratio: 16 / 9;
   }
 
   .video-card__iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
     width: 100%;
     height: 100%;
     border: none;
