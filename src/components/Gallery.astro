@@ -47,7 +47,7 @@ const totalCount = images.length;
   {rest.length > 0 && (
     <div class="gallery__masonry">
       {rest.map((img, i) => (
-        <figure class="gallery__tile gallery__reveal">
+        <figure class="gallery__tile gallery__reveal" style={`--i:${i}`}>
           <button type="button" class="gallery__tile-link" data-lightbox={String(i + 1)} aria-label={`View: ${img.alt}`}>
             <img
               src={img.thumb || img.src}

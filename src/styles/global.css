@@ -420,6 +420,7 @@ img {
 
 /* --- Deliverable Card --- */
 .deliverable-card {
+  position: relative;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -458,6 +459,12 @@ img {
 
 a.deliverable-card__title {
   transition: color 0.2s ease;
+}
+
+a.deliverable-card__title::after {
+  content: '';
+  position: absolute;
+  inset: 0;
 }
 
 a.deliverable-card__title:hover {
@@ -516,6 +523,89 @@ a.deliverable-card__title:hover {
 
 .asset-link a:hover {
   color: var(--color-accent);
+}
+
+/* --- Video Player --- */
+.video-section {
+  margin: 2rem 0 2.5rem;
+}
+
+.video-card {
+  margin-bottom: 2rem;
+  background: var(--color-white);
+  border: 1px solid var(--color-rule);
+  border-radius: var(--radius);
+  overflow: hidden;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  animation: fadeInUp 0.5s ease-out both;
+}
+
+.video-card:hover {
+  border-color: var(--color-accent);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+}
+
+.video-card:last-child {
+  margin-bottom: 0;
+}
+
+.video-card__player {
+  background: #1A1A1A;
+}
+
+.video-card__aspect {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
+
+.video-card__iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.video-card__info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.85rem 1.25rem;
+  border-top: 1px solid var(--color-rule);
+}
+
+.video-card__title {
+  font-family: var(--font-heading);
+  font-size: var(--size-sm);
+  font-weight: 500;
+  color: var(--color-text);
+  margin: 0;
+  line-height: 1.3;
+  letter-spacing: 0;
+}
+
+.video-card__badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-family: var(--font-heading);
+  font-size: 0.65rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-mid);
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.video-card__badge svg {
+  opacity: 0.7;
+}
+
+@media (max-width: 768px) {
+  .video-card__info {
+    padding: 0.75rem 1rem;
+  }
 }
 
 /* --- Project Overview — Notes List --- */
@@ -845,16 +935,10 @@ a.deliverable-card__title:hover {
   opacity: 1;
 }
 
-/* Stagger reveal timing for masonry tiles */
-.gallery__masonry .gallery__tile:nth-child(1) { transition-delay: 0s; }
-.gallery__masonry .gallery__tile:nth-child(2) { transition-delay: 0.06s; }
-.gallery__masonry .gallery__tile:nth-child(3) { transition-delay: 0.12s; }
-.gallery__masonry .gallery__tile:nth-child(4) { transition-delay: 0.18s; }
-.gallery__masonry .gallery__tile:nth-child(5) { transition-delay: 0.24s; }
-.gallery__masonry .gallery__tile:nth-child(6) { transition-delay: 0.30s; }
-.gallery__masonry .gallery__tile:nth-child(7) { transition-delay: 0.36s; }
-.gallery__masonry .gallery__tile:nth-child(8) { transition-delay: 0.42s; }
-.gallery__masonry .gallery__tile:nth-child(9) { transition-delay: 0.48s; }
+/* Stagger reveal timing for masonry tiles — driven by --i set in markup */
+.gallery__masonry .gallery__tile {
+  transition-delay: calc(var(--i, 0) * 0.06s);
+}
 
 @media (max-width: 768px) {
   .gallery__masonry {
@@ -1027,11 +1111,5 @@ a.deliverable-card__title:hover {
 
 .deliverable-card {
   animation: fadeInUp 0.35s ease-out both;
+  animation-delay: calc(var(--i, 0) * 0.05s);
 }
-
-.deliverable-card:nth-child(1) { animation-delay: 0.05s; }
-.deliverable-card:nth-child(2) { animation-delay: 0.1s; }
-.deliverable-card:nth-child(3) { animation-delay: 0.15s; }
-.deliverable-card:nth-child(4) { animation-delay: 0.2s; }
-.deliverable-card:nth-child(5) { animation-delay: 0.25s; }
-.deliverable-card:nth-child(6) { animation-delay: 0.3s; }

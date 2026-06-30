@@ -10,10 +10,11 @@ interface Props {
   url?: string;
   date?: Date;
   type?: ProjectType;
+  index?: number;
 }
-const { title, status, url, date, type } = Astro.props;
+const { title, status, url, date, type, index = 0 } = Astro.props;
 ---
-<div class="deliverable-card">
+<div class="deliverable-card" style={`--i:${index}`}>
   <div class="deliverable-card__info">
     {type && <TypeBadge type={type} />}
     {url ? (
