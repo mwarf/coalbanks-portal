@@ -25,6 +25,7 @@ set -euo pipefail
 BUCKET="coalbanks-assets"
 R2_PUBLIC_URL="https://assets.coalbanks.com"
 MAX_WIDTH="${3:-2400}"
+THUMB_WIDTH=720
 WEBP_QUALITY=80
 
 # --- Validate args ---
@@ -68,6 +69,7 @@ echo " Source:    $SOURCE_DIR"
 echo " R2 path:  $BUCKET/$R2_PATH/"
 echo " Images:   ${#VALID_IMAGES[@]}"
 echo " Max width: ${MAX_WIDTH}px"
+echo " Thumb:     ${THUMB_WIDTH}px"
 echo " Format:    WebP (quality ${WEBP_QUALITY})"
 echo "=========================================="
 echo ""
@@ -111,7 +113,7 @@ for img in "${VALID_IMAGES[@]}"; do
   TOTAL_UPLOADED=$((TOTAL_UPLOADED + WEBP_SIZE))
   WEBP_KB=$(echo "scale=0; $WEBP_SIZE / 1024" | bc)
 
-  # Step 3: Upload to R2
+  # Step 3: Upload full image to R2
   OBJECT_KEY="$R2_PATH/${BASENAME}.webp"
   echo "    WebP ${WEBP_KB}KB → $OBJECT_KEY"
   (cd /tmp && env -i HOME="$HOME" \
@@ -121,9 +123,37 @@ for img in "${VALID_IMAGES[@]}"; do
       --content-type="image/webp" \
       --remote 2>&1 | grep -E "Upload complete|Creating|Error")
 
+  # Step 4: Generate and upload thumbnail
+  TEMP_THUMB_RESIZED="$TEMP_DIR/${BASENAME}_thumb_resized.jpg"
+  TEMP_THUMB_WEBP="$TEMP_DIR/${BASENAME}-720w.webp"
+  THUMB_KEY="$R2_PATH/${BASENAME}-720w.webp"
+
+  # Resize to thumbnail width (skip if source is already smaller)
+  FULL_WIDTH=$(sips -g pixelWidth "$TEMP_RESIZED" 2>/dev/null | awk '/pixelWidth/{print $2}')
+  if [ "$FULL_WIDTH" -gt "$THUMB_WIDTH" ]; then
+    sips --resampleWidth "$THUMB_WIDTH" "$TEMP_RESIZED" --out "$TEMP_THUMB_RESIZED" > /dev/null 2>&1
+  else
+    cp "$TEMP_RESIZED" "$TEMP_THUMB_RESIZED"
+  fi
+  cwebp -q "$WEBP_QUALITY" "$TEMP_THUMB_RESIZED" -o "$TEMP_THUMB_WEBP" > /dev/null 2>&1
+
+  THUMB_SIZE=$(stat -f%z "$TEMP_THUMB_WEBP")
+  TOTAL_UPLOADED=$((TOTAL_UPLOADED + THUMB_SIZE))
+  THUMB_KB=$(echo "scale=0; $THUMB_SIZE / 1024" | bc)
+  echo "    Thumb ${THUMB_KB}KB → $THUMB_KEY"
+
+  (cd /tmp && env -i HOME="$HOME" \
+    PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:$HOME/.npm-global/bin:$HOME/.nvm/versions/node/v25.9.0/bin" \
+    npx wrangler r2 object put "$BUCKET/$THUMB_KEY" \
+      --file="$TEMP_THUMB_WEBP" \
+      --content-type="image/webp" \
+      --remote 2>&1 | grep -E "Upload complete|Creating|Error")
+
   # Build YAML entry
   R2_URL="$R2_PUBLIC_URL/$OBJECT_KEY"
+  THUMB_URL="$R2_PUBLIC_URL/$THUMB_KEY"
   YAML_OUTPUT+="  - src: \"$R2_URL\""$'\n'
+  YAML_OUTPUT+="    thumb: \"$THUMB_URL\""$'\n'
   YAML_OUTPUT+="    alt: \"$BASENAME\""$'\n'
   YAML_OUTPUT+="    caption: \"\""$'\n'
 
