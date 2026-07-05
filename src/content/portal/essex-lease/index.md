@@ -3,7 +3,7 @@ title: "40th Anniversary — Project Overview"
 client: essex-lease
 publish: true
 status: approved
-date: 2026-06-10
+date: 2026-07-05
 type: brief
 ---
 
@@ -58,11 +58,12 @@ Client interviews that demonstrate Essex's flexibility compared to traditional b
 - ✅ Boden Sand & Gravel interview complete
 - ✅ Pitbull Energy interview complete (Jun 15) — two-camera interview + drone + equipment b-roll at SATO Millet
 - ✅ NAV Drone operation approved
+- ✅ Staff headshots complete (Jun 23) — **36 edited portraits delivered**
 
 ## Next Step for You
 
-The Pitbull interview is wrapped — great footage from the SATO facility in Millet. Headshot day at Essex HQ is confirmed for **June 23**, with Ross's interview tentatively scheduled for June 24.
+Staff headshots from the June 23 session are edited and ready for review. Brand photography and video deliverables are in post-production.
 
-Check out the [SATO shoot recap](/essex-lease/pitbull-interview-jun15/) for a sample of the footage.
+➡️ [View the edited headshot gallery](/essex-lease/headshots-jun23-gallery/)
 
-Questions? Reach out to **michael@coalbanks.ca**.
+Questions? Reach out to **michael@coalbanks.com**.
