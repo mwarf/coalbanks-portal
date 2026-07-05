@@ -75,13 +75,18 @@ Nothing here is locked in yet — this is the proposed plan to talk through toge
 | SOW + MSA signed | Jun 9 | ✅ Complete |
 | Deposit received | Jun 10 | ✅ Complete |
 | Proposed production plan sent | Jun 26 | ✅ Sent |
+| Coleman scouting trip | Jul 3 | ✅ Complete |
 | Production dates confirmed | TBD | ⏳ In progress |
 | Principal photography | Jul 20–23 (proposed) | ⏳ Proposed |
 | Final delivery | Late September | ⏳ Planned |
 
 ## Current Status
 
-Everything is queued up and ready to go. The proposed production plan covers a 4-day shoot with two date options, a clear pre-production runway, and post-production delivery through late September.
+Coleman scouting trip complete (Jul 3) — test footage and aerials captured across four Stranville properties. Selects reels and aerial footage are now available for review below. Production dates for the main shoot are being confirmed.
+
+### Recent Updates
+
+➡️ [Coleman Scouting Trip — Selects & Aerials](/stranville-living/coleman-scout-jul3/) — Jul 3 scout with anamorphic test footage and drone aerials
 
 ## Next Steps for You
 
