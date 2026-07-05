@@ -59,11 +59,11 @@ Client interviews that demonstrate Essex's flexibility compared to traditional b
 - ✅ Pitbull Energy interview complete (Jun 15) — two-camera interview + drone + equipment b-roll at SATO Millet
 - ✅ NAV Drone operation approved
 - ✅ Staff headshots complete (Jun 23) — **36 edited portraits delivered**
-- ✅ Brand photography complete — **96 edited images delivered** (abstract/equipment, building, lifestyle)
+- ✅ Brand photography complete — **133 edited images delivered** (abstract/equipment, building, lifestyle, aerials)
 
 ## Next Step for You
 
-Staff headshots and brand photography from the June 23 session are edited and ready for review. Video deliverables remain in post-production.
+Staff headshots and brand photography from the June 23–24 sessions are edited and ready for review. Video deliverables remain in post-production.
 
 ### Photography Galleries
 
@@ -71,5 +71,6 @@ Staff headshots and brand photography from the June 23 session are edited and re
 ➡️ [Abstract Backgrounds & Equipment](/essex-lease/abstract-backgrounds-gallery/) — 67 detail and industrial shots
 ➡️ [Building & Headquarters](/essex-lease/building-gallery/) — 4 architectural interiors
 ➡️ [Lifestyle & Team](/essex-lease/lifestyle-gallery/) — 25 team and candid moments
+➡️ [Aerials — Drone](/essex-lease/aerials-gallery/) — 37 aerial drone shots
 
 Questions? Reach out to **michael@coalbanks.com**.
