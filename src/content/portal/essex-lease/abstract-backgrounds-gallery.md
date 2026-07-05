@@ -8,8 +8,6 @@ type: deliverable
 asset_links:
   - label: "Full Resolution Images — Google Drive"
     url: "https://drive.google.com/drive/folders/1bgtp0JgszDF0DRHvRLb-nsYZETy1vpfT?usp=share_link"
----
-
 gallery:
   - src: "https://assets.coalbanks.com/essex-lease/abstract-backgrounds/DSC00001.webp"
     thumb: "https://assets.coalbanks.com/essex-lease/abstract-backgrounds/DSC00001-720w.webp"
@@ -212,6 +210,7 @@ gallery:
   - src: "https://assets.coalbanks.com/essex-lease/abstract-backgrounds/DSC09999.webp"
     thumb: "https://assets.coalbanks.com/essex-lease/abstract-backgrounds/DSC09999-720w.webp"
     alt: "White above-ground diesel fuel storage tank with hazmat placards on open gravel lot"
+---
 
 ## Abstract Backgrounds & Equipment Details
 
