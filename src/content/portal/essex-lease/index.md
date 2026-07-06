@@ -54,16 +54,23 @@ Client interviews that demonstrate Essex's flexibility compared to traditional b
 ## Current Status
 
 - ✅ SOW signed and deposit received (50% — $14,925)
+- ✅ All principal interviews complete — 5 sessions, all transcribed
+- ✅ Story structure locked — 5-act hero film paper edit v1 assembled
+- ✅ 30-second and 2-minute social cuts scripted and buildable
 - ✅ Camp Kindle event coverage complete (May 29)
-- ✅ Boden Sand & Gravel interview complete
-- ✅ Pitbull Energy interview complete (Jun 15) — two-camera interview + drone + equipment b-roll at SATO Millet
-- ✅ NAV Drone operation approved
+- ✅ Pitbull Energy interview complete (Jun 15)
 - ✅ Staff headshots complete (Jun 23) — **36 edited portraits delivered**
 - ✅ Brand photography complete — **133 edited images delivered** (abstract/equipment, building, lifestyle, aerials)
+- ⏳ September Golf Classic shoot — final capture day (date TBC)
+- ⏳ Hero film assembly — post-September
+
+### Recent Updates
+
+➡️ [Post-Production Update — Story Structure & Edit Progress](/essex-lease/post-production-update-jul5/) — Jul 5
 
 ## Next Step for You
 
-Staff headshots and brand photography from the June 23–24 sessions are edited and ready for review. Video deliverables remain in post-production.
+Photography is delivered and ready for review. The hero film story structure is locked — see the post-production update for the full breakdown and a few items we need from you for the September shoot.
 
 ### Photography Galleries
 
