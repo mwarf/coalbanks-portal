@@ -174,7 +174,7 @@ Load Space Grotesk and Inter from Google Fonts or Bunny Fonts in `PortalLayout.a
 ### Layout Rules
 
 - Max content width: `720px`, centred
-- Header: Coalbanks Creative wordmark left, `mailto:michael@coalbanks.ca` link right
+- Header: Coalbanks Creative wordmark left, `mailto:michael@coalbanks.com` link right
 - Footer: `© Coalbanks Creative Inc.` left, project name right, separated by rule
 - Mobile breakpoint: `768px` — single column, full-width cards
 - No JavaScript unless strictly necessary. Astro default output is static HTML.
@@ -279,7 +279,7 @@ Three-video package documenting Stranville Living's presence across Southern Alb
 
 ## Next Step for You
 
-Please review Edit 1 using the link above and send feedback to michael@coalbanks.ca by June 20.
+Please review Edit 1 using the link above and send feedback to michael@coalbanks.com by June 20.
 ```
 
 ---

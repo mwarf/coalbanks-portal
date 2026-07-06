@@ -81,4 +81,4 @@ The interviews covered the full generational arc — from Les and Betty's perspe
 
 **Round 2 interviews** will be scheduled for a future date to round out the story with any remaining voices or topics.
 
-Questions? Reach out to **michael@coalbanks.ca**.
+Questions? Reach out to **michael@coalbanks.com**.

@@ -60,4 +60,4 @@ The board's direction is clear: **focus on the people doing the work**, not just
 
 We're waiting on board sign-off to lock shoot dates. Once confirmed, we'll coordinate PSAP location access and schedule principal photography for late June or early July.
 
-Questions? Reach out to **michael@coalbanks.ca**.
+Questions? Reach out to **michael@coalbanks.com**.

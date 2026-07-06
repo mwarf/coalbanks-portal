@@ -55,4 +55,4 @@ June 29 was a big day — we got everyone on camera, from Les and Betty right th
 
 We'll be in touch to schedule Round 2 interviews to round out the story. In the meantime, if any specific family photos or documents come to mind, let us know and we can arrange a follow-up scan.
 
-Questions? Reach out to **michael@coalbanks.ca**.
+Questions? Reach out to **michael@coalbanks.com**.

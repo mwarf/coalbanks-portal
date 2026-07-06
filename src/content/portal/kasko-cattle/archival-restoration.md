@@ -151,4 +151,4 @@ Each photo has been scanned, cleaned up, and restored at high resolution. The or
 
 These restored images will be woven into the Brand Origin Story as the historical backbone of the three-generation narrative. If additional family photos surface — or if there are specific images you'd like prioritized for a second restoration pass — just let us know.
 
-Questions? Reach out to **michael@coalbanks.ca**.
+Questions? Reach out to **michael@coalbanks.com**.

@@ -98,4 +98,4 @@ A few things to talk through together:
 - **Crowsnest Pass accommodation** — is it available for July 22 and 23?
 - **Malloy Landing priorities** — anything specific the developer team wants featured in that coverage?
 
-Questions? Reach out to **michael@coalbanks.ca**.
+Questions? Reach out to **michael@coalbanks.com**.
