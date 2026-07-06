@@ -29,14 +29,14 @@ The story arc spans three generations — Les & Betty's generation, Ryan & his s
 
 ## Production Schedule
 
-| Date | Event | Location | Status |
-|------|-------|----------|--------|
-| **Jun 4** | Pre-production "before" visit | Central Farms / New HQ | ✅ Complete |
-| **Jun 11** | Archival scan session + family in greenhouse & flowerbeds | Central Farms | ✅ Complete |
-| **Jun 18–19** | Team meetings + b-roll | Moose Lodge, Banff | ✅ Complete |
-| **Jun 29** | Family meeting & on-camera interviews — Round 1 | New Office / Yard, Coaldale | ✅ Complete |
-| **Aug 13** | Community Garden & HQ Open House (4:00–7:00pm) | Coaldale | ⏳ Upcoming |
-| **TBD** | Round 2 interviews + field sessions | TBD | 🔲 Scheduling in progress |
+| Date          | Event                                                     | Location           | Status                    |
+| ------------- | --------------------------------------------------------- | ------------------ | ------------------------- |
+| **Jun 4**     | Pre-production "before" visit                             | New HQ             | ✅ Complete                |
+| **Jun 11**    | Archival scan session + family in greenhouse & flowerbeds | New HQ             | ✅ Complete                |
+| **Jun 18–19** | Team meetings + b-roll                                    | Moose Lodge, Banff | ✅ Complete                |
+| **Jun 29**    | Family meeting & on-camera interviews — Round 1           | New HQ             | ✅ Complete                |
+| **Aug 13**    | Community Garden & HQ Open House (4:00–7:00pm)            | New HQ             | ⏳ Upcoming                |
+| **TBD**       | Round 2 interviews + field sessions                       | TBD                | 🔲 Scheduling in progress |
 
 ## Current Status
 

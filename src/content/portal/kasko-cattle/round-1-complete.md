@@ -9,9 +9,7 @@ type: update
 
 ## Round 1 Interviews — Complete
 
-All primary interviews from the first round are officially in the can. On **June 29**, we set up at the new Coaldale office and yard and captured on-camera conversations with Les, Betty, Ryan, Rhonda, Ella, Dylan, Parker, and Jackson. Having three generations in one place — on the site of the new operation — gave the footage a grounding and warmth that's hard to manufacture. That day was the emotional core of this film.
-
-The family meeting that followed gave us additional b-roll and candid moments that will feed directly into the narrative. The energy of everyone together in that space, with the new yard as a backdrop, added something special.
+All primary interviews from the first round are officially in the can. On **June 29**, we set up at the new Coaldale office and captured on-camera conversations with Les, Betty, Ryan, Rhonda, Ella, Dylan, Parker, and Jackson. Having three generations in one place — on the site of the new operation — gave the footage a grounding and warmth that's hard to manufacture. That day was the emotional core of this film.
 
 ## The Story Is Taking Shape
 
@@ -21,7 +19,7 @@ With all Round 1 transcripts in hand, we've built out a full **Story Bible** —
 - **Future of Kasko** — where the operation is headed, the new HQ, community initiatives
 - **Family Legacy** — the personal, generational piece for the family
 
-The transcripts revealed powerful themes running through every conversation. The way values, work ethic, and care for the land pass from Les and Betty's generation through to Ryan's kids comes through unprompted in every interview. There's a shared language around family, responsibility, and forward-thinking that connects all eight voices. These are the threads that will give the films their emotional structure.
+The transcripts revealed powerful themes running through every conversation. The way values, work ethic, and care for the land pass from Les and Betty's generation through to G2's kids comes through unprompted in every interview. There's a shared language around family, responsibility, and forward-thinking that connects all eight voices. These are the threads that will give the films their emotional structure.
 
 ## What's Next: August 13
 
