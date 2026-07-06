@@ -63,7 +63,7 @@ gallery:
   - src: "https://assets.coalbanks.com/essex-lease/lifestyle/DSC00074-2.webp"
     thumb: "https://assets.coalbanks.com/essex-lease/lifestyle/DSC00074-2-720w.webp"
     alt: "Three colleagues at a boardroom table sharing a lighthearted moment — man in blue suit gestures expressively while laughing"
-  - src: "https://assets.coalbanks.com/essex-lease/lifestyle/DSC00123.jpg"
+  - src: "https://assets.coalbanks.com/essex-lease/lifestyle/DSC00123.webp"
     thumb: "https://assets.coalbanks.com/essex-lease/lifestyle/DSC00123-720w.webp"
     alt: "Detail shot of an Essex Lease branded water bottle on a boardroom table with notebook, portfolio, and pen"
   - src: "https://assets.coalbanks.com/essex-lease/lifestyle/DSC09961-2.webp"
