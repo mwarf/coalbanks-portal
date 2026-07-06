@@ -3,7 +3,7 @@ title: "Better Everywhere — Project Overview"
 client: stranville-living
 publish: true
 status: in-review
-date: 2026-06-26
+date: 2026-07-06
 type: brief
 ---
 
@@ -15,52 +15,45 @@ type: brief
 
 | Deliverable | Description |
 |-------------|-------------|
-| **Brand Anthem** | Hero film showcasing Stranville's geographic and architectural diversity — mountain, rural, urban |
-| **Documentary Profiles (×2)** | Real homeowners telling real stories — community, craftsmanship, life in a Stranville home |
-| **Social Reels (12–15)** | Short-form content built from production footage for year-round social media rollout |
-| **Community Aerial + FPV** | Drone coverage across all key locations — Copperwood, Crowsnest Pass, Sparwood, Coaldale |
+| **Brand Anthem** | 60–90 second cinematic film showcasing Stranville's geographic and architectural diversity — the Hemsdale match-cut is the centrepiece |
+| **Documentary Profiles (×2)** | Real homeowners telling real stories + the Stranville team behind the build (construction, design, sales) |
+| **Social Reels (12–15)** | Short-form #BetterMoments content built from production footage for year-round social rollout |
+| **Community Aerial + FPV** | Drone coverage and interior FPV sweeps across all key locations |
 
 ### Locations
 
-- **Lethbridge** — Copperwood, Southbrook, BlackWolf
-- **Crowsnest Pass** — Coleman (Kananaskis Wilds, Aurora)
-- **Sparwood, BC** — Whiskey Jack development
-- **Coaldale** — Malloy Landing
+- **Lethbridge** — BlackWolf (Hemsdale showhome), Legacy Park
+- **Coaldale** — Malloy Landing (showhome + rec facility context)
+- **Crowsnest Pass** — Coleman (Kananaskis Wilds, Aurora, Hemsdale, Logan Duplex)
+- **Sparwood, BC** — community establishing (if time allows)
 
-## Proposed Production Schedule
+## Production Schedule
 
-Nothing here is locked in yet — this is the proposed plan to talk through together.
-
-### Production Window Options
-
-| Option | Dates | Notes |
-|--------|-------|-------|
-| **Primary** | Mon Jul 20 – Thu Jul 23 | ~3.5 weeks pre-production from today, mid-month before end-of-summer crunch |
-| **Alternative** | Mon Jul 27 – Thu Jul 30 | Extra week of runway if needed |
-
-### 4-Day Production Plan
+**Shoot dates: Monday July 20 – Thursday July 23** (with Jul 27–30 as alternate if needed).
 
 | Day | Focus |
 |-----|-------|
-| **Day 1 (Mon)** | Lethbridge & Coaldale interiors — BlackWolf, Hemsdale, Malloy Landing, show homes, anthem lifestyle shots, social #BetterMoments captures |
-| **Day 2 (Tue)** | Documentary day — family profile in their home (AM), team BTS at construction site and design studio/sales centre (PM) |
-| **Day 3 (Wed)** | Mountain push — Coleman Hemsdale match-cut, mountain lifestyle, drone aerials, #BetterMoments. Overnight in Stranville accommodation if available. |
-| **Day 4 (Thu)** | Mountain wrap and contingency — Sparwood coverage, weather pickup shots, additional Crowsnest Pass content |
+| **Day 1 (Mon Jul 20)** | Lethbridge & Coaldale — BlackWolf Hemsdale interiors, match-cut Side A, FPV sweeps, Malloy Landing, Legacy Park aerials |
+| **Day 2 (Tue Jul 21)** | Documentary — family profile in their home (AM), team voices at construction site + design studio (PM) |
+| **Day 3 (Wed Jul 22)** | Mountain push — Coleman Hemsdale match-cut Side B, 72 Kananaskis hero shots, Logan Duplex, Aurora, CNP aerials. Overnight in Coleman. |
+| **Day 4 (Thu Jul 23)** | Mountain wrap + contingency — weather reshoots, Sparwood coverage, pickup shots |
+
+**Note:** Day 2 (documentary) can float to the week of Jul 27 if family casting needs more time. The other three days are independent.
 
 ## Pre-Production Milestones
 
-| Week | Focus |
-|------|-------|
-| **Week of Jun 29** | Stranville sales team to surface 2–3 candidate families. Identify the three team members for the documentary profile (construction, design, sales). Confirm location list and Crowsnest Pass accommodation availability. |
-| **Week of Jul 6** | Joint family selection, pre-interview call, Lethbridge location scouting, lifestyle talent booking. |
-| **Week of Jul 13** | Final prep — shot lists locked, family pre-briefed, team members briefed, PPE coordination with construction lead, Hemsdale pipeline status check. |
-| **Week of Jul 20** | Production week. |
+| Week | Focus | Status |
+|------|-------|--------|
+| **Jun 29** | Sales team to surface candidate families, identify 3 team voices, confirm locations | ⏳ In progress |
+| **Jul 6 (this week)** | Family selection, pre-interview scheduling, Lethbridge scouting, lifestyle talent booking | ⏳ This week |
+| **Jul 13** | Final prep — shot lists locked, family pre-briefed, team briefed, PPE coordination | ⏳ Up next |
+| **Jul 20** | Production week | ⏳ Confirmed |
 
 ## Post-Production Timeline
 
 | Deliverable | Target |
 |------------|--------|
-| First social reels | ~Aug 20 |
+| First social reels batch | ~Aug 20 |
 | Brand anthem first cut | ~Aug 24 |
 | Documentary first cuts | ~Aug 31 |
 | Final anthem approved | Mid-September |
@@ -74,28 +67,33 @@ Nothing here is locked in yet — this is the proposed plan to talk through toge
 | Full package scope locked | May 10 | ✅ Complete |
 | SOW + MSA signed | Jun 9 | ✅ Complete |
 | Deposit received | Jun 10 | ✅ Complete |
-| Proposed production plan sent | Jun 26 | ✅ Sent |
+| Production plan sent | Jun 26 | ✅ Complete |
 | Coleman scouting trip | Jul 3 | ✅ Complete |
-| Production dates confirmed | TBD | ⏳ In progress |
-| Principal photography | Jul 20–23 (proposed) | ⏳ Proposed |
+| Scout footage delivered | Jul 5 | ✅ Complete |
+| Production dates confirmed | Jul 20–23 | ⏳ Confirming |
+| Principal photography | Jul 20–23 | ⏳ Scheduled |
 | Final delivery | Late September | ⏳ Planned |
 
 ## Current Status
 
-Coleman scouting trip complete (Jul 3) — test footage and aerials captured across four Stranville properties. Selects reels and aerial footage are now available for review below. Production dates for the main shoot are being confirmed.
+Production planning is in full swing. The shoot week is **July 20–23** with a 4-day plan covering Lethbridge/Coaldale interiors, documentary profiles, and the Crowsnest Pass mountain push.
+
+Coleman scouting is complete — test footage and aerials from four properties are available for review (see below). That footage establishes the cinematic look for the campaign.
 
 ### Recent Updates
 
 ➡️ [Coleman Scouting Trip — Selects & Aerials](/stranville-living/coleman-scout-jul3/) — Jul 3 scout with anamorphic test footage and drone aerials
 
-## Next Steps for You
+➡️ [Full Package Green Light](/stranville-living/production-update/) — Campaign approval and scope history
 
-A few things to talk through together:
+## What We Need from You
 
-- **Hemsdale construction pipeline** — which build will likely be at framing stage in late July?
-- **Family candidates** — timing on when you expect to have names to share from the sales team
-- **Documentary team members** — do you have specific people in mind for the construction, design, and sales profiles?
-- **Crowsnest Pass accommodation** — is it available for July 22 and 23?
-- **Malloy Landing priorities** — anything specific the developer team wants featured in that coverage?
+A few key items to lock down this week so we stay on track for Jul 20:
+
+- **Family for documentary profile** — we need a family confirmed by **Friday Jul 11** to keep Day 2 on schedule. Names, contact info, and whether they're comfortable on camera.
+- **Three team voices** — one person each from construction, design, and sales for the documentary profile. Who's available Jul 21 in the afternoon?
+- **Coleman Hemsdale staging** — the showhome at 8619 25th Ave is complete but unfurnished. Does the sales team have staging inventory that could be placed for the Jul 22 shoot?
+- **Crowsnest Pass accommodation** — is the Coleman accommodation available for the night of Jul 22?
+- **Malloy Landing access** — confirm showhome address and access for Day 1.
 
 Questions? Reach out to **michael@coalbanks.com**.
