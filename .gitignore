@@ -28,3 +28,11 @@ Thumbs.db
 
 # Underscore-prefixed content files (Obsidian drafts)
 src/content/portal/**/_*
+
+# Stray Obsidian notes at the vault root (repo root doubles as the Obsidian
+# vault, so personal notes can land here). Only these root-level docs are tracked:
+/*.md
+!/README.md
+!/CLAUDE.md
+!/ADMIN-GUIDE.md
+!/PORTAL-CONTENT-SPEC.md

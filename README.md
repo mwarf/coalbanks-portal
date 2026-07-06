@@ -21,7 +21,8 @@ src/
 │       ├── index.md           # Project overview
 │       └── production-update.md
 ├── pages/
-│   ├── index.astro            # Root — returns 404 (no public index)
+│   ├── index.astro            # Root — branded landing card (names no clients)
+│   ├── 404.astro              # Branded 404 page
 │   └── [client]/
 │       ├── index.astro        # Client overview page
 │       └── [...slug].astro    # Individual note pages
