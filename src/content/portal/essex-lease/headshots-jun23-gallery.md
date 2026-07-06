@@ -135,6 +135,6 @@ The complete set of full-resolution images is available on Google Drive using th
 
 ## Next Steps
 
-If you'd like any adjustments to individual headshots (different crop, additional retouching, alternate selects), just let us know. Otherwise, these are ready to put to use.
+If you'd like any adjustments to individual headshots, just let us know. Otherwise, these are ready to put to use.
 
 Questions? Reach out to **michael@coalbanks.com**.

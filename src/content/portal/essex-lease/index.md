@@ -61,7 +61,7 @@ Client interviews that demonstrate Essex's flexibility compared to traditional b
 - ✅ Pitbull Energy interview complete (Jun 15)
 - ✅ Staff headshots complete (Jun 23) — **36 edited portraits delivered**
 - ✅ Brand photography complete — **133 edited images delivered** (abstract/equipment, building, lifestyle, aerials)
-- ⏳ September Golf Classic shoot — final capture day (date TBC)
+- ⏳ September Golf Classic shoot — final capture day September 9
 - ⏳ Hero film assembly — post-September
 
 ### Recent Updates

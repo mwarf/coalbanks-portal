@@ -37,4 +37,4 @@ Key production elements:
 
 ## What's Next
 
-SOW and Master Services Agreement are being prepared for signature. Once signed and deposit received, we'll begin location scouting and coordinate shoot dates for June.
+SOW and Master Services Agreement are signed and deposit received, we'll begin location scouting and coordinate shoot dates for July.
