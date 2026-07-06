@@ -130,7 +130,7 @@ Do not invent a new design language. All tokens and component styles live in
 ```css
 --color-bg: #F9F8F5;  --color-text: #1A1A1A;  --color-mid: #6B6B6B;
 --color-accent: #2D2D2D;  --color-rule: #D4C9B0;  --color-surface: #F5F4F0;
---font-heading: 'Space Grotesk', …;  --font-body: 'Inter', …;  --font-mono: 'JetBrains Mono', …;
+--font-heading: 'Space Grotesk', …;  --font-body: 'Inter', …;  --font-mono: ui-monospace, …;
 --radius: 4px;  --max-width: 720px;  --spacing-section: 3rem;
 ```
 

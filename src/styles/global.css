@@ -14,7 +14,9 @@
 
   --font-heading:    'Space Grotesk', system-ui, sans-serif;
   --font-body:       'Inter', system-ui, sans-serif;
-  --font-mono:       'JetBrains Mono', 'Fira Code', monospace;
+  /* System mono stack — JetBrains Mono was never loaded as a webfont, so this
+     renders consistently instead of depending on what happens to be installed. */
+  --font-mono:       ui-monospace, 'SF Mono', 'Cascadia Mono', Menlo, Consolas, monospace;
 
   --size-base:       1rem;
   --size-sm:         0.875rem;
@@ -49,6 +51,9 @@ body {
   line-height: 1.7;
   color: var(--color-text);
   background-color: var(--color-bg);
+  /* Full-bleed gallery uses 50vw margins; vw ignores the scrollbar, so clip
+     the sliver of horizontal overflow that can create on scrollbar'd systems. */
+  overflow-x: clip;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -60,12 +65,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: var(--size-2xl);
+  font-size: clamp(var(--size-xl), 2.5vw + 1rem, var(--size-2xl));
   margin-bottom: 0.5rem;
 }
 
 h2 {
-  font-size: var(--size-xl);
+  font-size: clamp(var(--size-lg), 1.5vw + 0.9rem, var(--size-xl));
   margin-top: var(--spacing-section);
   margin-bottom: 1rem;
 }
@@ -177,6 +182,7 @@ img {
 /* --- Layout Shell --- */
 .portal-wrapper {
   min-height: 100vh;
+  min-height: 100dvh;
   display: flex;
   flex-direction: column;
 }
@@ -232,11 +238,6 @@ img {
 
 .portal-breadcrumb a:hover {
   color: var(--color-accent);
-}
-
-.portal-breadcrumb__separator {
-  margin: 0 0.35rem;
-  opacity: 0.5;
 }
 
 .portal-main {
@@ -390,12 +391,6 @@ img {
   padding: 0.2em 0.7em;
   border-radius: 999px;
   white-space: nowrap;
-  transition: transform 0.15s ease, box-shadow 0.15s ease;
-}
-
-.badge:hover {
-  transform: translateY(-1px);
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
 }
 
 .badge--draft {
@@ -752,13 +747,6 @@ a.deliverable-card__title:hover {
     gap: 0.5rem;
   }
 
-  h1 {
-    font-size: var(--size-xl);
-  }
-
-  h2 {
-    font-size: var(--size-lg);
-  }
 }
 
 /* --- Gallery --- */
@@ -958,24 +946,31 @@ a.deliverable-card__title:hover {
 }
 
 /* --- Lightbox --- */
+/* Native <dialog>: reset the UA chrome and fill the viewport. The dark scrim
+   lives on the dialog itself so clicks anywhere inside it are catchable. */
 .lightbox {
   position: fixed;
   inset: 0;
   z-index: 9999;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  max-height: none;
+  margin: 0;
+  padding: 0;
+  border: none;
+  background: rgba(10, 10, 10, 0.92);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+}
+
+.lightbox[open] {
   display: flex;
   flex-direction: column;
 }
 
-.lightbox[hidden] {
-  display: none;
-}
-
-.lightbox__backdrop {
-  position: absolute;
-  inset: 0;
-  background: rgba(10, 10, 10, 0.92);
-  backdrop-filter: blur(4px);
-  -webkit-backdrop-filter: blur(4px);
+.lightbox::backdrop {
+  background: transparent;
 }
 
 .lightbox__close {
@@ -1128,7 +1123,6 @@ a.deliverable-card__title:hover {
     scroll-behavior: auto !important;
   }
 
-  .badge:hover,
   .deliverable-card:hover,
   .gallery__hero-link:hover .gallery__hero-img,
   .gallery__tile-link:hover .gallery__tile-img {

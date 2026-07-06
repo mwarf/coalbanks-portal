@@ -32,11 +32,10 @@ const clientDisplayName = client
       </a>
     </header>
 
-    <!-- Breadcrumb -->
+    <!-- Breadcrumb — the client name links back to the project overview.
+         (No "Projects" crumb: there is deliberately no all-projects index.) -->
     <nav class="portal-breadcrumb" aria-label="Breadcrumb">
-      <a href={`/${client}/`}>Projects</a>
-      <span class="portal-breadcrumb__separator">/</span>
-      <span>{clientDisplayName}</span>
+      <a href={`/${client}/`}>{clientDisplayName}</a>
     </nav>
 
     <!-- Main -->

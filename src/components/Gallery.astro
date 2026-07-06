@@ -70,9 +70,8 @@ const totalCount = images.length;
   )}
 </section>
 
-{/* Lightbox overlay */}
-<div class="lightbox" id="galleryLightbox" role="dialog" aria-modal="true" aria-label="Image viewer" hidden>
-  <div class="lightbox__backdrop"></div>
+{/* Lightbox overlay — native <dialog> for free focus trapping, Esc, and focus restore */}
+<dialog class="lightbox" id="galleryLightbox" aria-label="Image viewer">
   <button class="lightbox__close" aria-label="Close viewer" type="button">
     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
   </button>
@@ -89,7 +88,7 @@ const totalCount = images.length;
     <p class="lightbox__caption"></p>
     <span class="lightbox__counter"></span>
   </div>
-</div>
+</dialog>
 
 {/* Hidden data for lightbox JS */}
 <script id="galleryData" type="application/json" set:html={JSON.stringify(images.map(img => ({
@@ -111,8 +110,9 @@ const totalCount = images.length;
   }, { threshold: 0.1, rootMargin: '0px 0px 60px 0px' });
   reveals.forEach((el) => observer.observe(el));
 
-  // Lightbox
-  const lightbox = document.getElementById('galleryLightbox')!;
+  // Lightbox — native <dialog>: showModal() traps focus, Esc closes, and the
+  // browser restores focus to the tile that opened it.
+  const lightbox = document.getElementById('galleryLightbox') as HTMLDialogElement;
   const lbImg = lightbox.querySelector('.lightbox__img') as HTMLImageElement;
   const lbCaption = lightbox.querySelector('.lightbox__caption')!;
   const lbCounter = lightbox.querySelector('.lightbox__counter')!;
@@ -126,14 +126,16 @@ const totalCount = images.length;
     lbImg.alt = img.alt;
     lbCaption.textContent = img.caption;
     lbCounter.textContent = `${current + 1} / ${images.length}`;
-    lightbox.hidden = false;
-    document.body.style.overflow = 'hidden';
+    if (!lightbox.open) {
+      lightbox.showModal();
+      document.body.style.overflow = 'hidden';
+    }
   }
 
-  function close() {
-    lightbox.hidden = true;
+  // Fires for every close path (button, Esc, stage click)
+  lightbox.addEventListener('close', () => {
     document.body.style.overflow = '';
-  }
+  });
 
   // Open triggers
   document.querySelectorAll('[data-lightbox]').forEach((btn) => {
@@ -143,15 +145,17 @@ const totalCount = images.length;
   });
 
   // Controls
-  lightbox.querySelector('.lightbox__close')!.addEventListener('click', close);
-  lightbox.querySelector('.lightbox__backdrop')!.addEventListener('click', close);
+  lightbox.querySelector('.lightbox__close')!.addEventListener('click', () => lightbox.close());
   lightbox.querySelector('.lightbox__nav--prev')!.addEventListener('click', () => show(current - 1));
   lightbox.querySelector('.lightbox__nav--next')!.addEventListener('click', () => show(current + 1));
 
-  // Keyboard
-  document.addEventListener('keydown', (e) => {
-    if (lightbox.hidden) return;
-    if (e.key === 'Escape') close();
+  // Click on the empty stage area (not the image) closes
+  lightbox.querySelector('.lightbox__stage')!.addEventListener('click', (e) => {
+    if (e.target === e.currentTarget) lightbox.close();
+  });
+
+  // Arrow-key navigation (Esc is handled natively by <dialog>)
+  lightbox.addEventListener('keydown', (e) => {
     if (e.key === 'ArrowLeft') show(current - 1);
     if (e.key === 'ArrowRight') show(current + 1);
   });
