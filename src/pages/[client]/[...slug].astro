@@ -1,24 +1,20 @@
 ---
-import { getCollection, render } from 'astro:content';
+import { render } from 'astro:content';
 import PortalLayout from '../../layouts/PortalLayout.astro';
 import AssetLink from '../../components/AssetLink.astro';
 import Gallery from '../../components/Gallery.astro';
 import VideoPlayer from '../../components/VideoPlayer.astro';
+import { getPublishedEntries, entrySlug } from '../../lib/portal';
 
 export async function getStaticPaths() {
-  const entries = await getCollection('portal', (e) => e.data.publish === true);
+  const entries = await getPublishedEntries();
 
   return entries
     .filter((e) => e.id !== e.data.client)   // index entries are handled by [client]/index.astro
-    .map((entry) => {
-      // entry.id is like "stranville-living/production-update"
-      // We need slug to be "production-update" (strip client prefix)
-      const slug = entry.id.replace(entry.data.client + '/', '');
-      return {
-        params: { client: entry.data.client, slug },
-        props: { entry },
-      };
-    });
+    .map((entry) => ({
+      params: { client: entry.data.client, slug: entrySlug(entry) },
+      props: { entry },
+    }));
 }
 
 const { entry } = Astro.props;

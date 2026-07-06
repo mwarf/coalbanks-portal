@@ -1,14 +1,15 @@
 ---
-import { getCollection, render } from 'astro:content';
+import { render } from 'astro:content';
 import PortalLayout from '../../layouts/PortalLayout.astro';
 import DeliverableCard from '../../components/DeliverableCard.astro';
 import AssetLink from '../../components/AssetLink.astro';
 import Gallery from '../../components/Gallery.astro';
 import VideoPlayer from '../../components/VideoPlayer.astro';
 import ProjectSummary from '../../components/ProjectSummary.astro';
+import { getPublishedEntries, entrySlug } from '../../lib/portal';
 
 export async function getStaticPaths() {
-  const entries = await getCollection('portal', (e) => e.data.publish === true);
+  const entries = await getPublishedEntries();
 
   // Group entries by client to get unique client paths
   const clients = [...new Set(entries.map((e) => e.data.client))];
@@ -19,7 +20,7 @@ export async function getStaticPaths() {
 }
 
 const { client } = Astro.params;
-const allEntries = await getCollection('portal', (e) => e.data.publish === true && e.data.client === client);
+const allEntries = (await getPublishedEntries()).filter((e) => e.data.client === client);
 
 // Find the overview/index entry — glob loader gives index.md an id equal to the folder name
 const overviewEntry = allEntries.find((e) => e.id === client);
@@ -67,12 +68,11 @@ const videos = overviewEntry?.data.videos ?? [];
     <section class="notes-list">
       <h2 class="notes-list__heading">Project Timeline</h2>
       {otherEntries.map((entry, i) => {
-        const slug = entry.id.replace(entry.data.client + '/', '');
         return (
           <DeliverableCard
             title={entry.data.title}
             status={entry.data.status}
-            url={`/${entry.data.client}/${slug}`}
+            url={`/${entry.data.client}/${entrySlug(entry)}`}
             date={entry.data.date}
             type={entry.data.type}
             index={i}
