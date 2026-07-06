@@ -776,14 +776,15 @@ a.deliverable-card__title:hover {
   }
 }
 
-/* Reveal animation */
-.gallery__reveal {
+/* Reveal animation — hidden state only applies when JS is running (BaseLayout
+   sets .js on <html>), so galleries stay visible if scripts fail or are blocked. */
+.js .gallery__reveal {
   opacity: 0;
   transform: translateY(16px);
   transition: opacity 0.6s ease, transform 0.6s ease;
 }
 
-.gallery__visible {
+.js .gallery__visible {
   opacity: 1;
   transform: translateY(0);
 }
@@ -1112,4 +1113,25 @@ a.deliverable-card__title:hover {
 .deliverable-card {
   animation: fadeInUp 0.35s ease-out both;
   animation-delay: calc(var(--i, 0) * 0.05s);
+}
+
+/* --- Reduced Motion --- */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-delay: 0s !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    transition-delay: 0s !important;
+    scroll-behavior: auto !important;
+  }
+
+  .badge:hover,
+  .deliverable-card:hover,
+  .gallery__hero-link:hover .gallery__hero-img,
+  .gallery__tile-link:hover .gallery__tile-img {
+    transform: none;
+  }
 }

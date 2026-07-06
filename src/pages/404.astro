@@ -1,0 +1,96 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout title="Page Not Found — Coalbanks Creative">
+  <main id="main" class="landing">
+    <div class="landing__card">
+      <img src="/logo-coalbanks.svg" alt="Coalbanks Creative" class="landing__logo" />
+      <div class="landing__rule"></div>
+      <h1 class="landing__title">Page Not Found</h1>
+      <p class="landing__body">
+        This page doesn't exist or is no longer available.
+        If you followed a link from an email, double-check the address —
+        or use the original link to sign back in to your project.
+      </p>
+      <div class="landing__rule"></div>
+      <p class="landing__contact">
+        Need a hand? Reach out to
+        <a href="mailto:michael@coalbanks.ca">michael@coalbanks.ca</a>
+      </p>
+      <p class="landing__footer">
+        &copy; Coalbanks Creative Inc. &middot; Lethbridge, Alberta
+      </p>
+    </div>
+  </main>
+</BaseLayout>
+
+<style>
+  .landing {
+    min-height: 100dvh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+  }
+
+  .landing__card {
+    max-width: 480px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .landing__logo {
+    width: 200px;
+    height: auto;
+    margin-bottom: 2rem;
+  }
+
+  .landing__rule {
+    width: 48px;
+    height: 1px;
+    background: var(--color-rule);
+    margin: 1.75rem auto;
+  }
+
+  .landing__title {
+    font-family: var(--font-heading);
+    font-size: var(--size-xl);
+    font-weight: 500;
+    color: var(--color-accent);
+    margin: 0 0 1.25rem;
+    letter-spacing: -0.01em;
+  }
+
+  .landing__body {
+    font-family: var(--font-body);
+    font-size: var(--size-sm);
+    color: var(--color-mid);
+    line-height: 1.7;
+    margin: 0 0 0.75rem;
+  }
+
+  .landing__contact {
+    font-family: var(--font-body);
+    font-size: var(--size-sm);
+    color: var(--color-text);
+    margin: 0 0 1.5rem;
+  }
+
+  .landing__contact a {
+    color: var(--color-accent);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  .landing__contact a:hover {
+    color: var(--color-text);
+  }
+
+  .landing__footer {
+    font-family: var(--font-body);
+    font-size: 0.75rem;
+    color: var(--color-mid);
+    margin: 0;
+    letter-spacing: 0.02em;
+  }
+</style>
