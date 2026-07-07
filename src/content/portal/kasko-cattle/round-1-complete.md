@@ -33,20 +33,23 @@ Scheduling is currently under review and not yet finalized, but here's what we'r
 
 ### Round 2 Interviews
 
-We've identified a few more voices that would strengthen the story. These are still being scheduled:
+Six voices confirmed for Round 2 field sessions. Introductions from Ryan are pending:
 
-- **Greg Kasko** — operational perspective and brother dynamics
-- **Todd** (feedlot manager) — the day-to-day reality of the operation
-- **Bailey** — the next generation working directly with the cattle
-- **Shannon** — financial-side view and the building's design partnership
+- **Todd Lang** (General Manager) — field session at the pens. Dylan's portrait of his dad already built Todd's presence in the film
+- **Greg Kasko** (Feedlot Manager, Home Lot) — operational reality, brother dynamics, his own read on the future
+- **Bailey** — strongest next-generation voice on camera. Field format in the pens
+- **Shannon Kasko** (Office Manager) — perspective on the business family, design partnership on the new HQ
+- **Nate Hubbard** (Farm Manager) — 6,000+ acres of irrigation and crop production. The "growing food" voice
+- **Dwight Morhart** (Marketing & Risk Manager) — 30-year employee. Markets, BSE crash, loyalty and longevity
 
 ### Additional Filming Blocks
 
 Beyond the interviews, we've built a shot list organized by location and priority:
 
-- **Ryan & Les Truck Day** — staging Ryan's own description of his perfect day: picking up his dad and driving out to check cattle and crops. This single day could yield some of the most natural, connective footage in the film.
-- **Home Lot Field Sessions** — capturing Todd, Greg, and Bailey working cattle in their element. Field-format interviews rather than sit-downs — the work itself does half the interviewing.
-- **Community Garden Anchor Frames** — establishing repeatable camera positions to document the garden's transformation through the season
+- **Ryan & Les Truck Day** — early/late September, timed around harvest season and the fall cattle run. In-cab audio, vehicle shots, drone coverage
+- **Home Lot Field Sessions** — capturing Todd, Greg, and Bailey working cattle in their element. Field-format interviews rather than sit-downs — the work itself does half the interviewing
+- **Community Garden Interview** — separate visit before Aug 13. Awaiting intro to Julie Landy Deboer from the Garden Society. Informal field chat while planting/watering
+- **Community Kitchen Anchor Frames** — urgent. Basement being dug this week. Repeatable photo series documenting construction through October
 - **RNG (Renewable Natural Gas) Site** — documenting the pre-construction state ahead of groundbreaking
 - **Family Music** — if a family gathering with music happens during the production window, we'd love to capture it
 

@@ -3,7 +3,7 @@ title: "Brand Film — Project Overview & Brief"
 client: kasko-cattle
 publish: true
 status: approved
-date: 2026-07-06
+date: 2026-07-07
 type: brief
 ---
 
@@ -36,7 +36,9 @@ The story arc spans three generations — Les & Betty's generation, Ryan & his s
 | **Jun 18–19** | Team meetings + b-roll                                    | Moose Lodge, Banff | ✅ Complete                |
 | **Jun 29**    | Family meeting & on-camera interviews — Round 1           | New HQ             | ✅ Complete                |
 | **Aug 13**    | Community Garden & HQ Open House (4:00–7:00pm)            | New HQ             | ⏳ Upcoming                |
-| **TBD**       | Round 2 interviews + field sessions                       | TBD                | 🔲 Scheduling in progress |
+| **TBD**       | Community garden interview (separate from event)         | Community garden   | 🔲 Awaiting intro |
+| **TBD**       | Round 2 field sessions — Todd, Greg, Bailey, Shannon, Nate, Dwight | Various lots + farm | 🔲 Intros pending |
+| **Sep TBD**   | Ryan + Les Truck Day (harvest/fall run)                  | Various            | 🔲 Timing flexible |
 
 ## Current Status
 
@@ -50,13 +52,25 @@ The story arc spans three generations — Les & Betty's generation, Ryan & his s
 - ✅ **On-camera interviews — Round 1 (June 29)** — Ryan, Rhonda, Ella, Dylan, Parker, Jackson, Les, and Betty all sat down for on-camera interviews at the new Coaldale office and yard.
 - ✅ **All Round 1 interviews transcribed** — Story Bible built mapping narrative threads across all three films
 - ✅ **Master shot list created** — covering all remaining production blocks through October
-- ⏳ **August 13** — Community Garden & HQ Open House coverage confirmed
-- 🔲 **Round 2 interviews** — Greg, Todd, Bailey, Shannon. Scheduling under review.
+- ⏳ **August 13** — Community Garden & HQ Open House confirmed. **John Wort Hannam Trio performing** — live music capture planned
+- 🔲 **Community garden interview** — separate visit before Aug 13. Awaiting intro to Julie Landy Deboer (Garden Society)
+- 🔲 **Community kitchen anchor frames** — urgent. Basement being dug this week. Repeatable photo series through October
+- 🔲 **Round 2 interviews** — six voices confirmed: Todd Lang (GM), Greg Kasko (Home Lot), Bailey, Shannon Kasko, Nate Hubbard (Farm Mgr), Dwight Morhart (Marketing/Risk, 30yr)
+- 🔲 **Ryan + Les truck day** — early/late September, harvest season + fall cattle run
 
 ## Next Step for You
 
-June 29 was a big day — we got everyone on camera, from Les and Betty right through to the next generation. That's the heart of this film, and it's now in the can. The transcripts are revealing powerful themes that connect all three generations.
+The heart of the film is in the can — June 29 captured three generations on camera at the new Coaldale office. The Story Bible and shot list are built, and we're now into the field production phase.
 
-We'll be on-site for the **August 13 open house** to capture the community garden and HQ in action. After that, we'll coordinate Round 2 interviews and field sessions — scheduling is currently under review.
+**Immediate priorities:**
+- Community kitchen anchor frames need to happen this week — the basement is going in
+- Garden interview with Julie Landy Deboer — separate visit before the Aug 13 event
+
+**Upcoming:**
+- Aug 13 event coverage (John Wort Hannam Trio confirmed)
+- Round 2 field sessions — six voices across multiple visits
+- Truck day with Ryan and Les — September, harvest season
+
+➡️ [Production Update — Round 2 Plan & Garden](/kasko-cattle/round-2-plan-jul7/)
 
 Questions? Reach out to **michael@coalbanks.com**.
