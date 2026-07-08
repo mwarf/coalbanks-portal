@@ -36,8 +36,8 @@ The story arc spans three generations — Les & Betty's generation, Ryan & his s
 | **Jun 18–19** | Team meetings + b-roll                                    | Moose Lodge, Banff | ✅ Complete                |
 | **Jun 29**    | Family meeting & on-camera interviews — Round 1           | New HQ             | ✅ Complete                |
 | **Aug 13**    | Community Garden & HQ Open House (4:00–7:00pm)            | New HQ             | ⏳ Upcoming                |
-| **TBD**       | Community garden interview (separate from event)         | Community garden   | 🔲 Awaiting intro |
-| **TBD**       | Round 2 field sessions — Todd, Greg, Bailey, Shannon, Nate, Dwight | Various lots + farm | 🔲 Intros pending |
+| **TBD**       | Community garden interview — separate visit before Aug 13 | Community garden   | ⏳ Intro sent (Julie Landy-Deboer) |
+| **TBD**       | Round 2 field sessions — Todd, Greg, Bailey, Shannon, Nate, Dwight | Various lots + farm | ⏳ Intros sent, awaiting schedules |
 | **Sep TBD**   | Ryan + Les Truck Day (harvest/fall run)                  | Various            | 🔲 Timing flexible |
 
 ## Current Status
@@ -53,9 +53,9 @@ The story arc spans three generations — Les & Betty's generation, Ryan & his s
 - ✅ **All Round 1 interviews transcribed** — Story Bible built mapping narrative threads across all three films
 - ✅ **Master shot list created** — covering all remaining production blocks through October
 - ⏳ **August 13** — Community Garden & HQ Open House confirmed. **John Wort Hannam Trio performing** — live music capture planned
-- 🔲 **Community garden interview** — separate visit before Aug 13. Awaiting intro to Julie Landy Deboer (Garden Society)
+- 🔲 **Community garden interview** — separate visit before Aug 13. Intro sent to **Julie Landy-Deboer** (Garden Society president). She may be at Kasko's space Friday Jul 11 — aiming to connect then.
 - 🔲 **Community kitchen anchor frames** — urgent. Basement being dug this week. Repeatable photo series through October
-- 🔲 **Round 2 interviews** — six voices confirmed: Todd Lang (GM), Greg Kasko (Home Lot), Bailey, Shannon Kasko, Nate Hubbard (Farm Mgr), Dwight Morhart (Marketing/Risk, 30yr)
+- ⏳ **Round 2 interviews** — intros sent to all six: Todd Lang (GM), Greg Kasko (Home Lot), Bailey, Shannon Kasko, Nate Hubbard (Farm Mgr), Dwight Morhart (Marketing/Risk, 30yr). Awaiting time windows.
 - 🔲 **Ryan + Les truck day** — early/late September, harvest season + fall cattle run
 
 ## Next Step for You
