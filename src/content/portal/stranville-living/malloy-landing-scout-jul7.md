@@ -5,6 +5,9 @@ publish: true
 status: in-review
 date: 2026-07-08
 type: update
+videos:
+  - id: "1b133064e710266bfc9f4e04dc9275c3"
+    title: "Malloy Landing — Aerial Selects (Sunset + Sunrise)"
 ---
 
 ## Malloy Landing Drone Coverage — July 7–8
@@ -29,7 +32,7 @@ The first visit at sunset revealed that the sun direction wasn't ideal for most 
 
 ### Selects Reel
 
-A selects reel from both shoots is coming soon and will be posted here for review.
+The selects reel from both shoots is posted above for review.
 
 ### Where This Fits
 
