@@ -69,6 +69,7 @@ type: brief
 | Deposit received | Jun 10 | ✅ Complete |
 | Production plan sent | Jun 26 | ✅ Complete |
 | Coleman scouting trip | Jul 3 | ✅ Complete |
+| Malloy Landing aerial scout | Jul 7–8 | ✅ Complete |
 | Scout footage delivered | Jul 5 | ✅ Complete |
 | Production dates confirmed | Jul 20–23 | ⏳ Confirming |
 | Principal photography | Jul 20–23 | ⏳ Scheduled |
@@ -81,6 +82,8 @@ Production planning is in full swing. The shoot week is **July 20–23** with a 
 Coleman scouting is complete — test footage and aerials from four properties are available for review (see below). That footage establishes the cinematic look for the campaign.
 
 ### Recent Updates
+
+➡️ [Malloy Landing — Aerial Scout (Sunset + Sunrise)](/stranville-living/malloy-landing-scout-jul7/) — Jul 7–8 drone coverage of subdivision, rec centre, and framing-stage townhome
 
 ➡️ [Coleman Scouting Trip — Selects & Aerials](/stranville-living/coleman-scout-jul3/) — Jul 3 scout with anamorphic test footage and drone aerials
 
