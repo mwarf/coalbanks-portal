@@ -50,6 +50,9 @@ gallery:
     thumb: "https://assets.coalbanks.com/stranville-living/hemsdale-match-cut-tests/hf_20260709_205010_78bab364-5d32-44a4-8287-0d08f9661247-720w.webp"
     alt: "Real drone aerial photograph of the Hemsdale showhome at Legacy Park shot from above, showing the roof structure, front balcony furniture, neighbouring homes, sidewalks and street trees"
     caption: "Real drone photo — Legacy Park, aerial overview"
+videos:
+  - id: "a5e43866097710f56ca2d98d0e3ef5de"
+    title: "Hemsdale Match-Cut Animation Tests"
 ---
 
 ## Match-Cut Test Gallery
@@ -58,7 +61,9 @@ These images are the first step in building the **Hemsdale match-cut sequence** 
 
 ### What's in This Gallery
 
-The set mixes **real photographs** taken today at the Legacy Park Hemsdale showhome with **AI-generated variations** that explore alternate angles, times of day, lighting conditions, and exterior material options. The AI variations were generated from the real reference photos to test whether the match-cut transition can work when the two sides of the cut don't have perfectly matching conditions — different sky colour, slightly different angle, or different exterior finishes.
+The video above shows early animation tests for the match-cut transition — ranging from simple cuts to more stylised transitions. The simpler versions are likely closer to what will work in the final anthem.
+
+The image set mixes **real photographs** taken today at the Legacy Park Hemsdale showhome with **AI-generated variations** that explore alternate angles, times of day, lighting conditions, and exterior material options. The AI variations were generated from the real reference photos to test whether the match-cut transition can work when the two sides of the cut don't have perfectly matching conditions — different sky colour, slightly different angle, or different exterior finishes.
 
 **Real photos (Legacy Park):**
 - Straight-on daytime and twilight exterior shots
