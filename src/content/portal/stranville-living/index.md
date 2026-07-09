@@ -71,6 +71,8 @@ type: brief
 | Coleman scouting trip | Jul 3 | ✅ Complete |
 | Malloy Landing aerial scout | Jul 7–8 | ✅ Complete |
 | Scout footage delivered | Jul 5 | ✅ Complete |
+| Lifestyle talent booked | Jul 9 | ✅ Complete |
+| Lifestyle shoot (Hemsdale + Legacy Park) | Jul 17 | ⏳ Scheduled |
 | Production dates confirmed | Jul 20–23 | ⏳ Confirming |
 | Principal photography | Jul 20–23 | ⏳ Scheduled |
 | Final delivery | Late September | ⏳ Planned |
@@ -80,6 +82,8 @@ type: brief
 Production planning is in full swing. The shoot week is **July 20–23** with a 4-day plan covering Lethbridge/Coaldale interiors, documentary profiles, and the Crowsnest Pass mountain push.
 
 Coleman scouting is complete — test footage and aerials from four properties are available for review (see below). That footage establishes the cinematic look for the campaign.
+
+**Lifestyle shoot is booked for Friday July 17 at 9:00 AM.** Matt and Steph White and their kids will be shooting lifestyle content at the Hemsdale showhome and Legacy Park. This captures the real-family moments that anchor the "Because Home Matters" side of the campaign.
 
 ### Recent Updates
 
@@ -93,7 +97,7 @@ Coleman scouting is complete — test footage and aerials from four properties a
 
 A few key items to lock down this week so we stay on track for Jul 20:
 
-- **Family for documentary profile** — we need a family confirmed by **Friday Jul 11** to keep Day 2 on schedule. Names, contact info, and whether they're comfortable on camera.
+- **Family for documentary profile** — we still need a family confirmed by **Friday Jul 11** to keep Day 2 on schedule. Names, contact info, and whether they're comfortable on camera. (Note: Matt & Steph White are booked for a separate lifestyle/B-roll shoot on Jul 17 — not the doc profile.)
 - **Three team voices** — one person each from construction, design, and sales for the documentary profile. Who's available Jul 21 in the afternoon?
 - **Coleman Hemsdale staging** — the showhome at 8619 25th Ave is complete but unfurnished. Does the sales team have staging inventory that could be placed for the Jul 22 shoot?
 - **Crowsnest Pass accommodation** — is the Coleman accommodation available for the night of Jul 22?
