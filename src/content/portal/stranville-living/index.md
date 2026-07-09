@@ -72,6 +72,7 @@ type: brief
 | Malloy Landing aerial scout | Jul 7–8 | ✅ Complete |
 | Scout footage delivered | Jul 5 | ✅ Complete |
 | Lifestyle talent booked | Jul 9 | ✅ Complete |
+| Hemsdale match-cut tests | Jul 9 | ✅ Complete |
 | Lifestyle shoot (Hemsdale + Legacy Park) | Jul 17 | ⏳ Scheduled |
 | Production dates confirmed | Jul 20–23 | ⏳ Confirming |
 | Principal photography | Jul 20–23 | ⏳ Scheduled |
@@ -83,9 +84,13 @@ Production planning is in full swing. The shoot week is **July 20–23** with a 
 
 Coleman scouting is complete — test footage and aerials from four properties are available for review (see below). That footage establishes the cinematic look for the campaign.
 
+Match-cut testing is underway — real photographs from the Legacy Park Hemsdale showhome paired with AI-generated variations are helping plan the centrepiece transition between the Lethbridge and Coleman shoots.
+
 **Lifestyle shoot is booked for Friday July 17 at 9:00 AM.** Matt and Steph White and their kids will be shooting lifestyle content at the Hemsdale showhome and Legacy Park. This captures the real-family moments that anchor the "Because Home Matters" side of the campaign.
 
 ### Recent Updates
+
+➡️ [Hemsdale Match-Cut Tests](/stranville-living/hemsdale-match-cut-tests/) — Jul 9 test gallery exploring angles, times of day, and material variations for the anthem centrepiece transition
 
 ➡️ [Malloy Landing — Aerial Scout (Sunset + Sunrise)](/stranville-living/malloy-landing-scout-jul7/) — Jul 7–8 drone coverage of subdivision, rec centre, and framing-stage townhome
 
