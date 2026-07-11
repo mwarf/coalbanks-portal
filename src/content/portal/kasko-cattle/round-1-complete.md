@@ -48,7 +48,7 @@ Beyond the interviews, we've built a shot list organized by location and priorit
 
 - **Ryan & Les Truck Day** — early/late September, timed around harvest season and the fall cattle run. In-cab audio, vehicle shots, drone coverage
 - **Home Lot Field Sessions** — capturing Todd, Greg, and Bailey working cattle in their element. Field-format interviews rather than sit-downs — the work itself does half the interviewing
-- **Community Garden Interview** — separate visit before Aug 13. Awaiting intro to Julie Landy Deboer from the Garden Society. Informal field chat while planting/watering
+- **Community Garden Interview** — ✅ complete (July 10). Julie Landy Deboer from the Coaldale Community Garden Association sat down for an on-camera interview at the garden
 - **Community Kitchen Anchor Frames** — urgent. Basement being dug this week. Repeatable photo series documenting construction through October
 - **RNG (Renewable Natural Gas) Site** — documenting the pre-construction state ahead of groundbreaking
 - **Family Music** — if a family gathering with music happens during the production window, we'd love to capture it
@@ -65,6 +65,7 @@ All of these are flexible and will be coordinated with Ryan and the family's sch
 | Banff team meeting + b-roll | Jun 18–19 | ✅ Complete |
 | Family meeting + interviews, Round 1 | Jun 29 | ✅ Complete |
 | Community Garden & HQ Open House | **Aug 13** | ⏳ Upcoming |
+| Community garden interview | Jul 10 | ✅ Complete |
 | Round 2 interviews + field sessions | TBD | 🔲 Scheduling in progress |
 
 ## Stay in Touch

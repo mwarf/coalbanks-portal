@@ -8,6 +8,11 @@ type: update
 videos:
   - id: "673aadd819222ccb8b2b435d01676764"
     title: "Community Garden B-Roll Sample"
+gallery:
+  - src: "https://assets.coalbanks.com/kasko-cattle/garden-interview/julie-garden-portrait.webp"
+    thumb: "https://assets.coalbanks.com/kasko-cattle/garden-interview/julie-garden-portrait-720w.webp"
+    alt: "Julie Landy Deboer smiling warmly, holding a garden hoe over her shoulder at the Coaldale Community Garden with raised planting beds and evergreen trees behind her"
+    caption: "Julie Landy Deboer, president of the Coaldale Community Garden Association, during the July 10 interview session"
 ---
 
 ## Garden Interview Complete

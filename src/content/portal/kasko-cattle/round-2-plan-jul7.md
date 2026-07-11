@@ -26,13 +26,11 @@ Ryan has green-lit all six Round 2 interviews. Introductions are pending:
 
 These will be spread across multiple visits rather than one big shoot day.
 
-### Community Garden — Separate Visit Before Aug 13
+### Community Garden — ✅ Complete (July 10)
 
-Ryan is connecting us with **Julie Landy Deboer** from the Coaldale Community Garden Association. The plan:
+**Julie Landy Deboer** from the Coaldale Community Garden Association sat down for an on-camera interview at the community garden, with b-roll captured at the same time. This fills the community voice gap that the Round 1 family interviews left open — Julie's perspective on the garden partnership gives the film its "outside looking in" moment.
 
-- Informal field interview while she's planting or watering — a quiet chat in the beds
-- Captures the community voice that none of the family interviews covered
-- Separate from the Aug 13 event — the event day is coverage only, no interviews
+➡️ [Community Garden Interview — Full Update](/kasko-cattle/garden-interview-jul10/)
 
 ### Community Kitchen Anchor Frames — Urgent
 
