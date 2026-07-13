@@ -6,7 +6,7 @@ status: delivered
 date: 2026-07-10
 type: update
 videos:
-  - id: "673aadd819222ccb8b2b435d01676764"
+  - id: "c08c768bd1c0a15cd45dd7ff654b9828"
     title: "Community Garden B-Roll Sample"
 gallery:
   - src: "https://assets.coalbanks.com/kasko-cattle/garden-interview/julie-garden-portrait.webp"
