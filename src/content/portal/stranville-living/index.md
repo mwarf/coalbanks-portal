@@ -93,7 +93,7 @@ Match-cut testing is underway — real photographs from the Legacy Park Hemsdale
 
 **Lifestyle shoot is booked for Friday July 17 at 9:00 AM.** Matt and Steph White and their kids will be shooting lifestyle content at the Hemsdale showhome and Legacy Park. This captures the real-family moments that anchor the "Because Home Matters" side of the campaign.
 
-**Documentary family confirmed — Kim & Trevor** are available Wednesday or Thursday (Jul 22-23), 9am–12pm. Final scheduling TBC.
+**Documentary family confirmed — Kim & Trevor** will be filmed the week of July 27 as a dedicated session, separate from the main shoot week.
 
 **Crowsnest Pass accommodation booked** at BCMInns for the night of Jul 22.
 
