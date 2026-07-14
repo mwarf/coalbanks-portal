@@ -149,7 +149,7 @@ Conventions that must survive edits:
 - **Reduced motion:** the `@media (prefers-reduced-motion: reduce)` block at the end of
   `global.css` zeroes animations/transitions. New animations must respect it.
 - Client-side JS is limited to the gallery lightbox/reveal — keep it that way unless
-  strictly necessary.
+  strictly necessary. The only other exception is Mermaid Gantt charts (see below).
 
 ---
 
@@ -179,6 +179,87 @@ npm run preview      # serve dist/ locally
 
 Node ≥ 22.12. Always confirm `npm run build` succeeds before ending a session —
 whatever is in the tree will auto-deploy.
+
+---
+
+## Mermaid Gantt Charts (Build-Time SVG)
+
+The portal supports Mermaid diagrams rendered to inline SVG at build time —
+**zero client-side JavaScript**. Used for project timeline/Gantt charts on pages
+like `/stranville-living/production-plan/`.
+
+### How it works
+
+1. Write diagrams as standard fenced ` ```mermaid` code blocks in `.mdx` files
+2. `src/lib/remark-mermaid-fence.ts` — remark plugin that extracts mermaid code
+   blocks before Shiki syntax highlighting can transform them (Shiki would
+   otherwise convert them to highlighted `<pre><code>` that rehype-mermaid
+   can't read)
+3. `rehype-mermaid` (npm) renders them to inline SVG at build time using
+   Playwright headless Chromium (installed in `~/Library/Caches/ms-playwright/`)
+4. `src/lib/rehype-mermaid-theme.ts` — rehype plugin that post-processes the
+   SVG output, injecting a `<style>` override block with Prairie Cinematic
+   colors. This is necessary because Mermaid's `themeVariables` only controls
+   a subset of the rendered CSS classes
+5. Result: a static `<svg>` element inlined in the HTML — crisp, print-friendly,
+   no JS payload
+
+### Prairie Cinematic Gantt palette
+
+Per-section task bar colors (applied via CSS class overrides in the SVG):
+
+| Section | task class | Fill | Stroke | Status |
+|---------|-----------|------|--------|--------|
+| Pre-Production | `.task0` / `.done0` | `#C8DCC8` sage | `#A8C8A8` | done |
+| Shoot Week | `.task1` / `.active1` | `#F0C868` / `#FFB940` amber | `#B8860B` / `#8B5E00` | active |
+| Documentary | `.task2` | `#4A7AA8` steel blue | `#2D5580` | default |
+| Post-Production | `.task3` | `#C4B08C` bronze | `#9A8060` | default |
+
+Grid lines: `#E5E0D8` at 0.5 opacity. Today line: dashed `#2D6A2D` sage.
+Section bands: alternating `#F0EDE5` / `#E8E4D9`.
+
+### Updating a Gantt chart
+
+Edit the fenced `mermaid` block in the `.mdx` file. Change dates, add tasks,
+rename sections — the build handles rendering. Key syntax:
+
+```
+```mermaid
+gantt
+title Chart Title
+dateFormat YYYY-MM-DD
+axisFormat %b %d
+tickInterval 1week
+
+section Section Name
+Task Name :status, id, start-date, duration
+```
+```
+
+Status keywords: `done`, `active`, `crit`, or omit for default.
+Duration: `1d`, `4d`, `28d`, `1w`, etc.
+
+### Files involved
+
+- `astro.config.mjs` — MDX integration, remark + rehype plugin chain, mermaidConfig
+- `src/lib/remark-mermaid-fence.ts` — extracts mermaid blocks pre-Shiki
+- `src/lib/rehype-mermaid-theme.ts` — post-processes SVG with Prairie Cinematic CSS
+- `src/content.config.ts` — content collection includes `**/*.mdx`
+- `playwright` + Chromium headless shell — required by `rehype-mermaid` for SVG rendering
+
+### Adding Mermaid to a new page
+
+1. Create or rename the content file to `.mdx`
+2. Add a ` ```mermaid` fenced code block with Gantt/diagram syntax
+3. Run `npm run build` — the SVG renders inline automatically
+4. No imports or component wiring needed — the plugin chain handles everything
+
+### Dependencies
+
+- `@astrojs/mdx@^6` — MDX support (v7 requires Astro 7; use v6 for Astro 6)
+- `rehype-mermaid@^3` — build-time SVG rendering
+- `playwright` — headless Chromium for `rehype-mermaid` (not `@mermaid-js/mermaid-cli`)
+- Client-side `mermaid` package is NOT installed (rendering is build-time only)
 
 ---
 
