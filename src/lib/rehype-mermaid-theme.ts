@@ -39,20 +39,20 @@ export function rehypeMermaidTheme() {
               .doneText0 { fill: #4A6B4A !important; }
               
               /* task1 = Shoot Week (active = warm amber) */
-              .task1 { fill: #FFE8B8 !important; stroke: #D4A946 !important; }
-              .active1 { fill: #FFD78A !important; stroke: #B8860B !important; }
-              .done1 { fill: #E8D4A8 !important; stroke: #C8B488 !important; }
+              .task1 { fill: #F0C868 !important; stroke: #B8860B !important; }
+              .active1 { fill: #FFB940 !important; stroke: #8B5E00 !important; }
+              .done1 { fill: #D8B870 !important; stroke: #A8884A !important; }
               .taskText1 { fill: #5A3E00 !important; font-weight: 500 !important; }
               .activeText1 { fill: #4A3000 !important; font-weight: 600 !important; }
               .doneText1 { fill: #6B5A2E !important; }
               
-              /* task2 = Documentary (slate blue) */
-              .task2 { fill: #D4DCE8 !important; stroke: #9AB0C8 !important; }
-              .taskText2 { fill: #1A3A5C !important; font-weight: 500 !important; }
+              /* task2 = Documentary (steel blue) */
+              .task2 { fill: #4A7AA8 !important; stroke: #2D5580 !important; }
+              .taskText2 { fill: #FFFFFF !important; font-weight: 600 !important; }
               
-              /* task3 = Post-Production (warm taupe) */
-              .task3 { fill: #DCCFC0 !important; stroke: #B8A898 !important; }
-              .taskText3 { fill: #3D2E1E !important; font-weight: 500 !important; }
+              /* task3 = Post-Production (warm bronze) */
+              .task3 { fill: #C4B08C !important; stroke: #9A8060 !important; }
+              .taskText3 { fill: #2D1E0A !important; font-weight: 500 !important; }
               
               /* Outside labels — darker for readability */
               .taskTextOutside0, .taskTextOutside1, .taskTextOutside2, .taskTextOutside3 {
