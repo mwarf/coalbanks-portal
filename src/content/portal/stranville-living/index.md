@@ -105,6 +105,8 @@ Match-cut testing is underway — real photographs from the Legacy Park Hemsdale
 
 ### Recent Updates
 
+➡️ [Production Plan](/stranville-living/production-plan/) — Full shoot schedule, location plan, staging needs, and post-production timeline
+
 ➡️ [Hemsdale Match-Cut Tests](/stranville-living/hemsdale-match-cut-tests/) — Jul 9 test gallery exploring angles, times of day, and material variations for the anthem centrepiece transition
 
 ➡️ [Malloy Landing — Aerial Scout (Sunset + Sunrise)](/stranville-living/malloy-landing-scout-jul7/) — Jul 7–8 drone coverage of subdivision, rec centre, and framing-stage townhome

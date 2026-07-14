@@ -1,0 +1,149 @@
+---
+title: "Production Plan — Better Everywhere"
+client: stranville-living
+publish: true
+status: in-review
+date: 2026-07-14
+type: brief
+---
+
+## The Campaign
+
+**Better Everywhere** is built around one idea: Stranville delivers the same standard whether your backyard faces a prairie park or the Rockies. The campaign captures that through three tiers of content, all shot in one production window.
+
+### What We're Producing
+
+| Deliverable | Description |
+|-------------|-------------|
+| **Brand Anthem** | 60–90 second cinematic film. The Hemsdale match-cut — a seamless transition from the Lethbridge kitchen to the Coleman kitchen, same island, different mountains out the window — is the centrepiece |
+| **Documentary Profile 1: The Family** | 2–3 minute film. One real Stranville family in their home, telling their story. Candid, not testimonial |
+| **Documentary Profile 2: The Team** | 2–3 minute film. Three Stranville voices — construction, design, and sales — anchored by the same family's experience |
+| **Social Library** | 12–15 short-form reels (#BetterMoments), 5–15 seconds each, built from production footage for year-round social rollout across Instagram, Facebook, and TikTok |
+| **Community Aerials** | Drone coverage across all key locations — Legacy Park, Malloy Landing, Crowsnest Pass against the Rockies |
+
+### The Match-Cut
+
+The signature moment of the campaign. A camera tracks along a kitchen island. A mug is set down. Cut on motion to the identical island in Coleman — a different hand completes the gesture, mountains visible through the window. Same countertop. Same cabinetry. Different life. Same builder.
+
+Both Hemsdale showhomes share the same floor plan and finishes, which makes the illusion possible. [Match-cut test gallery →](/stranville-living/hemsdale-match-cut-tests/)
+
+---
+
+## Production Schedule
+
+### Shoot Week: Monday July 20 – Thursday July 23
+
+| Day | Focus | Locations |
+|-----|-------|-----------|
+| **Day 1 — Mon Jul 20** | Lethbridge interiors, match-cut Side A, Malloy Landing, community aerials | BlackWolf Hemsdale, Legacy Park, Malloy Landing (Coaldale) |
+| **Day 2 — Tue Jul 21** | Team voices — construction site + design studio | Active build site (Coleman), Design Centre/Sales Centre |
+| **Day 3 — Wed Jul 22** | Mountain push — match-cut Side B, community coverage, golden hour | Coleman Hemsdale, Logan Duplex, Aurora, CNP aerials |
+| **Day 4 — Thu Jul 23** | Mountain wrap + contingency — weather reshoots, pickup shots, Sparwood | Crowsnest Pass, Sparwood (if time allows) |
+
+**Overnight Wed Jul 22:** BCMInns, Crowsnest Pass
+
+### Documentary Profile 1 — Week of July 27
+
+**Kim & Trevor** will be filmed at their home the week of July 27. This keeps the main shoot week focused on Lethbridge + mountain coverage, and gives the family profile its own dedicated session with a small, unhurried crew.
+
+*Pre-interview call (30–45 min, informal) to be scheduled the week prior.*
+
+---
+
+## Location Plan
+
+### Lethbridge / Coaldale
+
+| Location | Use | Status |
+|----------|-----|--------|
+| **BlackWolf Hemsdale Showhome** (343 BlackWolf Blvd) | Match-cut Side A, anthem lifestyle interiors, FPV sweep | ✅ Furnished showhome |
+| **Malloy Landing** (Coaldale) | Showhome interiors, rec facility context, community aerials | ✅ Access confirmed |
+| **Legacy Park** | Community establishing shots, aerials, park life | ✅ Public space |
+| **Active construction site** | Team voice interviews, framing/construction coverage | ✅ 127 Miners Rd (trusses ready Jul 20) |
+| **Design Centre / Sales Centre** | Design and sales voice interviews | ⏳ Confirming |
+
+### Coleman / Crowsnest Pass
+
+| Location | Use | Status |
+|----------|-----|--------|
+| **Coleman Hemsdale** (8619 25th Ave) | Match-cut Side B, hero interiors, deck + mountain shots | ⚠️ Complete but needs staging — see below |
+| **Logan Duplex Showhome** (8633–8677 24th Ave) | Furnished showhome coverage, FPV sweep | ✅ Near complete, furnished |
+| **Aurora Phase 2** | Construction energy, community activity | ✅ Active site |
+| **127 Miners Rd** | Framing "skeleton" shot — bones of a Hemsdale | ✅ Trusses ready by Jul 20 |
+
+> **Note:** 72 Kananaskis Wilds (Maycroft) has sold. The Coleman Hemsdale and Logan Duplex will absorb its hero coverage role. See [Coleman scouting footage →](/stranville-living/coleman-scout-jul3/)
+
+---
+
+## Coleman Hemsdale Staging
+
+The Coleman Hemsdale is complete but unfurnished. Since it's now our primary mountain hero property — covering both the match-cut and the aspirational interior shots — staging is essential.
+
+### What We Need Staged
+
+| Area | Priority | Items Needed |
+|------|----------|-------------|
+| **Kitchen island** | 🔴 Critical | 2 bar stools, clean countertops. We bring matched mug pair + food styling props |
+| **Deck** | 🟡 High | Clean and accessible. Patio chair or small bistro set if available |
+| **Living room** | 🟡 High | Sofa or armchair, side table, throw blanket |
+| **Dining area** | 🟠 Medium | Table with simple place settings or centerpiece |
+| **Primary bedroom** | 🟠 Medium | Made bed with clean linens, nightstand |
+| **Architecture details** | 🟢 Low | Works unstaged, but staging improves finish shots |
+
+**Crew arrives 7:30 AM Wed Jul 22.** Staging should be complete by then or coordinated on arrival. Door code: on file.
+
+---
+
+## Construction Site Access
+
+**Site contacts:**
+- **Joel Spanos** — 403-634-9475
+- **Brent Hardy** — 403-330-9977
+
+Please call or text before visiting any active site. They coordinate with trades and need 24 hours' notice.
+
+**Framing shot at 127 Miners Rd:** Roof trusses will be ready by July 20. Talk to Mike onsite. This captures the "bones of a Hemsdale" — the same structure as the finished homes, at the framing stage.
+
+**PPE required** at all active construction sites.
+
+---
+
+## What We Need from Stranville
+
+| Item | Status | Details |
+|------|--------|---------|
+| Coleman Hemsdale staging | ⏳ Pending | Shot list sent to staging/design team. Items listed above |
+| Three team voices | ⏳ Pending | One each from construction, design, and sales. Available Jul 21 afternoon? |
+| Kim & Trevor contact info | ⏳ Pending | For direct coordination of pre-interview and Jul 27-30 shoot |
+| Malloy Landing showhome access | ⏳ Confirming | Address + access for Day 1 |
+| Design Centre / Sales Centre | ⏳ Confirming | For Day 2 team interviews |
+
+---
+
+## Post-Production Timeline
+
+| Deliverable | Target |
+|------------|--------|
+| First social reels batch (6–8) | ~Aug 20 |
+| Brand anthem first cut | ~Aug 24 |
+| Documentary first cuts | ~Aug 31 |
+| Anthem final approved | Mid-September |
+| Full package delivery | Late September |
+
+Two revision rounds per deliverable. Feedback within 10 business days per cut keeps the timeline on track.
+
+---
+
+## Recent Updates
+
+➡️ [Abitibi Road Scout — Jul 13](/stranville-living/abitibi-scout-jul13/) — Interior walk-through of 1255 Abitibi Rd (framing/rough-ins)
+
+➡️ [Hemsdale Match-Cut Tests](/stranville-living/hemsdale-match-cut-tests/) — Jul 9 test gallery exploring angles, lighting, and material variations
+
+➡️ [Malloy Landing — Aerial Scout](/stranville-living/malloy-landing-scout-jul7/) — Jul 7–8 drone coverage of subdivision and rec centre
+
+➡️ [Coleman Scouting Trip](/stranville-living/coleman-scout-jul3/) — Jul 3 anamorphic test footage and aerials from four Coleman properties
+
+---
+
+*Questions? Contact **michael@coalbanks.com** or reach out through Sheva.*
