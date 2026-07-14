@@ -7,6 +7,8 @@ date: 2026-07-14
 type: brief
 ---
 
+import MermaidGantt from '../../../components/MermaidGantt.astro';
+
 ## The Campaign
 
 **Better Everywhere** is built around one idea: Stranville delivers the same standard whether your backyard faces a prairie park or the Rockies. The campaign captures that through three tiers of content, all shot in one production window.
@@ -47,6 +49,33 @@ Both Hemsdale showhomes share the same floor plan and finishes, which makes the 
 **Kim & Trevor** will be filmed at their home the week of July 27. This keeps the main shoot week focused on Lethbridge + mountain coverage, and gives the family profile its own dedicated session with a small, unhurried crew.
 
 *Pre-interview call (30–45 min, informal) to be scheduled the week prior.*
+
+### Timeline at a Glance
+
+<MermaidGantt chart={`gantt
+title Better Everywhere — Production Timeline
+dateFormat YYYY-MM-DD
+axisFormat %b %d
+
+section Pre-Production
+Scouting & Prep           :done, scout, 2026-07-03, 2026-07-16
+
+section Shoot Week
+Lifestyle Shoot (Matt & Steph) :done, lifestyle, 2026-07-17, 1d
+Day 1 — Lethbridge & Coaldale :active, day1, 2026-07-20, 1d
+Day 2 — Team Voices          :active, day2, 2026-07-21, 1d
+Day 3 — Crowsnest Pass       :active, day3, 2026-07-22, 1d
+Day 4 — Mountain Wrap        :active, day4, 2026-07-23, 1d
+
+section Documentary
+Kim & Trevor Family Profile :doc, 2026-07-27, 4d
+
+section Post-Production
+Edit Prep + Reels Batch 1  :post1, 2026-07-24, 28d
+Anthem First Cut → Final   :post2, 2026-08-24, 14d
+Doc First Cuts → Final     :post3, 2026-08-31, 14d
+Revisions & Final Delivery :post4, 2026-09-14, 7d
+`} />
 
 ---
 

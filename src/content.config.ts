@@ -5,7 +5,7 @@ import { z } from 'astro/zod';
 const portal = defineCollection({
   // Underscore-prefixed notes are Obsidian drafts — excluded here so they never
   // build, even if they slip past .gitignore. (.mdx dropped: no MDX integration.)
-  loader: glob({ pattern: ['**/*.md', '!**/_*'], base: './src/content/portal' }),
+  loader: glob({ pattern: ['**/*.md', '**/*.mdx', '!**/_*'], base: './src/content/portal' }),
   schema: z.object({
     title:       z.string(),
     client:      z.string(),                          // matches URL slug

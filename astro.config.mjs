@@ -1,5 +1,6 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
+import mdx from '@astrojs/mdx';
 
 /**
  * Wrap every Markdown <table> in a horizontally-scrollable container so wide
@@ -53,4 +54,5 @@ export default defineConfig({
   markdown: {
     rehypePlugins: [rehypeWrapTables],
   },
+  integrations: [mdx()],
 });
