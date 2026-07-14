@@ -2,6 +2,8 @@
 import { defineConfig } from 'astro/config';
 import mdx from '@astrojs/mdx';
 import rehypeMermaid from 'rehype-mermaid';
+import { remarkMermaidFence } from './src/lib/remark-mermaid-fence.ts';
+import { rehypeMermaidTheme } from './src/lib/rehype-mermaid-theme.ts';
 
 /**
  * Wrap every Markdown <table> in a horizontally-scrollable container so wide
@@ -53,6 +55,7 @@ export default defineConfig({
     ],
   },
   markdown: {
+    remarkPlugins: [remarkMermaidFence],
     rehypePlugins: [
       rehypeWrapTables,
       [rehypeMermaid, {
@@ -72,29 +75,44 @@ export default defineConfig({
             background: '#F9F8F5',
             mainBkg: '#E8F4E8',
             secondBkg: '#FFF7E6',
-            sectionBkgColor: '#F5F4F0',
-            altSectionBkgColor: '#F9F8F5',
-            sectionBkgColor2: '#F5F4F0',
-            taskBkgColor: '#E8F4E8',
-            taskTextColor: '#2D6A2D',
+            // Section bands — warmer alternating tones for clear separation
+            sectionBkgColor: '#F0EDE5',
+            altSectionBkgColor: '#E8E4D9',
+            sectionBkgColor2: '#F0EDE5',
+            // Task bars — each phase gets a distinct color via task0-3
+            // task0 = Pre-Production (sage green)
+            // task1 = Shoot Week (warm amber)
+            // task2 = Documentary (slate blue)
+            // task3 = Post-Production (warm taupe)
+            taskBkgColor: '#D4C9B0',
+            taskTextColor: '#1A1A1A',
             taskTextLightColor: '#6B6B6B',
-            taskTextOutsideColor: '#6B6B6B',
+            taskTextOutsideColor: '#1A1A1A',
             taskTextClickableColor: '#2D6A2D',
-            activeTaskBorderColor: '#8B5E00',
-            activeTaskBkgColor: '#FFF7E6',
-            gridColor: '#D4C9B0',
-            doneTaskBkgColor: '#E8F4E8',
-            doneTaskBorderColor: '#C8DCC8',
+            activeTaskBorderColor: '#5A4500',
+            activeTaskBkgColor: '#FFE8B8',
+            // Grid — very faint, just for reference
+            gridColor: '#EFEBE3',
+            // Done tasks — muted green
+            doneTaskBkgColor: '#D4E8D4',
+            doneTaskBorderColor: '#B8D4B8',
+            // Critical
             critBorderColor: '#8B5E00',
             critBkgColor: '#FFF7E6',
-            todayLineColor: '#2D2D2D',
-            weekendColor: '#F5F4F0',
+            // Today line — distinct but not harsh
+            todayLineColor: '#2D6A2D',
           },
           gantt: {
-            useWidth: 720,
+            useWidth: 900,
+            leftPadding: 100,
+            gridLineStartPadding: 10,
+            fontSize: 12,
+            sectionFontSize: 13,
+            numberSectionStyles: 4,
           },
         },
       }],
+      rehypeMermaidTheme,
     ],
   },
   integrations: [mdx()],
