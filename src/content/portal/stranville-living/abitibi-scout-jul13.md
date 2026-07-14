@@ -31,8 +31,9 @@ This is part of the pre-production B-roll bank being built before the four-day p
 
 ## What's Next
 
-- The Jul 14–17 window remains open for additional site visits at the other Helmsdale locations (119 Miners Rd and 2604 44th Street)
 - Lifestyle family session at BlackWolf Hemsdale showhome confirmed for **Friday, July 17**
-- Principal shoot week: **July 20–23**
+- Principal shoot week: **July 20–23** (Lethbridge, Coaldale, and Crowsnest Pass)
+- Documentary family profile (Kim & Trevor) scheduled for the **week of July 27**
+- See the full [production plan →](/stranville-living/production-plan/) for details
 
 Questions? Reach out to **michael@coalbanks.com**.

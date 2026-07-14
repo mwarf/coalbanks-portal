@@ -37,4 +37,4 @@ Key production elements:
 
 ## What's Next
 
-SOW and Master Services Agreement are signed and deposit received, we'll begin location scouting and coordinate shoot dates for July.
+With the full package approved, production planning is underway. Shoot dates are confirmed for **July 20–23** with the documentary family profile the week of **July 27**. See the full [production plan →](/stranville-living/production-plan/) for schedule, locations, and staging details.

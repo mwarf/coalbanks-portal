@@ -31,7 +31,7 @@ Michael traveled to Coleman, AB (Crowsnest Pass) to scout Stranville properties 
 
 Three video pieces from the scout are loaded above:
 
-1. **72 Kananaskis Drive — Anamorphic Selects Reel** — Shot with an anamorphic lens to establish the cinematic look for high-end property coverage. This is the million-dollar home in Kananaskis Wilds.
+1. **72 Kananaskis Drive — Anamorphic Selects Reel** — Shot with an anamorphic lens to establish the cinematic look for high-end property coverage. *(Note: This property has since sold. The Coleman Hemsdale and Logan Duplex will absorb its hero coverage role in the campaign.)*
 2. **72 Kananaskis Drive — Aerial** — Drone coverage of the property and surrounding landscape.
 3. **Aurora Neighbourhood Development — Aerial** — Drone footage of the Aurora Phase 2 construction area, showing early development activity.
 

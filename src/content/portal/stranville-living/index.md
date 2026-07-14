@@ -24,7 +24,7 @@ type: brief
 
 - **Lethbridge** — BlackWolf (Hemsdale showhome), Legacy Park
 - **Coaldale** — Malloy Landing (showhome + rec facility context)
-- **Crowsnest Pass** — Coleman (Kananaskis Wilds, Aurora, Hemsdale, Logan Duplex)
+- **Crowsnest Pass** — Coleman (Hemsdale, Aurora, Logan Duplex, 127 Miners Rd framing coverage)
 - **Sparwood, BC** — community establishing (if time allows)
 
 ## Production Schedule
@@ -34,11 +34,11 @@ type: brief
 | Day | Focus |
 |-----|-------|
 | **Day 1 (Mon Jul 20)** | Lethbridge & Coaldale — BlackWolf Hemsdale interiors, match-cut Side A, FPV sweeps, Malloy Landing, Legacy Park aerials |
-| **Day 2 (Tue Jul 21)** | Documentary — family profile (Kim & Trevor, time TBC), team voices at construction site + design studio (PM) |
+| **Day 2 (Tue Jul 21)** | Team voices — construction site interviews + design studio/sales centre (PM). Documentary family profile moves to week of Jul 27 |
 | **Day 3 (Wed Jul 22)** | Mountain push — Coleman Hemsdale match-cut Side B, Logan Duplex, Aurora, CNP aerials, framing coverage at 127 Miners Rd. Overnight at BCMInns (Crowsnest Pass). |
-| **Day 4 (Thu Jul 23)** | Mountain wrap + contingency — weather reshoots, Sparwood coverage, pickup shots. Alt: Kim & Trevor doc profile (AM). |
+| **Day 4 (Thu Jul 23)** | Mountain wrap + contingency — weather reshoots, Sparwood coverage, pickup shots |
 
-**Note:** Kim & Trevor are available Wed or Thu (Jul 22-23), so the doc profile may shift to Jul 23 AM. Day 2 schedule is flexible around this.
+**Note:** The documentary family profile (Kim & Trevor) will be filmed the **week of July 27** as a dedicated session, separate from the main shoot week.
 
 ## Pre-Production Milestones
 
@@ -119,9 +119,9 @@ Match-cut testing is underway — real photographs from the Legacy Park Hemsdale
 
 Most logistics are locked. A few remaining items:
 
-- **Coleman Hemsdale shot list** — Michael to send shot list so the staging/design team can coordinate. The showhome needs to be dressed for the Jul 22 shoot.
-- **72 Kananaskis Wilds adjustment** — this property has sold. Need to discuss alternative CNP coverage for Day 3.
-- **Three team voices** — one person each from construction, design, and sales for the documentary profile. Who's available Jul 21 (or Jul 23) in the afternoon?
+- **Coleman Hemsdale staging** — staging brief sent to Sheva's team. Full details on the [production plan page](/stranville-living/production-plan/). Kitchen island is the critical item.
+- **Three team voices** — one person each from construction, design, and sales for the documentary profile. Who's available Jul 21 afternoon?
 - **Malloy Landing access** — confirm showhome address and access for Day 1.
+- **Kim & Trevor contact info** — for direct coordination of pre-interview and Jul 27-30 family profile shoot.
 
 Questions? Reach out to **michael@coalbanks.com**.
