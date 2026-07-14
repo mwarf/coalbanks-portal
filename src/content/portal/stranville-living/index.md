@@ -34,19 +34,21 @@ type: brief
 | Day | Focus |
 |-----|-------|
 | **Day 1 (Mon Jul 20)** | Lethbridge & Coaldale — BlackWolf Hemsdale interiors, match-cut Side A, FPV sweeps, Malloy Landing, Legacy Park aerials |
-| **Day 2 (Tue Jul 21)** | Documentary — family profile in their home (AM), team voices at construction site + design studio (PM) |
-| **Day 3 (Wed Jul 22)** | Mountain push — Coleman Hemsdale match-cut Side B, 72 Kananaskis hero shots, Logan Duplex, Aurora, CNP aerials. Overnight in Coleman. |
-| **Day 4 (Thu Jul 23)** | Mountain wrap + contingency — weather reshoots, Sparwood coverage, pickup shots |
+| **Day 2 (Tue Jul 21)** | Documentary — family profile (Kim & Trevor, time TBC), team voices at construction site + design studio (PM) |
+| **Day 3 (Wed Jul 22)** | Mountain push — Coleman Hemsdale match-cut Side B, Logan Duplex, Aurora, CNP aerials, framing coverage at 127 Miners Rd. Overnight at BCMInns (Crowsnest Pass). |
+| **Day 4 (Thu Jul 23)** | Mountain wrap + contingency — weather reshoots, Sparwood coverage, pickup shots. Alt: Kim & Trevor doc profile (AM). |
 
-**Note:** Day 2 (documentary) can float to the week of Jul 27 if family casting needs more time. The other three days are independent.
+**Note:** Kim & Trevor are available Wed or Thu (Jul 22-23), so the doc profile may shift to Jul 23 AM. Day 2 schedule is flexible around this.
 
 ## Pre-Production Milestones
 
 | Week | Focus | Status |
 |------|-------|--------|
-| **Jun 29** | Sales team to surface candidate families, identify 3 team voices, confirm locations | ⏳ In progress |
-| **Jul 6 (this week)** | Family selection, pre-interview scheduling, Lethbridge scouting, lifestyle talent booking | ⏳ This week |
-| **Jul 13** | Final prep — shot lists locked, family pre-briefed, team briefed, PPE coordination | ⏳ Up next |
+| **Jun 29** | Sales team to surface candidate families, identify 3 team voices, confirm locations | ✅ Complete |
+| **Jul 6** | Family selection, pre-interview scheduling, Lethbridge scouting, lifestyle talent booking | ✅ Complete |
+| **Jul 13** | Final prep — shot lists locked, family pre-briefed, team briefed, PPE coordination | ✅ Complete |
+| **Jul 14** | Production logistics confirmed — family (Kim & Trevor), accommodation (BCMInns), site contacts, framing location | ✅ Complete |
+| **Jul 17** | Lifestyle shoot — Matt & Steph White + kids at Hemsdale showhome + Legacy Park | ⏳ This Friday |
 | **Jul 20** | Production week | ⏳ Confirmed |
 
 ## Post-Production Timeline
@@ -73,8 +75,11 @@ type: brief
 | Scout footage delivered | Jul 5 | ✅ Complete |
 | Lifestyle talent booked | Jul 9 | ✅ Complete |
 | Hemsdale match-cut tests | Jul 9 | ✅ Complete |
-| Lifestyle shoot (Hemsdale + Legacy Park) | Jul 17 | ⏳ Scheduled |
-| Production dates confirmed | Jul 20–23 | ⏳ Confirming |
+| Family confirmed (Kim & Trevor) | Jul 14 | ✅ Complete |
+| CNP accommodation (BCMInns) | Jul 14 | ✅ Complete |
+| Construction site contacts confirmed | Jul 14 | ✅ Complete |
+| Lifestyle shoot (Hemsdale + Legacy Park) | Jul 17 | ⏳ This Friday |
+| Production dates confirmed | Jul 20–23 | ✅ Confirmed |
 | Principal photography | Jul 20–23 | ⏳ Scheduled |
 | Final delivery | Late September | ⏳ Planned |
 
@@ -88,6 +93,16 @@ Match-cut testing is underway — real photographs from the Legacy Park Hemsdale
 
 **Lifestyle shoot is booked for Friday July 17 at 9:00 AM.** Matt and Steph White and their kids will be shooting lifestyle content at the Hemsdale showhome and Legacy Park. This captures the real-family moments that anchor the "Because Home Matters" side of the campaign.
 
+**Documentary family confirmed — Kim & Trevor** are available Wednesday or Thursday (Jul 22-23), 9am–12pm. Final scheduling TBC.
+
+**Crowsnest Pass accommodation booked** at BCMInns for the night of Jul 22.
+
+**Construction site contacts:** Joel Spanos (403-634-9475) and Brent Hardy (403-330-9977). Call/text before visiting any active site.
+
+**Framing shot at 127 Miners Rd** — roof trusses ready by Jul 20 for the "skeleton" framing coverage Michael wants. Talk to Mike onsite, 24hr notice needed.
+
+**⚠️ 72 Kananaskis Wilds (Maycroft) has SOLD** — new owners moving in this week. Schedule adjustments may be needed for CNP coverage.
+
 ### Recent Updates
 
 ➡️ [Hemsdale Match-Cut Tests](/stranville-living/hemsdale-match-cut-tests/) — Jul 9 test gallery exploring angles, times of day, and material variations for the anthem centrepiece transition
@@ -100,12 +115,11 @@ Match-cut testing is underway — real photographs from the Legacy Park Hemsdale
 
 ## What We Need from You
 
-A few key items to lock down this week so we stay on track for Jul 20:
+Most logistics are locked. A few remaining items:
 
-- **Family for documentary profile** — we still need a family confirmed by **Friday Jul 11** to keep Day 2 on schedule. Names, contact info, and whether they're comfortable on camera. (Note: Matt & Steph White are booked for a separate lifestyle/B-roll shoot on Jul 17 — not the doc profile.)
-- **Three team voices** — one person each from construction, design, and sales for the documentary profile. Who's available Jul 21 in the afternoon?
-- **Coleman Hemsdale staging** — the showhome at 8619 25th Ave is complete but unfurnished. Does the sales team have staging inventory that could be placed for the Jul 22 shoot?
-- **Crowsnest Pass accommodation** — is the Coleman accommodation available for the night of Jul 22?
+- **Coleman Hemsdale shot list** — Michael to send shot list so the staging/design team can coordinate. The showhome needs to be dressed for the Jul 22 shoot.
+- **72 Kananaskis Wilds adjustment** — this property has sold. Need to discuss alternative CNP coverage for Day 3.
+- **Three team voices** — one person each from construction, design, and sales for the documentary profile. Who's available Jul 21 (or Jul 23) in the afternoon?
 - **Malloy Landing access** — confirm showhome address and access for Day 1.
 
 Questions? Reach out to **michael@coalbanks.com**.
