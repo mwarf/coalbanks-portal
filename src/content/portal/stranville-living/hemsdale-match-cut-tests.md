@@ -81,4 +81,4 @@ The match-cut needs to feel seamless. These tests help answer:
 - How much flexibility exists in angle, lighting, and material before the visual continuity breaks?
 - Which time of day and angle pairings create the strongest transition?
 
-The results will inform camera placement and scheduling for both Day 1 (Legacy Park) and Day 3 (Coleman Hemsdale) during production week.
+The results will inform camera placement and scheduling for both Phase 1 (BlackWolf Hemsdale, Jul 20) and Phase 2 (Coleman Hemsdale, week of Jul 27).

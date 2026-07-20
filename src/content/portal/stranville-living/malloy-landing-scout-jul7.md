@@ -36,7 +36,7 @@ The selects reel from both shoots is posted above for review.
 
 ### Where This Fits
 
-Malloy Landing is one of the four production locations on Day 1 (Jul 20). These early aerials mean:
+Malloy Landing is one of the Phase 1 locations (Jul 20–23, Lethbridge/Coaldale week). These early aerials mean:
 - More time for interiors and ground-level work during the shoot
 - A reference for shot planning — we know which angles work and which don't
 - Content already banked for the #BetterMoments social reel library
