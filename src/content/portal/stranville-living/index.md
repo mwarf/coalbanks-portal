@@ -120,7 +120,7 @@ Key logistics:
 ## What We Need from You
 
 - **Coleman Hemsdale staging** — staging team coordinating for week of Jul 27. Shot list sent to Sheva's team. Kitchen island is the critical item.
-- **Coleman second family** — local couple for match-cut Side B lifestyle coverage. Casting in progress.
+- **Coleman second family** — local couple for match-cut Side B lifestyle coverage. Lead: Mike Miechkota (403-393-2951) + wife (two big dogs, fly fishing, mountain biking, Star Creek Falls area). Awaiting reply.
 - **CNP filming family** — a Crowsnest Pass area family for documentary coverage. Both teams searching.
 - **Airbnb accommodation** — for crew during the week of Jul 27 mountain trip.
 - **Kim & Trevor schedule confirmation** — intro email sent, awaiting reply on Wed Jul 22 or week of Jul 27.
