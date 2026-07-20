@@ -37,4 +37,4 @@ Key production elements:
 
 ## What's Next
 
-With the full package approved, production planning is underway. Shoot dates are confirmed for **July 20–23** with the documentary family profile the week of **July 27**. See the full [production plan →](/stranville-living/production-plan/) for schedule, locations, and staging details.
+With the full package approved, production is underway in two phases: **Phase 1** (Lethbridge/Coaldale, Jul 20–23) and **Phase 2** (dedicated mountain trip, week of Jul 27). See the full [production plan →](/stranville-living/production-plan/) for the revised schedule, locations, and staging details.

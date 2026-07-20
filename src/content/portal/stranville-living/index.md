@@ -3,7 +3,7 @@ title: "Better Everywhere — Project Overview"
 client: stranville-living
 publish: true
 status: in-review
-date: 2026-07-06
+date: 2026-07-20
 type: brief
 ---
 
@@ -27,18 +27,26 @@ type: brief
 - **Crowsnest Pass** — Coleman (Hemsdale, Aurora, Logan Duplex, 127 Miners Rd framing coverage)
 - **Sparwood, BC** — community establishing (if time allows)
 
-## Production Schedule
+## Production Schedule — Revised Jul 20
 
-**Shoot dates: Monday July 20 – Thursday July 23** (with Jul 27–30 as alternate if needed).
+> **⚠️ Schedule update (Jul 20):** Coleman Hemsdale staging is delayed. Mountain coverage moved to a dedicated trip the **week of July 27**. This week (Jul 20–23) is Lethbridge/Coaldale only.
+
+### Phase 1 — Lethbridge & Coaldale: Jul 20–23
 
 | Day | Focus |
 |-----|-------|
-| **Day 1 (Mon Jul 20)** | Lethbridge & Coaldale — BlackWolf Hemsdale interiors, match-cut Side A, FPV sweeps, Malloy Landing, Legacy Park aerials |
-| **Day 2 (Tue Jul 21)** | Team voices — construction site interviews + design studio/sales centre (PM). Documentary family profile moves to week of Jul 27 |
-| **Day 3 (Wed Jul 22)** | Mountain push — Coleman Hemsdale match-cut Side B, Logan Duplex, Aurora, CNP aerials, framing coverage at 127 Miners Rd. Overnight at BCMInns (Crowsnest Pass). |
-| **Day 4 (Thu Jul 23)** | Mountain wrap + contingency — weather reshoots, Sparwood coverage, pickup shots |
+| **Day 1 (Mon Jul 20)** | Match-cut Side A at BlackWolf Hemsdale, Malloy Landing, Legacy Park aerials, 127 Miners Rd framing skeleton shot |
+| **Day 2 (Tue Jul 21)** | Team voices — Jenna Schmidt (design) + Corissa Mildenberger (sales), PM at Stranville office |
+| **Day 3 (Wed Jul 22)** | Kim & Trevor family profile (if confirmed) or additional Lethbridge coverage |
+| **Day 4 (Thu Jul 23)** | Brent Hardy construction interview on active build site |
 
-**Note:** The documentary family profile (Kim & Trevor) will be filmed the **week of July 27** as a dedicated session, separate from the main shoot week.
+### Phase 2 — Dedicated Mountain Trip: Week of Jul 27
+
+Match-cut Side B at staged Coleman Hemsdale, second-family lifestyle coverage, Logan Duplex, Aurora, CNP aerials, and golden hour mountain exteriors. Airbnb accommodation for crew (arranged by Stranville).
+
+### Documentary Profile 1 — Kim & Trevor
+
+Filming at their home, targeting **Wed Jul 22** (Phase 1) or during the **week of Jul 27** (Phase 2). Coordination in progress.
 
 ## Pre-Production Milestones
 
@@ -46,10 +54,12 @@ type: brief
 |------|-------|--------|
 | **Jun 29** | Sales team to surface candidate families, identify 3 team voices, confirm locations | ✅ Complete |
 | **Jul 6** | Family selection, pre-interview scheduling, Lethbridge scouting, lifestyle talent booking | ✅ Complete |
-| **Jul 13** | Final prep — shot lists locked, family pre-briefed, team briefed, PPE coordination | ✅ Complete |
-| **Jul 14** | Production logistics confirmed — family (Kim & Trevor), accommodation (BCMInns), site contacts, framing location | ✅ Complete |
-| **Jul 17** | Lifestyle shoot — Matt & Steph White + kids at Hemsdale showhome + Legacy Park | ⏳ This Friday |
-| **Jul 20** | Production week | ⏳ Confirmed |
+| **Jul 13** | Final prep — shot lists locked, team briefed, PPE coordination | ✅ Complete |
+| **Jul 14** | Production logistics confirmed — family (Kim & Trevor), site contacts, framing location | ✅ Complete |
+| **Jul 16** | Team voices confirmed — Brent Hardy, Jenna Schmidt, Corissa Mildenberger | ✅ Complete |
+| **Jul 17** | Lifestyle shoot — Matt & Steph White + kids at BlackWolf Hemsdale + Legacy Park | ✅ Complete |
+| **Jul 20** | Production week — Phase 1 (Lethbridge/Coaldale) | 🔵 In progress |
+| **Jul 27** | Production week — Phase 2 (Mountain trip) | ⏳ Scheduled |
 
 ## Post-Production Timeline
 
@@ -73,35 +83,27 @@ type: brief
 | Coleman scouting trip | Jul 3 | ✅ Complete |
 | Malloy Landing aerial scout | Jul 7–8 | ✅ Complete |
 | Scout footage delivered | Jul 5 | ✅ Complete |
-| Lifestyle talent booked | Jul 9 | ✅ Complete |
 | Hemsdale match-cut tests | Jul 9 | ✅ Complete |
 | Family confirmed (Kim & Trevor) | Jul 14 | ✅ Complete |
-| CNP accommodation (BCMInns) | Jul 14 | ✅ Complete |
 | Construction site contacts confirmed | Jul 14 | ✅ Complete |
-| Lifestyle shoot (Hemsdale + Legacy Park) | Jul 17 | ⏳ This Friday |
-| Production dates confirmed | Jul 20–23 | ✅ Confirmed |
-| Principal photography | Jul 20–23 | ⏳ Scheduled |
+| Team voices confirmed | Jul 16 | ✅ Complete |
+| Lifestyle shoot (Hemsdale + Legacy Park) | Jul 17 | ✅ Complete |
+| Coleman staging delayed → Phase 2 | Jul 16 | ⚠️ Pushed to wk of Jul 27 |
+| BCMInns booked up → Airbnb needed | Jul 17 | ⚠️ Sheva arranging |
+| Principal photography — Phase 1 | Jul 20–23 | 🔵 In progress |
+| Principal photography — Phase 2 | Jul 27+ | ⏳ Scheduled |
 | Final delivery | Late September | ⏳ Planned |
 
 ## Current Status
 
-Production planning is in full swing. The shoot week is **July 20–23** with a 4-day plan covering Lethbridge/Coaldale interiors, documentary profiles, and the Crowsnest Pass mountain push.
+**In production.** Phase 1 (Lethbridge/Coaldale) is underway this week. Phase 2 (dedicated mountain trip) is planned for the week of July 27, pending Coleman Hemsdale staging completion.
 
-Coleman scouting is complete — test footage and aerials from four properties are available for review (see below). That footage establishes the cinematic look for the campaign.
-
-Match-cut testing is underway — real photographs from the Legacy Park Hemsdale showhome paired with AI-generated variations are helping plan the centrepiece transition between the Lethbridge and Coleman shoots.
-
-**Lifestyle shoot is booked for Friday July 17 at 9:00 AM.** Matt and Steph White and their kids will be shooting lifestyle content at the Hemsdale showhome and Legacy Park. This captures the real-family moments that anchor the "Because Home Matters" side of the campaign.
-
-**Documentary family confirmed — Kim & Trevor** will be filmed the week of July 27 as a dedicated session, separate from the main shoot week.
-
-**Crowsnest Pass accommodation booked** at BCMInns for the night of Jul 22.
-
-**Construction site contacts:** Joel Spanos (403-634-9475) and Brent Hardy (403-330-9977). Call/text before visiting any active site.
-
-**Framing shot at 127 Miners Rd** — roof trusses ready by Jul 20 for the "skeleton" framing coverage Michael wants. Talk to Mike onsite, 24hr notice needed.
-
-**⚠️ 72 Kananaskis Wilds (Maycroft) has SOLD** — new owners moving in this week. Schedule adjustments may be needed for CNP coverage.
+Key logistics:
+- **Team voices confirmed:** Brent Hardy (construction), Jenna Schmidt (design), Corissa Mildenberger (sales)
+- **Framing skeleton shot at 127 Miners Rd** — trusses ready, coordinating with Mike onsite
+- **Coleman second family** — local couple (outdoor lifestyle, two dogs) being considered; awaiting reply
+- **CNP filming family** — still searching; Sheva checking past clients
+- **BCMInns fully booked** — Airbnb accommodation being arranged for Phase 2
 
 ### Recent Updates
 
@@ -117,11 +119,10 @@ Match-cut testing is underway — real photographs from the Legacy Park Hemsdale
 
 ## What We Need from You
 
-Most logistics are locked. A few remaining items:
-
-- **Coleman Hemsdale staging** — staging brief sent to Sheva's team. Full details on the [production plan page](/stranville-living/production-plan/). Kitchen island is the critical item.
-- **Three team voices** — one person each from construction, design, and sales for the documentary profile. Who's available Jul 21 afternoon?
-- **Malloy Landing access** — confirm showhome address and access for Day 1.
-- **Kim & Trevor contact info** — for direct coordination of pre-interview and Jul 27-30 family profile shoot.
+- **Coleman Hemsdale staging** — staging team coordinating for week of Jul 27. Shot list sent to Sheva's team. Kitchen island is the critical item.
+- **Coleman second family** — local couple for match-cut Side B lifestyle coverage. Casting in progress.
+- **CNP filming family** — a Crowsnest Pass area family for documentary coverage. Both teams searching.
+- **Airbnb accommodation** — for crew during the week of Jul 27 mountain trip.
+- **Kim & Trevor schedule confirmation** — intro email sent, awaiting reply on Wed Jul 22 or week of Jul 27.
 
 Questions? Reach out to **michael@coalbanks.com**.
