@@ -107,6 +107,8 @@ Key logistics:
 
 ### Recent Updates
 
+➡️ [Corissa Sales Interview B-Roll](/stranville-living/corissa-sales-broll-sample/) — B-roll sample from Day 2 team voices session
+
 ➡️ [Production Plan](/stranville-living/production-plan/) — Full shoot schedule, location plan, staging needs, and post-production timeline
 
 ➡️ [Hemsdale Match-Cut Tests](/stranville-living/hemsdale-match-cut-tests/) — Jul 9 test gallery exploring angles, times of day, and material variations for the anthem centrepiece transition
