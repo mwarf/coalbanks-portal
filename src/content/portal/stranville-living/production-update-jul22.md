@@ -11,7 +11,7 @@ type: update
 
 Both in-office interviews are in the can. **Jenna Schmidt (design)** and **Corissa Mildenberger (sales)** each sat for conversational interviews plus B-roll on Tuesday at the Stranville office and Sales Centre. The community boards and showroom gave us exactly the working context we wanted, and both interviews connected directly to the family story at the heart of the documentary.
 
-**Brent Hardy (construction)** completes the trio this **Friday, July 24 at 10:00 AM**. We're choosing between his shop and an active build site after a Friday morning location scout. Either way, expect real work on camera rather than a talking head.
+**Brent Hardy (construction)** completes the trio on **Monday, July 27 at 11:00 AM**, starting at the Stranville office and moving on-site from there. Expect real work on camera rather than a talking head, including branded vehicle and site-to-site driving coverage.
 
 ## Mountain Lifestyle Coverage Underway
 
@@ -25,7 +25,7 @@ Added to the schedule: the **Copperwood "Movie in the Park" community event, Sat
 
 ## Kim & Trevor Family Profile
 
-The family documentary has been rescheduled at the family's request. We're targeting **Tuesday, July 28** and confirming with them now. Early August remains the fallback if next week can't hold.
+**Confirmed for Tuesday, July 28 at 9:00 AM** at their Copperwood home. Plan is an hour of setup, a conversational interview, and candid cutaways around the home — about three hours total with a small crew.
 
 ## Looking Ahead: Phase 2 (Week of Jul 27)
 

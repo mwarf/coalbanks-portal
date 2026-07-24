@@ -38,16 +38,18 @@ type: brief
 | **Mon Jul 20** | Match-cut Side A at BlackWolf Hemsdale, Malloy Landing, Legacy Park aerials, 127 Miners Rd framing skeleton | ✅ Complete |
 | **Tue Jul 21** | Team voices — Jenna Schmidt (design) + Corissa Mildenberger (sales) | ✅ Complete |
 | **Wed–Thu Jul 22–23** | Crowsnest Pass: mountain lifestyle coverage (FPV mountain biking, fly fishing), Aurora + Hemsdale exteriors | 🔵 In progress |
-| **Fri Jul 24** | Brent Hardy construction interview, 10:00 AM (location set after morning scout) | ⏳ Scheduled |
+| **Fri Jul 24** | Production prep, gear turnaround, media offload | ⏳ Scheduled |
 | **Sat Jul 25** | **NEW:** Copperwood "Movie in the Park" community event — Stranville booth, community engagement B-roll. Festivities 3:00 PM, movie 7:00 PM | ⏳ Scheduled |
+| **Mon Jul 27** | Brent Hardy construction interview, 11:00 AM — office start, then on-site with branded vehicle and driving coverage | ⏳ Scheduled |
+| **Tue Jul 28** | Kim & Trevor family documentary at their Copperwood home, 9:00 AM | ✅ Confirmed |
 
 ### Phase 2 — Dedicated Mountain Trip: Week of Jul 27
 
-Match-cut Side B at staged Coleman Hemsdale, second-family lifestyle coverage, Logan Duplex, Aurora, CNP aerials, and golden hour mountain exteriors. Airbnb accommodation for crew (arranged by Stranville).
+Match-cut Side B at staged Coleman Hemsdale, second-family lifestyle coverage, Logan Duplex, Aurora, CNP aerials, and golden hour mountain exteriors. Mountain days follow the Brent (Mon) and family (Tue) shoots in Lethbridge. Airbnb accommodation for crew (arranged by Stranville).
 
 ### Documentary Profile 1 — Kim & Trevor
 
-Rescheduled at the family's request. Targeting **Tuesday, July 28** with confirmation in progress. Early August is the fallback if next week can't hold.
+**Confirmed: Tuesday, July 28, 9:00 AM** at their Copperwood home. One hour of setup, a conversational interview, and candid cutaways around the home — about three hours total.
 
 ## Pre-Production Milestones
 
@@ -93,9 +95,9 @@ Rescheduled at the family's request. Targeting **Tuesday, July 28** with confirm
 | Coleman Hemsdale staging complete | Jul 22 | ✅ Complete |
 | Team interviews — design + sales | Jul 21 | ✅ Complete |
 | CNP mountain lifestyle coverage | Jul 22–23 | 🔵 In progress |
-| Construction voice interview (Brent Hardy) | Jul 24 | ⏳ Scheduled |
+| Construction voice interview (Brent Hardy) | Mon Jul 27, 11 AM | ⏳ Scheduled |
 | Copperwood Movie in the Park coverage | Jul 25 | ⏳ Scheduled |
-| Family profile (Kim & Trevor) | Targeting Jul 28 | ⏳ Confirming |
+| Family profile (Kim & Trevor) | Tue Jul 28, 9 AM | ✅ Confirmed |
 | Principal photography — Phase 2 | Jul 27+ | ⏳ Scheduled |
 | Final delivery | Late September | ⏳ Planned |
 
@@ -104,15 +106,15 @@ Rescheduled at the family's request. Targeting **Tuesday, July 28** with confirm
 **In production.** Team interviews for design and sales are complete (Jul 21). A small crew is in Crowsnest Pass through Thursday capturing mountain lifestyle content and exteriors ahead of the main trip. Coleman Hemsdale staging is complete and Phase 2 is locked for the week of July 27.
 
 Upcoming this week:
-- **Fri Jul 24** — Brent Hardy construction interview, 10:00 AM
 - **Sat Jul 25** — Copperwood "Movie in the Park" community event coverage (3:00 PM, movie at 7:00 PM)
-- **Tue Jul 28 (target)** — Kim & Trevor family profile, confirming now
+- **Mon Jul 27** — Brent Hardy construction interview, 11:00 AM
+- **Tue Jul 28** — Kim & Trevor family profile, 9:00 AM ✅ confirmed
 
 Key logistics:
 - **Team voices confirmed:** Brent Hardy (construction), Jenna Schmidt (design), Corissa Mildenberger (sales) — two of three filmed
 - **Framing skeleton shot at 127 Miners Rd** — trusses ready, coordinating with Mike onsite
-- **Coleman second family** — local couple (outdoor lifestyle, two dogs) being considered; awaiting reply
-- **CNP filming family** — still searching; Sheva checking past clients
+- **Coleman second family** — Mike Miechkota booked for Jul 22–23 mountain lifestyle coverage ✅
+- **CNP filming family** — still searching; Sheva checking past clients and local contacts
 - **Airbnb accommodation** — being arranged for Phase 2; exact nights confirming this week
 
 ### Recent Updates
@@ -133,9 +135,7 @@ Key logistics:
 
 ## What We Need from You
 
-- **Coleman second family** — local couple for match-cut Side B lifestyle coverage. Lead: Mike Miechkota (403-393-2951) + wife (two big dogs, fly fishing, mountain biking, Star Creek Falls area). Awaiting reply.
-- **CNP filming family** — a Crowsnest Pass area family for documentary coverage. Both teams searching.
+- **CNP filming family** — a Crowsnest Pass area family for documentary coverage. Both teams searching; Danielle R. has a possible candidate.
 - **Airbnb accommodation** — crew of four for the week of Jul 27 mountain trip. Exact nights being confirmed this week.
-- **Kim & Trevor schedule confirmation** — targeting Tuesday Jul 28, awaiting the family's confirmation.
 
 Questions? Reach out to **michael@coalbanks.com**.
