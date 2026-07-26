@@ -31,10 +31,10 @@ This is part of the pre-production B-roll bank being built before the four-day p
 
 ## What's Next
 
-- Lifestyle family session at BlackWolf Hemsdale showhome — completed **Friday, July 17** ✅
+- Lifestyle family session at BlackWolf Hemsdale showhome completed **Friday, July 17**
 - Principal shoot — Phase 1 (Lethbridge/Coaldale): **July 20–25** ✅ complete
+- Documentary family profile (Kim & Trevor): confirmed **Tue Jul 28, 9:00 AM**
 - Principal shoot — Phase 2 (mountain trip, Coleman match-cut Side B): **week of July 27**
-- Documentary family profile (Kim & Trevor): confirmed **Tuesday, July 28, 9:00 AM**
 - See the full [production plan →](/stranville-living/production-plan/) for the current schedule
 
 Questions? Reach out to **michael@coalbanks.com**.

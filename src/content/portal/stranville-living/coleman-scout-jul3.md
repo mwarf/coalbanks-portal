@@ -42,7 +42,7 @@ This footage sets the creative tone for the campaign. The anamorphic look test i
 ## Next Steps
 
 - **Feedback welcome** — Let us know how the visual style and coverage feel
-- **Production underway** — Phase 1 (Lethbridge/Coaldale) is shooting Jul 20–23. Phase 2 (mountain trip, including Coleman match-cut Side B) is scheduled for the week of Jul 27 pending staging completion
+- **Production underway** — Phase 1 (Lethbridge/Coaldale) is complete. Phase 2 (mountain trip, including Coleman match-cut Side B) is scheduled for the week of Jul 27; staging is complete
 - See the updated [production plan →](/stranville-living/production-plan/) for the revised two-phase schedule
 
 Questions? Reach out to **michael@coalbanks.com**.
