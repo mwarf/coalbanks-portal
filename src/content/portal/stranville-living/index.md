@@ -39,7 +39,7 @@ type: brief
 | **Tue Jul 21** | Team voices — Jenna Schmidt (design) + Corissa Mildenberger (sales) | ✅ Complete |
 | **Wed–Thu Jul 22–23** | Crowsnest Pass: mountain lifestyle coverage (FPV mountain biking, fly fishing), Aurora construction activity + Hemsdale exteriors | ✅ Complete |
 | **Fri Jul 24** | Production prep, gear turnaround, media offload | ⏳ Scheduled |
-| **Sat Jul 25** | **NEW:** Copperwood "Movie in the Park" community event — Stranville booth, community engagement B-roll. Festivities 3:00 PM, movie 7:00 PM | ⏳ Scheduled |
+| **Sat Jul 25** | **NEW:** Copperwood "Movie in the Park" community event — Stranville booth, community engagement B-roll. Festivities 3:00 PM, movie 7:00 PM | ✅ Complete |
 | **Mon Jul 27** | Brent Hardy construction interview, 11:00 AM — office start, then on-site with branded vehicle and driving coverage | ⏳ Scheduled |
 | **Tue Jul 28** | Kim & Trevor family documentary at their Copperwood home, 9:00 AM | ✅ Confirmed |
 
@@ -95,29 +95,31 @@ Match-cut Side B at staged Coleman Hemsdale, second-family lifestyle coverage, L
 | Coleman Hemsdale staging complete | Jul 22 | ✅ Complete |
 | Team interviews — design + sales | Jul 21 | ✅ Complete |
 | CNP mountain lifestyle coverage | Jul 22–23 | ✅ Complete |
-| Construction voice interview (Brent Hardy) | Mon Jul 27, 11 AM | ⏳ Scheduled |
-| Copperwood Movie in the Park coverage | Jul 25 | ⏳ Scheduled |
+|| Construction voice interview (Brent Hardy) | Mon Jul 27, 11 AM | ⏳ Scheduled |
+|| Copperwood Movie in the Park coverage | Jul 25 | ✅ Complete |
+|| 127 Miners Rd framing skeleton aerial | Jul 25 | ✅ Complete |
 | Family profile (Kim & Trevor) | Tue Jul 28, 9 AM | ✅ Confirmed |
 | Principal photography — Phase 2 | Jul 27+ | ⏳ Scheduled |
 | Final delivery | Late September | ⏳ Planned |
 
 ## Current Status
 
-**In production.** Team interviews for design and sales are complete (Jul 21). A small crew is in Crowsnest Pass through Thursday capturing mountain lifestyle content and exteriors ahead of the main trip. Coleman Hemsdale staging is complete and Phase 2 is locked for the week of July 27.
+**In production.** Phase 1 (Lethbridge/Coaldale) is wrapping. Team interviews complete (Jul 21), mountain lifestyle coverage complete (Jul 22–23), community event and framing skeleton aerials captured (Jul 25). Two new selects delivered below. Phase 2 (dedicated mountain trip) kicks off the week of July 27.
 
 Upcoming this week:
-- **Sat Jul 25** — Copperwood "Movie in the Park" community event coverage (3:00 PM, movie at 7:00 PM)
 - **Mon Jul 27** — Brent Hardy construction interview, 11:00 AM
 - **Tue Jul 28** — Kim & Trevor family profile, 9:00 AM ✅ confirmed
 
 Key logistics:
-- **Team voices confirmed:** Brent Hardy (construction), Jenna Schmidt (design), Corissa Mildenberger (sales) — two of three filmed
-- **Framing skeleton shot at 127 Miners Rd** — trusses ready, coordinating with Mike onsite
+- **Team voices confirmed:** Brent Hardy (construction), Jenna Schmidt (design), Corissa Mildenberger (sales) — two of three filmed, Brent's is Mon Jul 27
+- **127 Miners Rd framing skeleton** — captured ✅ (selects delivered below)
 - **Coleman second family** — Mike Miechkota booked for Jul 22–23 mountain lifestyle coverage ✅
 - **CNP filming family** — still searching; Sheva checking past clients and local contacts
 - **Airbnb accommodation** — being arranged for Phase 2; exact nights confirming this week
 
 ### Recent Updates
+
+➡️ [Community Event + Framing Coverage — Selects](/stranville-living/community-framing-selects-jul25/) — Crossings Movie in the Park B-roll + 127 Miners Rd framing skeleton aerial (Jul 25)
 
 ➡️ [Production Week Update (Jul 22)](/stranville-living/production-update-jul22/) — Team voices complete, mountain lifestyle coverage underway, Copperwood community event added
 
