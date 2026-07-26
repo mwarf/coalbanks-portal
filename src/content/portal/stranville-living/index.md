@@ -95,9 +95,9 @@ Match-cut Side B at staged Coleman Hemsdale, second-family lifestyle coverage, L
 | Coleman Hemsdale staging complete | Jul 22 | ✅ Complete |
 | Team interviews — design + sales | Jul 21 | ✅ Complete |
 | CNP mountain lifestyle coverage | Jul 22–23 | ✅ Complete |
-|| Construction voice interview (Brent Hardy) | Mon Jul 27, 11 AM | ⏳ Scheduled |
-|| Copperwood Movie in the Park coverage | Jul 25 | ✅ Complete |
-|| 127 Miners Rd framing skeleton aerial | Jul 25 | ✅ Complete |
+| Construction voice interview (Brent Hardy) | Mon Jul 27, 11 AM | ⏳ Scheduled |
+| Copperwood Movie in the Park coverage | Jul 25 | ✅ Complete |
+| 127 Miners Rd framing skeleton aerial | Jul 25 | ✅ Complete |
 | Family profile (Kim & Trevor) | Tue Jul 28, 9 AM | ✅ Confirmed |
 | Principal photography — Phase 2 | Jul 27+ | ⏳ Scheduled |
 | Final delivery | Late September | ⏳ Planned |
@@ -113,8 +113,8 @@ Upcoming this week:
 Key logistics:
 - **Team voices confirmed:** Brent Hardy (construction), Jenna Schmidt (design), Corissa Mildenberger (sales) — two of three filmed, Brent's is Mon Jul 27
 - **127 Miners Rd framing skeleton** — captured ✅ (selects delivered below)
-- **Coleman second family** — Mike Miechkota booked for Jul 22–23 mountain lifestyle coverage ✅
-- **CNP filming family** — still searching; Sheva checking past clients and local contacts
+- **Mountain lifestyle b-roll** — Mike Miechkota (fly fishing + mountain biking) captured Jul 22–23 ✅
+- **CNP family for documentary coverage** — still searching; needed for shoot days this week. Sheva checking past clients and local contacts
 - **Airbnb accommodation** — being arranged for Phase 2; exact nights confirming this week
 
 ### Recent Updates
