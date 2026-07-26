@@ -3,7 +3,7 @@ title: "Better Everywhere — Project Overview"
 client: stranville-living
 publish: true
 status: in-review
-date: 2026-07-20
+date: 2026-07-26
 type: brief
 ---
 
@@ -38,14 +38,14 @@ type: brief
 | **Mon Jul 20** | Match-cut Side A at BlackWolf Hemsdale, Malloy Landing, Legacy Park aerials, 127 Miners Rd framing skeleton | ✅ Complete |
 | **Tue Jul 21** | Team voices — Jenna Schmidt (design) + Corissa Mildenberger (sales) | ✅ Complete |
 | **Wed–Thu Jul 22–23** | Crowsnest Pass: mountain lifestyle coverage (FPV mountain biking, fly fishing), Aurora construction activity + Hemsdale exteriors | ✅ Complete |
-| **Fri Jul 24** | Production prep, gear turnaround, media offload | ⏳ Scheduled |
+| **Fri Jul 24** | Production prep, gear turnaround, media offload | ✅ Complete |
 | **Sat Jul 25** | **NEW:** Copperwood "Movie in the Park" community event — Stranville booth, community engagement B-roll. Festivities 3:00 PM, movie 7:00 PM | ✅ Complete |
 | **Mon Jul 27** | Brent Hardy construction interview, 11:00 AM — office start, then on-site with branded vehicle and driving coverage | ⏳ Scheduled |
 | **Tue Jul 28** | Kim & Trevor family documentary at their Copperwood home, 9:00 AM | ✅ Confirmed |
 
 ### Phase 2 — Dedicated Mountain Trip: Week of Jul 27
 
-Match-cut Side B at staged Coleman Hemsdale, second-family lifestyle coverage, Logan Duplex, Aurora, CNP aerials, and golden hour mountain exteriors. Mountain days follow the Brent (Mon) and family (Tue) shoots in Lethbridge. Airbnb accommodation for crew (arranged by Stranville).
+Match-cut Side B at staged Coleman Hemsdale, family documentary coverage (casting in progress), Logan Duplex, Aurora, CNP aerials, and golden hour mountain exteriors. Mountain days follow the Brent (Mon) and family (Tue) shoots in Lethbridge. Airbnb accommodation for crew (arranged by Stranville).
 
 ### Documentary Profile 1 — Kim & Trevor
 
@@ -121,7 +121,7 @@ Key logistics:
 
 ➡️ [Community Event + Framing Coverage — Selects](/stranville-living/community-framing-selects-jul25/) — Crossings Movie in the Park B-roll + 127 Miners Rd framing skeleton aerial (Jul 25)
 
-➡️ [Production Week Update (Jul 22)](/stranville-living/production-update-jul22/) — Team voices complete, mountain lifestyle coverage underway, Copperwood community event added
+➡️ [Production Week Update (Jul 22)](/stranville-living/production-update-jul22/) — Team voices complete, mountain lifestyle coverage captured, Copperwood community event filmed
 
 ➡️ [Corissa Sales Interview B-Roll](/stranville-living/corissa-sales-broll-sample/) — B-roll sample from Day 2 team voices session
 
@@ -137,7 +137,7 @@ Key logistics:
 
 ## What We Need from You
 
-- **CNP filming family** — a Crowsnest Pass area family for documentary coverage. Both teams searching; Danielle R. has a possible candidate.
+- **CNP filming family** — a Crowsnest Pass area family for documentary coverage during this week's shoot days. Both teams searching; Danielle R. has a possible candidate.
 - **Airbnb accommodation** — crew of four for the week of Jul 27 mountain trip. Exact nights being confirmed this week.
 
 Questions? Reach out to **michael@coalbanks.com**.
