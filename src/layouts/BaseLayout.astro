@@ -3,8 +3,24 @@ import '../styles/global.css';
 
 interface Props {
   title: string;
+  description?: string;
+  ogImage?: string;
+  /** Canonical path for this page, e.g. "/stranville-living/". Defaults to current path. */
+  canonicalPath?: string;
 }
-const { title } = Astro.props;
+
+const {
+  title,
+  description = 'Private client portal for Coalbanks Creative Inc.',
+  ogImage = '/og-default.png',
+  canonicalPath,
+} = Astro.props;
+
+const siteUrl = Astro.site?.href.replace(/\/$/, '') ?? 'https://portal.coalbanks.com';
+const pageUrl = canonicalPath
+  ? `${siteUrl}${canonicalPath.startsWith('/') ? '' : '/'}${canonicalPath}`
+  : new URL(Astro.url.pathname, siteUrl).href;
+const imageUrl = new URL(ogImage, siteUrl).href;
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -13,7 +29,21 @@ const { title } = Astro.props;
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <script is:inline>document.documentElement.classList.add('js');</script>
   <meta name="robots" content="noindex, nofollow" />
+  <meta name="description" content={description} />
   <title>{title}</title>
+
+  <!-- Open Graph -->
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content={pageUrl} />
+  <meta property="og:site_name" content="Coalbanks Creative" />
+  <meta property="og:image" content={imageUrl} />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
