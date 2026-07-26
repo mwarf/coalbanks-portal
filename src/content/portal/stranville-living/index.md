@@ -119,6 +119,8 @@ Key logistics:
 
 ### Recent Updates
 
+➡️ [CNP Mountain Lifestyle — Selects](/stranville-living/cnp-lifestyle-selects/) — Fly fishing, FPV mountain biking, and Aurora subdivision morning drone aerials (Jul 22–23)
+
 ➡️ [Community Event + Framing Coverage — Selects](/stranville-living/community-framing-selects-jul25/) — Crossings Movie in the Park B-roll + 127 Miners Rd framing skeleton aerial (Jul 25)
 
 ➡️ [Production Week Update (Jul 22)](/stranville-living/production-update-jul22/) — Team voices complete, mountain lifestyle coverage captured, Copperwood community event filmed
