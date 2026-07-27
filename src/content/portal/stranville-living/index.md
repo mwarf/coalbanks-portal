@@ -40,7 +40,7 @@ type: brief
 | **Wed–Thu Jul 22–23** | Crowsnest Pass: mountain lifestyle coverage (FPV mountain biking, fly fishing), Aurora construction activity + Hemsdale exteriors | ✅ Complete |
 | **Fri Jul 24** | Production prep, gear turnaround, media offload | ✅ Complete |
 | **Sat Jul 25** | **NEW:** Copperwood "Movie in the Park" community event — Stranville booth, community engagement B-roll. Festivities 3:00 PM, movie 7:00 PM | ✅ Complete |
-| **Mon Jul 27** | Brent Hardy construction interview, 11:00 AM — office start, then on-site with branded vehicle and driving coverage | ⏳ Scheduled |
+| **Mon Jul 27** | Brent Hardy construction interview, 11:00 AM — office start, then on-site with branded vehicle and driving coverage | 🟡 Being rescheduled |
 | **Tue Jul 28** | Kim & Trevor family documentary at their Copperwood home, 9:00 AM | ✅ Confirmed |
 
 ### Phase 2 — Dedicated Mountain Trip: Week of Jul 27
@@ -95,7 +95,7 @@ Match-cut Side B at staged Coleman Hemsdale, family documentary coverage (castin
 | Coleman Hemsdale staging complete | Jul 22 | ✅ Complete |
 | Team interviews — design + sales | Jul 21 | ✅ Complete |
 | CNP mountain lifestyle coverage | Jul 22–23 | ✅ Complete |
-| Construction voice interview (Brent Hardy) | Mon Jul 27, 11 AM | ⏳ Scheduled |
+| Construction voice interview (Brent Hardy) | Mon Jul 27, 11 AM | 🟡 Being rescheduled |
 | Copperwood Movie in the Park coverage | Jul 25 | ✅ Complete |
 | 127 Miners Rd framing skeleton aerial | Jul 25 | ✅ Complete |
 | Family profile (Kim & Trevor) | Tue Jul 28, 9 AM | ✅ Confirmed |
@@ -107,11 +107,11 @@ Match-cut Side B at staged Coleman Hemsdale, family documentary coverage (castin
 **In production.** Phase 1 (Lethbridge/Coaldale) is wrapping. Team interviews complete (Jul 21), mountain lifestyle coverage complete (Jul 22–23), community event and framing skeleton aerials captured (Jul 25). Two new selects delivered below. Phase 2 (dedicated mountain trip) kicks off the week of July 27.
 
 Upcoming this week:
-- **Mon Jul 27** — Brent Hardy construction interview, 11:00 AM
+- **Mon Jul 27** — Brent Hardy construction interview — being rescheduled
 - **Tue Jul 28** — Kim & Trevor family profile, 9:00 AM ✅ confirmed
 
 Key logistics:
-- **Team voices confirmed:** Brent Hardy (construction), Jenna Schmidt (design), Corissa Mildenberger (sales) — two of three filmed, Brent's is Mon Jul 27
+- **Team voices confirmed:** Brent Hardy (construction), Jenna Schmidt (design), Corissa Mildenberger (sales) — two of three filmed, Brent's interview is being rescheduled
 - **127 Miners Rd framing skeleton** — captured ✅ (selects delivered below)
 - **Mountain lifestyle b-roll** — Mike Miechkota (fly fishing + mountain biking) captured Jul 22–23 ✅
 - **CNP family for documentary coverage** — still searching; needed for shoot days this week. Sheva checking past clients and local contacts
