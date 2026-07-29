@@ -3,7 +3,7 @@ title: "Better Everywhere — Project Overview"
 client: stranville-living
 publish: true
 status: in-review
-date: 2026-07-27
+date: 2026-07-29
 type: brief
 ---
 
@@ -40,16 +40,16 @@ type: brief
 | **Wed–Thu Jul 22–23** | Crowsnest Pass: mountain lifestyle coverage (FPV mountain biking, fly fishing), Aurora construction activity + Hemsdale exteriors | ✅ Complete |
 | **Fri Jul 24** | Production prep, gear turnaround, media offload | ✅ Complete |
 | **Sat Jul 25** | **NEW:** Copperwood "Movie in the Park" community event — Stranville booth, community engagement B-roll. Festivities 3:00 PM, movie 7:00 PM | ✅ Complete |
-| **Mon Jul 27** | Brent Hardy construction interview, 11:00 AM — office start, then on-site with branded vehicle and driving coverage | 🟡 Being rescheduled |
-| **Tue Jul 28** | Kim & Trevor family documentary at their Copperwood home, 9:00 AM | ✅ Confirmed |
+| **Mon Jul 27** | Brent Hardy construction interview, 11:00 AM — office start, then on-site with branded vehicle and driving coverage | 🟡 Cancelled — being rescheduled |
+| **Tue Jul 28** | Kim & Trevor family documentary at their Copperwood home, 9:00 AM | ✅ Complete |
 
 ### Phase 2 — Dedicated Mountain Trip: Week of Jul 27
 
-Match-cut Side B at staged Coleman Hemsdale, family documentary coverage (casting in progress), Logan Duplex, Aurora, CNP aerials, and golden hour mountain exteriors. Mountain days follow the Brent (Mon) and family (Tue) shoots in Lethbridge. Airbnb accommodation for crew (arranged by Stranville).
+Match-cut Side B at staged Coleman Hemsdale, family documentary coverage (casting in progress), Logan Duplex, Aurora, CNP aerials, and golden hour mountain exteriors. Mountain days follow the Brent (Mon) and family (Tue) shoots in Lethbridge. Airbnb accommodation for crew (arranged by Stranville). **Note:** Coleman shoot is on hold while we widen the talent casting net — see the update below.
 
 ### Documentary Profile 1 — Kim & Trevor
 
-**Confirmed: Tuesday, July 28, 9:00 AM** at their Copperwood home. One hour of setup, a conversational interview, and candid cutaways around the home — about three hours total.
+**Complete: Tuesday, July 28.** Interview, candid b-roll around their Copperwood home, and drone footage of the house and neighbourhood. This marks the family documentary profile as done — one of two documentary pieces in the campaign.
 
 ## Pre-Production Milestones
 
@@ -95,29 +95,35 @@ Match-cut Side B at staged Coleman Hemsdale, family documentary coverage (castin
 | Coleman Hemsdale staging complete | Jul 22 | ✅ Complete |
 | Team interviews — design + sales | Jul 21 | ✅ Complete |
 | CNP mountain lifestyle coverage | Jul 22–23 | ✅ Complete |
-| Construction voice interview (Brent Hardy) | Mon Jul 27, 11 AM | 🟡 Being rescheduled |
+| Construction voice interview (Brent Hardy) | Mon Jul 27, 11 AM | 🟡 Cancelled — being rescheduled |
 | Copperwood Movie in the Park coverage | Jul 25 | ✅ Complete |
 | 127 Miners Rd framing skeleton aerial | Jul 25 | ✅ Complete |
-| Family profile (Kim & Trevor) | Tue Jul 28, 9 AM | ✅ Confirmed |
-| Principal photography — Phase 2 | Jul 27+ | ⏳ Scheduled |
+| Family profile (Kim & Trevor) | Tue Jul 28 | ✅ Complete |
+| Coleman Hemsdale talent casting | Jul 28 | ⚠️ Widening casting net |
+| Principal photography — Phase 2 | TBD | ⏳ On hold pending casting + Brent reschedule |
 | Final delivery | Late September | ⏳ Planned |
 
 ## Current Status
 
-**In production.** Phase 1 (Lethbridge/Coaldale) is wrapping. Team interviews complete (Jul 21), mountain lifestyle coverage complete (Jul 22–23), community event and framing skeleton aerials captured (Jul 25). Two new selects delivered below. Phase 2 (dedicated mountain trip) kicks off the week of July 27.
+**In production.** Phase 1 (Lethbridge/Coaldale) is wrapping. Team interviews complete (Jul 21), mountain lifestyle coverage complete (Jul 22–23), community event and framing skeleton aerials captured (Jul 25), and **Kim & Trevor's family documentary profile is complete** (Jul 28).
 
-Upcoming this week:
-- **Mon Jul 27** — Brent Hardy construction interview — being rescheduled
-- **Tue Jul 28** — Kim & Trevor family profile, 9:00 AM ✅ confirmed
+Two items need resolution before the remaining mountain coverage proceeds:
+
+- **Brent Hardy's construction interview** was cancelled on short notice. Working to reschedule.
+- **Coleman Hemsdale talent** — current casting leads have come up empty. Widening the search before locking the dedicated mountain trip. This ensures the match-cut centrepiece has the right people in it.
+
+Both items touch the production timeline. We're actively working solutions on both fronts and will keep you posted as dates come together.
 
 Key logistics:
-- **Team voices confirmed:** Brent Hardy (construction), Jenna Schmidt (design), Corissa Mildenberger (sales) — two of three filmed, Brent's interview is being rescheduled
-- **127 Miners Rd framing skeleton** — captured ✅ (selects delivered below)
+- **Team voices:** Jenna Schmidt (design) ✅, Corissa Mildenberger (sales) ✅, Brent Hardy (construction) — being rescheduled
+- **127 Miners Rd framing skeleton** — captured ✅
 - **Mountain lifestyle b-roll** — Mike Miechkota (fly fishing + mountain biking) captured Jul 22–23 ✅
-- **CNP family for documentary coverage** — still searching; needed for shoot days this week. Sheva checking past clients and local contacts
-- **Airbnb accommodation** — being arranged for Phase 2; exact nights confirming this week
+- **CNP family for documentary coverage** — still searching; Sheva checking past clients and local contacts
+- **Airbnb accommodation** — being arranged for Phase 2
 
 ### Recent Updates
+
+➡️ [Family Documentary Profile Complete — Kim & Trevor](/stranville-living/kim-trevor-interview-jul28/) — Interview, b-roll, and drone footage captured Jul 28. Plus schedule adjustments for Brent Hardy and Coleman casting.
 
 ➡️ [CNP Mountain Lifestyle — Selects](/stranville-living/cnp-lifestyle-selects/) — Fly fishing, FPV mountain biking, and Aurora subdivision morning drone aerials (Jul 22–23)
 
