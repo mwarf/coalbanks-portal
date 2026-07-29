@@ -3,7 +3,7 @@ title: "Brand Film — Project Overview & Brief"
 client: kasko-cattle
 publish: true
 status: approved
-date: 2026-07-07
+date: 2026-07-29
 type: brief
 ---
 
@@ -37,7 +37,8 @@ The story arc spans three generations — Les & Betty's generation, Ryan & his s
 | **Jun 29**    | Family meeting & on-camera interviews — Round 1           | New HQ             | ✅ Complete                |
 | **Aug 13**    | Community Garden & HQ Open House (4:00–7:00pm)            | New HQ             | ⏳ Upcoming                |
 | **Jul 10**   | Community garden interview — Julie Landy Deboer        | Community garden   | ✅ Complete                |
-| **TBD**       | Round 2 field sessions — Todd, Greg, Bailey, Shannon, Nate, Dwight | Various lots + farm | ⏳ Intros sent, awaiting schedules |
+| **Jul 29**   | Drone footage — community garden + kitchen build progress | New HQ            | ✅ Complete                |
+| **TBD**       | Round 2 field sessions — Todd, Greg, Bailey, Shannon, Nate, Dwight | Various lots + farm | ⏳ Nudges sent Jul 29, awaiting replies |
 | **Sep TBD**   | Ryan + Les Truck Day (harvest/fall run)                  | Various            | 🔲 Timing flexible |
 
 ## Current Status
@@ -54,8 +55,9 @@ The story arc spans three generations — Les & Betty's generation, Ryan & his s
 - ✅ **Master shot list created** — covering all remaining production blocks through October
 - ⏳ **August 13** — Community Garden & HQ Open House confirmed. **John Wort Hannam Trio performing** — live music capture planned
 - ✅ **Community garden interview (July 10)** — Julie Landy Deboer, Coaldale Community Garden Association president, sat down for an on-camera interview at the garden. B-roll captured too. Fills the community voice gap from Round 1.
-- 🔲 **Community kitchen anchor frames** — urgent. Basement being dug this week. Repeatable photo series through October
-- ⏳ **Round 2 interviews** — intros sent to all six: Todd Lang (GM), Greg Kasko (Home Lot), Bailey, Shannon Kasko, Nate Hubbard (Farm Mgr), Dwight Morhart (Marketing/Risk, 30yr). Awaiting time windows.
+- ✅ **Drone footage captured (July 29)** — aerials of the community garden in full summer growth and the community kitchen build underway. First drone anchor frame set for the repeatable kitchen series through October. [Watch the footage →](/kasko-cattle/hq-drone-footage-jul29/)
+- ⏳ **Community kitchen anchor frames** — first drone pass captured July 29. Repeatable series continues through October
+- ⏳ **Round 2 interviews** — follow-up nudges sent to all six on July 29 (Todd, Greg, Bailey, Shannon, Nate, Dwight). Awaiting replies
 - 🔲 **Ryan + Les truck day** — early/late September, harvest season + fall cattle run
 
 ## Next Step for You
@@ -73,5 +75,6 @@ The heart of the film is in the can — June 29 captured three generations on ca
 
 ➡️ [Production Update — Round 2 Plan & Garden](/kasko-cattle/round-2-plan-jul7/)
 ➡️ [Community Garden Interview — Julie Landy Deboer](/kasko-cattle/garden-interview-jul10/)
+➡️ [Drone Footage — Community Garden & Kitchen Build](/kasko-cattle/hq-drone-footage-jul29/)
 
 Questions? Reach out to **michael@coalbanks.com**.
