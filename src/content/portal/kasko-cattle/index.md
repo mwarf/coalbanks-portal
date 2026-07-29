@@ -73,8 +73,12 @@ The heart of the film is in the can — June 29 captured three generations on ca
 - Round 2 field sessions — six voices across multiple visits
 - Truck day with Ryan and Les — September, harvest season
 
-➡️ [Production Update — Round 2 Plan & Garden](/kasko-cattle/round-2-plan-jul7/)
-➡️ [Community Garden Interview — Julie Landy Deboer](/kasko-cattle/garden-interview-jul10/)
-➡️ [Drone Footage — Community Garden & Kitchen Build](/kasko-cattle/hq-drone-footage-jul29/)
+### Recent Updates
+
+➡️ [Drone Footage — Community Garden & Kitchen Build](/kasko-cattle/hq-drone-footage-jul29/) — Aerials of the garden in full growth and the kitchen build underway (Jul 27)
+
+➡️ [Community Garden Interview — Julie Landy Deboer](/kasko-cattle/garden-interview-jul10/) — On-camera interview with the Garden Society president, plus b-roll (Jul 10)
+
+➡️ [Production Update — Round 2 Plan & Garden](/kasko-cattle/round-2-plan-jul7/) — Round 2 interview plan, community garden strategy, and shot list priorities
 
 Questions? Reach out to **michael@coalbanks.com**.
