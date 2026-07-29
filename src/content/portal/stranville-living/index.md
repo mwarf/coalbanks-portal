@@ -145,7 +145,9 @@ Key logistics:
 
 ## What We Need from You
 
-- **CNP filming family** — a Crowsnest Pass area family for documentary coverage during this week's shoot days. Both teams searching; Danielle R. has a possible candidate.
-- **Airbnb accommodation** — crew of four for the week of Jul 27 mountain trip. Exact nights being confirmed this week.
+- **CNP filming family** — a Crowsnest Pass area family for documentary coverage. Both teams searching; Danielle R. has a possible candidate.
+- **Brent Hardy rescheduling** — we'll coordinate directly with Brent to find a new time for the construction interview.
+- **Coleman talent** — if you have any additional contacts in the Crowsnest Pass area who might be a fit for the lifestyle coverage, please share. We're casting a wider net.
+- **Airbnb accommodation** — crew of four for the mountain trip once dates are locked.
 
 Questions? Reach out to **michael@coalbanks.com**.

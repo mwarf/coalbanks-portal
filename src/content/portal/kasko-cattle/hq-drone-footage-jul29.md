@@ -7,12 +7,12 @@ date: 2026-07-29
 type: update
 videos:
   - id: "675298b9485a8957d449143fc079a5df"
-    title: "Community garden and community kitchen build — drone footage, July 29"
+    title: "Community garden and community kitchen build — drone footage, July 27"
 ---
 
 ## Aerial Progress Update
 
-Captured drone footage during a visit to the Coaldale headquarters on July 29. Two areas of focus, both part of the ongoing "before" documentation that tracks the site's transformation through the film's timeline.
+Captured drone footage during a visit to the Coaldale headquarters on July 27 (posted here July 29). Two areas of focus, both part of the ongoing "before" documentation that tracks the site's transformation through the film's timeline.
 
 ### Community Garden
 
