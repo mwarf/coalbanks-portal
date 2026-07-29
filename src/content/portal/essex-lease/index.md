@@ -3,7 +3,7 @@ title: "40th Anniversary — Project Overview"
 client: essex-lease
 publish: true
 status: approved
-date: 2026-07-05
+date: 2026-07-29
 type: brief
 ---
 
@@ -59,12 +59,14 @@ Client interviews that demonstrate Essex's flexibility compared to traditional b
 - ✅ 30-second and 2-minute social cuts scripted and buildable
 - ✅ Camp Kindle event coverage complete (May 29)
 - ✅ Pitbull Energy interview complete (Jun 15)
-- ✅ Staff headshots complete (Jun 23) — **36 edited portraits delivered**
+- ✅ Staff headshots complete (Jun 23) — **36 edited portraits delivered, revised set delivered Jul 29** (looser crop, lighter backdrop)
 - ✅ Brand photography complete — **133 edited images delivered** (abstract/equipment, building, lifestyle, aerials)
 - ⏳ September Golf Classic shoot — final capture day September 9
 - ⏳ Hero film assembly — post-September
 
 ### Recent Updates
+
+➡️ [Staff Headshots — Revised Set Delivered](/essex-lease/headshots-revised-jul29/) — Jul 29
 
 ➡️ [Post-Production Update — Story Structure & Edit Progress](/essex-lease/post-production-update-jul5/) — Jul 5
 
