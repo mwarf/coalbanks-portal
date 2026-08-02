@@ -1,0 +1,22 @@
+location: lethbridge
+program: volunteer
+format: "4:5"
+rhythm: teal-forward
+slides:
+  - role: hook
+    headline: "A few hours can make someone feel at home."
+  - role: point
+    eyebrow: "WELCOME"
+    headline: "Meet your neighbours"
+    body: "Offer a warm hello, listen well, and help each guest find what they came for."
+  - role: point
+    eyebrow: "PRACTICAL CARE"
+    headline: "Keep essentials ready"
+    body: "Sort clothing, organize shelves, and prepare everyday items with care."
+  - role: quote
+    headline: "Dignity lives in the details."
+    meta: "MyCityCare"
+  - role: cta
+    headline: "Come serve with us"
+    body: "Ask about current volunteer opportunities."
+    meta: "Lethbridge | 1401 28 St N"

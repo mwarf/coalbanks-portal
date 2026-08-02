@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#006A63"/>
+<defs><linearGradient id="wash" x1="0" x2="1"><stop stop-color="#43DCCE" stop-opacity=".08"/><stop offset=".64" stop-color="#43DCCE" stop-opacity="0"/></linearGradient></defs>
+<rect width="1080" height="1350" fill="url(#wash)"/>
+<circle cx="1060" cy="390" r="290" fill="none" stroke="#43DCCE" stroke-width="6" opacity=".44"/>
+<rect x="96" y="108" width="56" height="7" rx="4" fill="#43DCCE"/><text x="984" y="124" fill="#FFFFFF" opacity=".72" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="600" letter-spacing="3" text-anchor="end">KEEP CARE CLOSE</text>
+<line x1="96" y1="1160" x2="984" y2="1160" stroke="#FFFFFF" stroke-width="2" opacity=".16"/>
+<text x="96" y="1235" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="-1">mycitycare</text>
+<text x="984" y="1230" fill="#FFFFFF" opacity=".76" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="600" text-anchor="end">Lethbridge | MyCityCare</text>
+
+<text x="96" y="540" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="84" font-weight="850" text-anchor="start"><tspan x="96" dy="0">Help keep the</tspan><tspan x="96" dy="90">doors open</tspan></text><text x="96" y="820" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="400" text-anchor="start"><tspan x="96" dy="0">Your support keeps practical care available</tspan><tspan x="96" dy="55">to neighbours across Lethbridge.</tspan></text></svg>
