@@ -32,8 +32,8 @@ Morning aerial coverage of the Aurora subdivision in Coleman. These shots establ
 
 ## What's Next
 
-- **Brent Hardy construction interview** — Monday, July 27 at 11:00 AM
-- **Kim & Trevor family profile** — Tuesday, July 28 at 9:00 AM
-- **Mountain trip (Phase 2)** — Coleman match-cut Side B, Logan Duplex, Aurora, CNP aerials through the week
+- **Brent Hardy construction interview** — rescheduled & confirmed for **Friday, August 7** (10 AM–1 PM)
+- **Kim & Trevor family profile** — complete July 28 ✅
+- **Mountain trip (Phase 2)** — Coleman match-cut Side B, Logan Duplex, Aurora, CNP aerials (pending Coleman talent casting)
 
 Questions? Reach out to **michael@coalbanks.com**.

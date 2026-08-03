@@ -3,7 +3,7 @@ title: "Family Documentary Profile Complete — Kim & Trevor"
 client: stranville-living
 publish: true
 status: in-review
-date: 2026-07-29
+date: 2026-08-03
 type: update
 ---
 
@@ -15,9 +15,7 @@ This completes the family documentary profile, one of two documentary pieces in 
 
 ## Schedule Adjustments
 
-Two items need attention before the remaining mountain coverage can proceed:
-
-**Brent Hardy's construction interview** was cancelled on short notice earlier this week. We're working to find a new time and will update you as soon as it's rescheduled.
+**Brent Hardy's construction interview** was cancelled on short notice earlier this week, and has now been **rescheduled and confirmed for Friday, August 7** (10 AM–1 PM, crew 9 AM–2 PM). This completes the construction team voice.
 
 **Coleman Hemsdale shoot** — we're widening our search for the right talent to feature in the Coleman lifestyle coverage. Current leads didn't pan out, so we're casting a wider net before locking in the dedicated mountain trip. This ensures the match-cut centrepiece and mountain lifestyle content have the right people in them.
 

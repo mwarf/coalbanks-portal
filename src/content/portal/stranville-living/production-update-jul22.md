@@ -11,7 +11,7 @@ type: update
 
 Both in-office interviews are in the can. **Jenna Schmidt (design)** and **Corissa Mildenberger (sales)** each sat for conversational interviews plus B-roll on Tuesday at the Stranville office and Sales Centre. The community boards and showroom gave us exactly the working context we wanted, and both interviews connected directly to the family story at the heart of the documentary.
 
-**Brent Hardy (construction)** completes the trio on **Monday, July 27 at 11:00 AM**, starting at the Stranville office and moving on-site from there. Expect real work on camera rather than a talking head, including branded vehicle and site-to-site driving coverage.
+**Brent Hardy (construction)** completes the trio on **Friday, August 7** (10 AM–1 PM), starting at the Stranville office and moving on-site from there. Expect real work on camera rather than a talking head, including branded vehicle and site-to-site driving coverage.
 
 ## Mountain Lifestyle Coverage Underway
 
