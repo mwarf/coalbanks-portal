@@ -3,7 +3,7 @@ title: "Better Everywhere — Project Overview"
 client: stranville-living
 publish: true
 status: in-review
-date: 2026-08-03
+date: 2026-08-07
 type: brief
 ---
 
@@ -22,49 +22,42 @@ type: brief
 
 ### Locations
 
-- **Lethbridge** — BlackWolf (Hemsdale showhome), Legacy Park
+- **Lethbridge** — BlackWolf (Hemsdale showhome), Legacy Park, Copperwood
 - **Coaldale** — Malloy Landing (showhome + rec facility context)
-- **Crowsnest Pass** — Coleman (Hemsdale, Aurora, Logan Duplex, 127 Miners Rd framing coverage)
-- **Sparwood, BC** — community establishing (if time allows)
+- **Crowsnest Pass** — Coleman (Hemsdale, Aurora, Logan Duplex), 135 Miners Rd framing coverage
+- **Sparwood, BC** — community establishing
 
-## Production Schedule — Updated Jul 22
+## Production Schedule — Updated Aug 7
 
-> **⚠️ Schedule update (Jul 20):** Coleman Hemsdale staging was delayed, moving the main mountain coverage to a dedicated trip the **week of July 27**. Staging is now **complete** (Jul 22) and Phase 2 is locked.
+> **✅ All principal photography is now complete.** The final shoot (Brent Hardy's construction interview) wrapped Friday, August 7. We are now in post-production, moving into rough assembly for the edit.
 
-### Phase 1 — Lethbridge & Coaldale + Early Mountain Coverage: Jul 20–25
+### Principal Photography (complete)
 
 | Day | Focus | Status |
 |-----|-------|--------|
-| **Mon Jul 20** | Match-cut Side A at BlackWolf Hemsdale, Malloy Landing, Legacy Park aerials, 127 Miners Rd framing skeleton | ✅ Complete |
-| **Tue Jul 21** | Team voices — Jenna Schmidt (design) + Corissa Mildenberger (sales) | ✅ Complete |
-| **Wed–Thu Jul 22–23** | Crowsnest Pass: mountain lifestyle coverage (FPV mountain biking, fly fishing), Aurora construction activity + Hemsdale exteriors | ✅ Complete |
-| **Fri Jul 24** | Production prep, gear turnaround, media offload | ✅ Complete |
-| **Sat Jul 25** | **NEW:** Copperwood "Movie in the Park" community event — Stranville booth, community engagement B-roll. Festivities 3:00 PM, movie 7:00 PM | ✅ Complete |
-| **Mon Jul 27** | Brent Hardy construction interview, 11:00 AM — office start, then on-site with branded vehicle and driving coverage | ✅ Rescheduled — **Fri Aug 7, 10 AM–1 PM** |
-| **Tue Jul 28** | Kim & Trevor family documentary at their Copperwood home, 9:00 AM | ✅ Complete |
-| **Sat Aug 1** | **NEW:** Malloy Landing showhome lifestyle shoot — Cara Charles (senior, BIPOC), lifestyle in home + bonus Malloy Landing drone coverage | ✅ Complete |
-| **Fri Aug 7** | Brent Hardy construction interview — office start, then on-site with branded vehicle and driving coverage (crew 9 AM–2 PM) | ✅ Confirmed |
+| **Mon–Sat Jul 20–25** | Phase 1 — Lethbridge & Coaldale: match-cut Side A, Malloy Landing + Legacy Park aerials, team voices (Jenna, Corissa), early CNP mountain coverage, Copperwood community event, 127 Miners Rd framing skeleton | ✅ Complete |
+| **Jul 22–23** | Early mountain trip: FPV mountain biking, fly fishing, Aurora construction, Coleman Hemsdale exteriors | ✅ Complete |
+| **Tue Jul 28** | Kim & Trevor family documentary at their Copperwood home | ✅ Complete |
+| **Sat Aug 1** | Malloy Landing showhome lifestyle shoot — Cara Charles (senior, BIPOC) + bonus drone coverage | ✅ Complete |
+| **Fri Aug 7** | Brent Hardy construction interview — two-camera, at 135 Miners Rd (framing stage). Drone, vehicle, and interior walkthrough coverage | ✅ Complete |
 
-### Phase 2 — Dedicated Mountain Trip: Week of Jul 27
+### Documentary Profiles
 
-Match-cut Side B at staged Coleman Hemsdale, family documentary coverage (casting in progress), Logan Duplex, Aurora, CNP aerials, and golden hour mountain exteriors. Mountain days follow the Brent (Mon) and family (Tue) shoots in Lethbridge. Airbnb accommodation for crew (arranged by Stranville). **Note:** Coleman shoot is on hold while we widen the talent casting net — see the update below.
-
-### Documentary Profile 1 — Kim & Trevor
-
-**Complete: Tuesday, July 28.** Interview, candid b-roll around their Copperwood home, and drone footage of the house and neighbourhood. This marks the family documentary profile as done — one of two documentary pieces in the campaign.
+- **Profile 1 — The Family (Kim & Trevor)** — **Complete, July 28.** Interview, candid b-roll at their Copperwood home, and drone footage of the house and neighbourhood.
+- **Profile 2 — The Team** — **All three voices complete:** Jenna Schmidt (design), Corissa Mildenberger (sales), and Brent Hardy (construction, filmed Aug 7).
 
 ## Pre-Production Milestones
 
 | Week | Focus | Status |
 |------|-------|--------|
-| **Jun 29** | Sales team to surface candidate families, identify 3 team voices, confirm locations | ✅ Complete |
-| **Jul 6** | Family selection, pre-interview scheduling, Lethbridge scouting, lifestyle talent booking | ✅ Complete |
+| **Jun 29** | Candidate families, team voices, locations confirmed | ✅ Complete |
+| **Jul 6** | Family selection, pre-interview scheduling, scouting, lifestyle talent booking | ✅ Complete |
 | **Jul 13** | Final prep — shot lists locked, team briefed, PPE coordination | ✅ Complete |
-| **Jul 14** | Production logistics confirmed — family (Kim & Trevor), site contacts, framing location | ✅ Complete |
+| **Jul 14** | Production logistics confirmed — family, site contacts, framing location | ✅ Complete |
 | **Jul 16** | Team voices confirmed — Brent Hardy, Jenna Schmidt, Corissa Mildenberger | ✅ Complete |
 | **Jul 17** | Lifestyle shoot — Matt & Steph White + kids at BlackWolf Hemsdale + Legacy Park | ✅ Complete |
-| **Jul 20** | Production week — Phase 1 (Lethbridge/Coaldale) | 🔵 In progress |
-| **Jul 27** | Production week — Phase 2 (Mountain trip) | ⏳ Scheduled |
+| **Jul 20–25** | Production week — Phase 1 (Lethbridge/Coaldale/mountain) | ✅ Complete |
+| **Aug 7** | Final shoot — Brent Hardy construction interview | ✅ Complete |
 
 ## Post-Production Timeline
 
@@ -86,50 +79,44 @@ Match-cut Side B at staged Coleman Hemsdale, family documentary coverage (castin
 | Deposit received | Jun 10 | ✅ Complete |
 | Production plan sent | Jun 26 | ✅ Complete |
 | Coleman scouting trip | Jul 3 | ✅ Complete |
-| Malloy Landing aerial scout | Jul 7–8 | ✅ Complete |
 | Scout footage delivered | Jul 5 | ✅ Complete |
+| Malloy Landing aerial scout | Jul 7–8 | ✅ Complete |
 | Hemsdale match-cut tests | Jul 9 | ✅ Complete |
 | Family confirmed (Kim & Trevor) | Jul 14 | ✅ Complete |
 | Construction site contacts confirmed | Jul 14 | ✅ Complete |
 | Team voices confirmed | Jul 16 | ✅ Complete |
 | Lifestyle shoot (Hemsdale + Legacy Park) | Jul 17 | ✅ Complete |
-| Coleman staging delayed → Phase 2 | Jul 16 | ⚠️ Pushed to wk of Jul 27 |
-| Coleman Hemsdale staging complete | Jul 22 | ✅ Complete |
+| Phase 1 — Lethbridge/Coaldale/mountain | Jul 20–25 | ✅ Complete |
 | Team interviews — design + sales | Jul 21 | ✅ Complete |
 | CNP mountain lifestyle coverage | Jul 22–23 | ✅ Complete |
-| Construction voice interview (Brent Hardy) | Mon Jul 27, 11 AM | ✅ Rescheduled — Fri Aug 7 |
 | Copperwood Movie in the Park coverage | Jul 25 | ✅ Complete |
 | 127 Miners Rd framing skeleton aerial | Jul 25 | ✅ Complete |
-| Family profile (Kim & Trevor) | Tue Jul 28 | ✅ Complete |
+| Family profile (Kim & Trevor) | Jul 28 | ✅ Complete |
 | Malloy Landing showhome lifestyle shoot (Cara Charles) | Aug 1 | ✅ Complete |
-| Brent Hardy construction interview | Fri Aug 7, 10 AM–1 PM | 🟡 Confirmed |
-| Coleman Hemsdale talent casting | Jul 28 | ⚠️ Widening casting net |
-| Principal photography — Phase 2 | TBD | ⏳ On hold pending casting |
+| **Brent Hardy construction interview** | **Aug 7** | ✅ Complete |
+| **Principal photography — ALL** | **Aug 7** | ✅ **Complete** |
+| Rough assembly + edit | Aug 2026 | ⏳ In progress |
 | Final delivery | Late September | ⏳ Planned |
 
 ## Current Status
 
-**In production.** Phase 1 (Lethbridge/Coaldale) has wrapped. Team interviews complete (Jul 21), mountain lifestyle coverage complete (Jul 22–23), community event and framing skeleton aerials captured (Jul 25), **Kim & Trevor's family documentary profile complete** (Jul 28), and a **Malloy Landing showhome lifestyle shoot with Cara Charles** captured (Aug 1).
+**All principal photography is complete.** We wrapped the final shoot Friday, August 7 — Brent Hardy's construction interview at 135 Miners Rd (a home in the framing stage), with two-camera interview, drone, vehicle, and interior coverage. That completes all three team voices (Jenna, Corissa, Brent), both documentary profiles, and every planned location.
 
-**Brent Hardy's construction interview is confirmed for Friday, August 7** (10 AM–1 PM, crew 9 AM–2 PM). This completes the construction team voice, leaving Coleman Hemsdale talent as the remaining item before the main mountain trip proceeds:
+**We're now in post-production, starting rough assembly for the edit.** The brand anthem (Hemsdale match-cut centrepiece), the two documentary profiles, and the social reels are all being cut from the production footage.
 
-- **Coleman Hemsdale talent** — current casting leads have come up empty. Widening the search before locking the dedicated mountain trip. This ensures the match-cut centrepiece has the right people in it.
-
-We're actively working solutions on the remaining item and will keep you posted as dates come together.
-
-Key logistics:
-- **Team voices:** Jenna Schmidt (design) ✅, Corissa Mildenberger (sales) ✅, Brent Hardy (construction) — confirmed Fri Aug 7
-- **127 Miners Rd framing skeleton** — captured ✅
+Key crew and coverage:
+- **Team voices:** Jenna Schmidt (design) ✅, Corissa Mildenberger (sales) ✅, Brent Hardy (construction) ✅
 - **Malloy Landing showhome lifestyle shoot (Cara Charles)** — captured Aug 1 ✅
 - **Mountain lifestyle b-roll** — Mike Miechkota (fly fishing + mountain biking) captured Jul 22–23 ✅
-- **CNP family for documentary coverage** — still searching; Sheva checking past clients and local contacts
-- **Airbnb accommodation** — being arranged for Phase 2
+- **Community event + framing skeleton** — captured Jul 25 ✅
 
 ### Recent Updates
 
+➡️ [Principal Photography Complete — Moving to Edit](/stranville-living/principal-photography-complete-aug7/) — Final shoot (Brent's construction interview) wrapped Aug 7. All shooting done, now into post-production.
+
 ➡️ [Malloy Landing Showhome — Lifestyle Shoot (Cara Charles)](/stranville-living/malloy-landing-lifestyle-aug1/) — Lifestyle coverage in the showhome plus bonus Malloy Landing drone pass (Aug 1)
 
-➡️ [Family Documentary Profile Complete — Kim & Trevor](/stranville-living/kim-trevor-interview-jul28/) — Interview, b-roll, and drone footage captured Jul 28. Plus schedule adjustments for Brent Hardy and Coleman casting.
+➡️ [Family Documentary Profile Complete — Kim & Trevor](/stranville-living/kim-trevor-interview-jul28/) — Interview, b-roll, and drone footage captured Jul 28.
 
 ➡️ [CNP Mountain Lifestyle — Selects](/stranville-living/cnp-lifestyle-selects/) — Fly fishing, FPV mountain biking, and Aurora subdivision morning drone aerials (Jul 22–23)
 
@@ -149,10 +136,8 @@ Key logistics:
 
 ➡️ [Full Package Green Light](/stranville-living/production-update/) — Campaign approval and scope history
 
-## What We Need from You
+## Next Up
 
-- **CNP filming family** — a Crowsnest Pass area family for documentary coverage. Both teams searching; Danielle R. has a possible candidate.
-- **Coleman talent** — if you have any additional contacts in the Crowsnest Pass area who might be a fit for the lifestyle coverage, please share. We're casting a wider net.
-- **Airbnb accommodation** — crew of four for the mountain trip once dates are locked.
+We're beginning the **rough assembly** of the edit now. As rough cuts and social reels come together, we'll share them here for your review. First reels target around mid-to-late August.
 
 Questions? Reach out to **michael@coalbanks.com**.

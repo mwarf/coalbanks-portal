@@ -3,7 +3,7 @@ title: "Coleman Scouting Trip — Selects & Aerials"
 client: stranville-living
 publish: true
 status: in-review
-date: 2026-07-05
+date: 2026-08-07
 type: update
 videos:
   - id: "967b6d7747205880b22adbf419f3e95d"
@@ -42,7 +42,7 @@ This footage sets the creative tone for the campaign. The anamorphic look test i
 ## Next Steps
 
 - **Feedback welcome** — Let us know how the visual style and coverage feel
-- **Production underway** — Phase 1 (Lethbridge/Coaldale) is complete. Phase 2 (mountain trip, including Coleman match-cut Side B) is scheduled for the week of Jul 27; staging is complete
-- See the updated [production plan →](/stranville-living/production-plan/) for the revised two-phase schedule
+- **Production complete** — All principal photography wrapped Friday, Aug 7. The campaign is now in post-production (rough assembly).
+- See the updated [production plan →](/stranville-living/production-plan/) for the current schedule
 
 Questions? Reach out to **michael@coalbanks.com**.

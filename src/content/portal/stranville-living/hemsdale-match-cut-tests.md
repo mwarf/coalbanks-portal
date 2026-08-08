@@ -3,7 +3,7 @@ title: "Better Everywhere — Hemsdale Match-Cut Tests"
 client: stranville-living
 publish: true
 status: delivered
-date: 2026-07-09
+date: 2026-08-07
 type: update
 gallery:
   - src: "https://assets.coalbanks.com/stranville-living/hemsdale-match-cut-tests/hf_20260709_202522_80464608-0cca-4b52-809a-3cb232bcec96.webp"
@@ -81,4 +81,4 @@ The match-cut needs to feel seamless. These tests help answer:
 - How much flexibility exists in angle, lighting, and material before the visual continuity breaks?
 - Which time of day and angle pairings create the strongest transition?
 
-The results will inform camera placement and scheduling for both Phase 1 (BlackWolf Hemsdale, Jul 20) and Phase 2 (Coleman Hemsdale, week of Jul 27).
+The results informed camera placement and scheduling through the shoot. Principal photography is now complete (Aug 7); the match-cut continues to develop in the rough assembly of the brand anthem.

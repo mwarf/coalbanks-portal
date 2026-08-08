@@ -3,7 +3,7 @@ title: "Family Documentary Profile Complete — Kim & Trevor"
 client: stranville-living
 publish: true
 status: in-review
-date: 2026-08-03
+date: 2026-08-07
 type: update
 ---
 
@@ -15,15 +15,13 @@ This completes the family documentary profile, one of two documentary pieces in 
 
 ## Schedule Adjustments
 
-**Brent Hardy's construction interview** was cancelled on short notice earlier this week, and has now been **rescheduled and confirmed for Friday, August 7** (10 AM–1 PM, crew 9 AM–2 PM). This completes the construction team voice.
+**Brent Hardy's construction interview** was rescheduled and **completed Friday, August 7** (10 AM–1 PM, crew 9 AM–2 PM) at 135 Miners Rd — a two-camera interview with drone, vehicle, and interior walkthrough coverage. This completes the construction team voice.
 
-**Coleman Hemsdale shoot** — we're widening our search for the right talent to feature in the Coleman lifestyle coverage. Current leads didn't pan out, so we're casting a wider net before locking in the dedicated mountain trip. This ensures the match-cut centrepiece and mountain lifestyle content have the right people in them.
-
-Both of these touch the production timeline, and we're actively working solutions on both fronts. We'll keep you posted as things develop and new dates come together.
+**Coleman Hemsdale coverage** — earlier casting leads didn't pan out, and the dedicated mountain-trip approach was adjusted. With principal photography now complete (August 7), the campaign has moved into post-production on the footage captured.
 
 ## What's Next
 
-- Rescheduling Brent Hardy's construction interview (third team voice)
-- Casting for the Coleman Hemsdale shoot
-- Crowsnest Pass family for documentary coverage (still searching)
-- Once the above are resolved: dedicated mountain trip with match-cut Side B, CNP aerials, and golden hour exteriors
+- **Brent Hardy construction interview** — **complete** Aug 7 ✅ (third of three team voices)
+- **Kim & Trevor family profile** — complete Jul 28 ✅
+- **Principal photography** — **all complete** Aug 7 ✅
+- **In post-production** — rough assembly of the edit underway

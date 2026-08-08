@@ -3,7 +3,7 @@ title: "Community Event + Framing Coverage — Selects"
 client: stranville-living
 publish: true
 status: delivered
-date: 2026-07-26
+date: 2026-08-07
 type: deliverable
 videos:
   - id: "8da883bc085ca0b9403013c8a42a676e"
@@ -26,8 +26,8 @@ Drone coverage of the 127 Miners Rd framing stage, captured during Phase 1. The 
 
 ## What's Next
 
-- **Brent Hardy construction interview** — rescheduled & confirmed for **Friday, August 7** (10 AM–1 PM)
+- **Brent Hardy construction interview** — **complete** Friday, August 7 ✅ (two-camera at 135 Miners Rd)
 - **Kim & Trevor family profile** — complete July 28 ✅
-- **Mountain trip (Phase 2)** — Coleman match-cut Side B, Logan Duplex, Aurora, CNP aerials (pending Coleman talent casting)
+- **Principal photography** — **all complete** Aug 7 ✅. Now in post-production (rough assembly).
 
 Questions? Reach out to **michael@coalbanks.com**.

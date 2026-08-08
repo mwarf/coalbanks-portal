@@ -3,7 +3,7 @@ title: "Malloy Landing Showhome — Lifestyle Shoot (Cara Charles)"
 client: stranville-living
 publish: true
 status: in-review
-date: 2026-08-03
+date: 2026-08-07
 type: update
 ---
 
@@ -23,6 +23,7 @@ This coverage adds a senior voice to the campaign's human storytelling and broad
 ## What's Next
 
 - Compiling the Malloy Landing selects reels from the July and August footage for delivery
-- Brent Hardy's construction interview is now **confirmed for Friday, August 7**
+- Brent Hardy's construction interview — **complete** Friday, August 7 ✅
+- **Principal photography** — **all complete** Aug 7 ✅
 
 Questions? Reach out to **michael@coalbanks.com**.

@@ -3,7 +3,7 @@ title: "Abitibi Road — Construction Stage Scout"
 client: stranville-living
 publish: true
 status: delivered
-date: 2026-07-13
+date: 2026-08-07
 type: update
 videos:
   - id: "3866ac86227e6c1768b357dc53f99b27"
@@ -31,10 +31,11 @@ This is part of the pre-production B-roll bank being built before the four-day p
 
 ## What's Next
 
-- Lifestyle family session at BlackWolf Hemsdale showhome completed **Friday, July 17**
+- Lifestyle family session at BlackWolf Hemsdale showhome — **complete July 17** ✅
 - Principal shoot — Phase 1 (Lethbridge/Coaldale): **July 20–25** ✅ complete
-- Documentary family profile (Kim & Trevor): confirmed **Tue Jul 28, 9:00 AM**
-- Principal shoot — Phase 2 (mountain trip, Coleman match-cut Side B): **week of July 27**
+- Documentary family profile (Kim & Trevor) — **complete July 28** ✅
+- Construction voice interview (Brent Hardy) — **complete August 7** ✅
+- **Principal photography — all complete Aug 7;** campaign now in post-production (rough assembly)
 - See the full [production plan →](/stranville-living/production-plan/) for the current schedule
 
 Questions? Reach out to **michael@coalbanks.com**.
