@@ -46,7 +46,6 @@ The story arc spans three generations — Les & Betty's generation, Ryan & his s
 ## Current Status
 
 - ✅ Proposal and Scope of Work signed (June 3)
-- ✅ Phase 1 deposit received — $18,060 via EFT (June 4)
 - ✅ Pre-production "before" footage captured (June 4) — community garden, new HQ, community kitchen site
 - ✅ **Archival session complete (June 11)** — scanned historical family photos and documents at Central Farms
 - ✅ **Impromptu shoot (June 11)** — captured family members working in the greenhouse and planting in the outdoor flowerbeds
@@ -58,7 +57,7 @@ The story arc spans three generations — Les & Betty's generation, Ryan & his s
 - ⏳ **August 13** — Community Garden & HQ Open House confirmed. **John Wort Hannam Trio performing** — live music capture planned
 - ✅ **Community garden interview (July 10)** — Julie Landy Deboer, Coaldale Community Garden Association president, sat down for an on-camera interview at the garden. B-roll captured too. Fills the community voice gap from Round 1.
 - ✅ **Drone footage captured (July 27)** — aerials of the community garden in full summer growth and the community kitchen build underway. First drone anchor frame set for the repeatable kitchen series through October. [Watch the footage →](/kasko-cattle/hq-drone-footage-jul29/)
-- ✅ **Dwight Morhart interview (August 10)** — on-camera interview + b-roll captured at Highway 52 Feeders. A 30-year perspective, including the BSE-era risk story. [Raw look →](/kasko-cattle/dwight-interview-broll/)
+- ✅ **Dwight Morhart interview (August 10)** — on-camera interview + b-roll captured at Highway 52 Feeders. A 29-year perspective, including the BSE-era risk story. [Raw look →](/kasko-cattle/dwight-interview-broll/)
 - 📅 **Nate Hubbard interview (August 12)** — Farm Manager, crops. Scheduled for Wednesday
 - ⏳ **Community kitchen anchor frames** — first drone pass captured July 27. Repeatable series continues through October
 - ⏳ **Round 2 interviews** — Dwight captured (Aug 10); Nate scheduled (Aug 12); remaining voices (Todd, Greg, Bailey, Shannon) still to schedule

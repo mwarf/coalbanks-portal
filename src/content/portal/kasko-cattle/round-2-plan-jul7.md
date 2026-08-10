@@ -22,7 +22,7 @@ Ryan has green-lit all six Round 2 interviews. Introductions are pending:
 | **Bailey** | Third generation | Field format in the pens | Flagged by multiple family members as the strongest G3 voice on camera |
 | **Shannon Kasko** | Office Manager | Short sit-down | Her perspective on the business family and the design partnership on the new HQ |
 | **Nate Hubbard** | Farm Manager | Field interview, work day | 6,000+ acres of irrigation and crop production. The literal "growing food" side of the mission |
-| **Dwight Morhart** | Marketing & Risk Manager | Field or sit-down | 30-year employee. Markets, the BSE crash, what it looks like to stay with one company for three decades |
+| **Dwight Morhart** | Marketing & Risk Manager | Field or sit-down | 29-year employee. Markets, the BSE crash, what it looks like to stay with one company for three decades |
 
 These will be spread across multiple visits rather than one big shoot day.
 

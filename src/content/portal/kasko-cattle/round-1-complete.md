@@ -40,7 +40,7 @@ Six voices confirmed for Round 2 field sessions. Introductions from Ryan are pen
 - **Bailey** — strongest next-generation voice on camera. Field format in the pens
 - **Shannon Kasko** (Office Manager) — perspective on the business family, design partnership on the new HQ
 - **Nate Hubbard** (Farm Manager) — 6,000+ acres of irrigation and crop production. The "growing food" voice
-- **Dwight Morhart** (Marketing & Risk Manager) — 30-year employee. Markets, BSE crash, loyalty and longevity
+- **Dwight Morhart** (Marketing & Risk Manager) — 29-year employee. Markets, BSE crash, loyalty and longevity
 
 ### Additional Filming Blocks
 
