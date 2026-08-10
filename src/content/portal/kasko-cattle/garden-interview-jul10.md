@@ -32,7 +32,7 @@ The garden interview fills the one major gap left after the Round 1 family sessi
 
 ## What's Next
 
-- Round 2 field sessions with Todd, Greg, Bailey, Shannon, Nate, and Dwight are still pending — introductions have been sent, awaiting schedules
+- Round 2 interviews are now underway — **Dwight Morhart** captured on-camera (Aug 10), **Nate Hubbard** scheduled (Aug 12); Todd, Greg, Bailey, and Shannon still to schedule
 - Community kitchen anchor frames remain urgent as construction progresses
 - Aug 13 open house coverage is locked in with the John Wort Hannam Trio performance
 
