@@ -85,6 +85,22 @@ gallery:
     thumb: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09876-720w.webp"
     alt: "Woman with glasses in a pink patterned top holding a glass of red wine mid-conversation"
     caption: "Toasts all around"
+  - src: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09924.webp"
+    thumb: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09924-720w.webp"
+    alt: "Two elderly women laughing in conversation, one in a yellow top, the other holding a phone"
+    caption: "Sharing a laugh"
+  - src: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09926.webp"
+    thumb: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09926-720w.webp"
+    alt: "Guests mingling indoors, a man in a white cowboy hat and plaid shirt in the centre"
+    caption: "Mingling inside the office"
+  - src: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09929.webp"
+    thumb: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09929-720w.webp"
+    alt: "Two men chatting, one in a reddish-brown shirt holding a drink"
+    caption: "Drinks and conversation"
+  - src: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09935.webp"
+    thumb: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09935-720w.webp"
+    alt: "Guests smiling and talking, a woman in a sequined top in the centre"
+    caption: "The crowd enjoying the evening"
 ---
 
 ## Open House & Community Garden Event
