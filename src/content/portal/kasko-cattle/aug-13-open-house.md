@@ -1,0 +1,98 @@
+---
+title: "HQ Open House & Community Garden Event — Photo Gallery"
+client: kasko-cattle
+publish: true
+status: delivered
+date: 2026-08-14
+type: update
+asset_links:
+  - label: "Full Resolution Photos (Google Drive)"
+    url: "https://drive.google.com/drive/folders/1m42jTrZgdWVHGHgak_-ByhVusnC97DBW?usp=sharing"
+gallery:
+  - src: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09746.webp"
+    thumb: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09746-720w.webp"
+    alt: "Two men talking in the Kasko greenhouse ahead of the open house, one checking his phone"
+    caption: "Setting up before guests arrived"
+  - src: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09749.webp"
+    thumb: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09749-720w.webp"
+    alt: "Two men in the greenhouse with camera equipment set up for the event"
+    caption: "Camera prep in the greenhouse"
+  - src: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09751.webp"
+    thumb: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09751-720w.webp"
+    alt: "Man in a black t-shirt standing thoughtfully inside the greenhouse"
+    caption: "A quiet moment before the doors opened"
+  - src: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09760.webp"
+    thumb: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09760-720w.webp"
+    alt: "Man adjusting camera equipment on a stand during event setup"
+    caption: "Getting the shot ready"
+  - src: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09772.webp"
+    thumb: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09772-720w.webp"
+    alt: "Man holding a camera gimbal while checking his phone outside the greenhouse"
+    caption: "BTS — gimbal camera ready"
+  - src: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09773.webp"
+    thumb: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09773-720w.webp"
+    alt: "Man holding a camera gimbal, looking away thoughtfully outdoors"
+    caption: "BTS — lining up coverage"
+  - src: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09774.webp"
+    thumb: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09774-720w.webp"
+    alt: "Side view of a man looking at his phone near the glass greenhouse wall"
+    caption: "BTS — quick check between takes"
+  - src: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09775.webp"
+    thumb: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09775-720w.webp"
+    alt: "Side view of a man adjusting the camera on a tripod outdoors"
+    caption: "BTS — framing the event"
+  - src: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09793.webp"
+    thumb: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09793-720w.webp"
+    alt: "Three guests standing indoors near a glass door looking out onto the trees"
+    caption: "Guests arriving"
+  - src: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09810.webp"
+    thumb: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09810-720w.webp"
+    alt: "Older man with grey hair in a black floral shirt chatting with guests"
+    caption: "Catching up with neighbours"
+  - src: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09821.webp"
+    thumb: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09821-720w.webp"
+    alt: "Two senior women sharing a laugh, one holding a glass of red wine, the other in a yellow jacket"
+    caption: "Good company and good wine"
+  - src: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09825.webp"
+    thumb: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09825-720w.webp"
+    alt: "Two men in conversation, one in a red jersey holding a beer"
+    caption: "Old friends catching up"
+  - src: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09829.webp"
+    thumb: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09829-720w.webp"
+    alt: "Younger woman in an orange hoodie smiling during the event"
+    caption: "A relaxed evening"
+  - src: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09834.webp"
+    thumb: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09834-720w.webp"
+    alt: "Two older men talking indoors, one wearing a white cowboy hat and plaid shirt"
+    caption: "Trading stories"
+  - src: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09837.webp"
+    thumb: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09837-720w.webp"
+    alt: "A man and woman talking outdoors among the trees at the event"
+    caption: "Conversation on the grounds"
+  - src: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09838.webp"
+    thumb: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09838-720w.webp"
+    alt: "Group of men socializing outdoors around a high-top table on the grounds"
+    caption: "An evening gathering"
+  - src: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09839.webp"
+    thumb: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09839-720w.webp"
+    alt: "Group of men in conversation outdoors with a fire pit glowing in the background"
+    caption: "Warmth as the evening went on"
+  - src: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09868.webp"
+    thumb: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09868-720w.webp"
+    alt: "Guests socializing, a woman in a pink top talking with friends and a man in a beige cowboy hat"
+    caption: "The crowd settling in"
+  - src: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09876.webp"
+    thumb: "https://assets.coalbanks.com/kasko-cattle/aug-13-open-house/DSC09876-720w.webp"
+    alt: "Woman with glasses in a pink patterned top holding a glass of red wine mid-conversation"
+    caption: "Toasts all around"
+---
+
+## Open House & Community Garden Event
+
+On **Thursday, August 13** we covered the Kasko HQ open house and community garden event in Coaldale — a celebration of the new office with catering, great company, and live music from the **John Wort Hannam Trio**.
+
+We filmed event b-roll for the film and captured photos of the evening as a bonus for the family. The gallery above shows the early-evening atmosphere: setup in the greenhouse, guests arriving, and conversation carrying into the evening.
+
+This is the first selection of photos from the event — more, including the live performance and the office interior, are being added as they're prepared. The full-resolution set is available on Google Drive (link above).
+
+Questions? Reach out to **michael@coalbanks.com**.
