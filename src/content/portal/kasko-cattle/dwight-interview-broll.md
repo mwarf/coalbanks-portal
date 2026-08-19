@@ -23,7 +23,7 @@ A few raw samples from the day are below. These are unedited captures for a firs
 
 ## What's Next
 
-**Nate Hubbard** (Farm Manager, crops) is scheduled for his on-camera interview on **Wednesday, August 12**. We're continuing to schedule the remaining Round 2 voices and working toward the **August 13** community garden event and HQ open house.
+**Nate Hubbard** (Farm Manager, crops) is up next for his on-camera interview — field b-roll was captured with his crew on August 18, with the formal interview to follow. We're continuing to schedule the remaining Round 2 voices.
 
 ## Next Step for You
 
