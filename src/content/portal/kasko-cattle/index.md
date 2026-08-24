@@ -3,7 +3,7 @@ title: "Brand Film — Project Overview & Brief"
 client: kasko-cattle
 publish: true
 status: approved
-date: 2026-08-19
+date: 2026-08-24
 type: brief
 ---
 
@@ -40,8 +40,9 @@ The story arc spans three generations — Les & Betty's generation, Ryan & his s
 | **Jul 27**   | Drone footage — community garden + kitchen build progress | New HQ            | ✅ Complete                |
 | **Aug 10**  | Dwight Morhart interview + b-roll                         | Highway 52 Feeders | ✅ Complete                |
 | **Aug 18**  | Nate Hubbard — field chopping b-roll with crew            | Crops / farm       | ✅ Complete                |
-| **TBD**     | Nate Hubbard formal on-camera interview                   | Crops / farm       | 📅 Scheduling next week    |
-| **TBD**     | Round 2 field sessions — Todd, Greg, Bailey, Shannon     | Various lots + farm | ⏳ Awaiting scheduling     |
+| **Aug 25**  | Feedlot Challenge coverage — annual competition (5-6 teams) | Sandy Hill        | 📅 Scheduled               |
+| **TBD**     | Nate Hubbard formal on-camera interview                   | Crops / farm       | 📅 Booking request sent    |
+| **TBD**     | Round 2 field sessions — Todd, Greg, Bailey, Shannon     | Various lots + farm | ⏳ Booking requests sent Aug 23 |
 | **Sep TBD**   | Ryan + Les Truck Day (harvest/fall run)                  | Various            | 🔲 Timing flexible |
 
 ## Current Status
@@ -61,9 +62,10 @@ The story arc spans three generations — Les & Betty's generation, Ryan & his s
 - ✅ **Dwight Morhart interview (August 10)** — on-camera interview + b-roll captured at Highway 52 Feeders. A 29-year perspective, including the BSE-era risk story. [Raw look →](/kasko-cattle/dwight-interview-broll/)
 - ✅ **HQ Open House & Community Garden event (August 13)** — covered the office grand opening with catering and live music from the **John Wort Hannam Trio**. Event b-roll filmed and a full photo gallery captured. [See the gallery →](/kasko-cattle/aug-13-open-house/)
 - ✅ **Nate Hubbard field b-roll (August 18)** — Farm Manager, crops. Captured chopping in the field with his crew, gathering b-roll for Nate's interview segment. [Raw look →](/kasko-cattle/nate-chopping-broll/)
-- 📅 **Nate Hubbard interview** — Farm Manager, crops. Formal on-camera interview scheduling next week to fit his calendar
+- 📅 **Feedlot Challenge (August 25)** — covering the annual competition at Sandy Hill, including the drone pass for the pen work
+- 📅 **Nate Hubbard interview** — Farm Manager, crops. Booking request sent, formal on-camera interview date to confirm
 - ⏳ **Community kitchen anchor frames** — first drone pass captured July 27. Repeatable series continues through October
-- ⏳ **Round 2 interviews** — Dwight captured (Aug 10); Nate field b-roll captured (Aug 18), interview scheduling next week; remaining voices (Todd, Greg, Bailey, Shannon) still to schedule
+- ⏳ **Round 2 interviews** — Dwight captured (Aug 10); Nate field b-roll captured (Aug 18); booking requests sent Aug 23 to Todd, Greg, Bailey, Shannon, and Nate, awaiting confirmation dates
 - 🔲 **Ryan + Les truck day** — early/late September, harvest season + fall cattle run
 
 ## Next Step for You
@@ -72,14 +74,17 @@ The heart of the film is in the can — June 29 captured three generations on ca
 
 **Immediate priorities:**
 - Community kitchen anchor frames need to happen — basement construction is underway
-- Nate's formal on-camera interview — scheduling next week (field b-roll already captured)
-- Round 2 interview scheduling with Todd, Greg, Bailey, and Shannon (Dwight captured)
+- Nate's formal on-camera interview — booking request sent, confirming date (field b-roll already captured)
+- Round 2 interview scheduling — booking requests sent Aug 23; confirming dates with Todd, Greg, Bailey, Shannon, and Nate
 
 **Upcoming:**
+- Feedlot Challenge coverage — Tuesday Aug 25 at Sandy Hill (setup before the 2:00 PM start)
 - Round 2 field sessions — the remaining voices across multiple visits
 - Truck day with Ryan and Les — September, harvest season
 
 ### Recent Updates
+
+➡️ [Upcoming: Feedlot Challenge Coverage + Round 2 Scheduling](/kasko-cattle/feedlot-challenge-coverage/) — Covering the Aug 25 Feedlot Challenge at Sandy Hill, plus Round 2 booking requests sent (Aug 24)
 
 ➡️ [Round 2 — Nate Hubbard Field B-Roll](/kasko-cattle/nate-chopping-broll/) — Field chopping captured with Nate and his crew, gathering b-roll for his interview segment (Aug 18)
 
