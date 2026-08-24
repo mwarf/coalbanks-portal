@@ -3,7 +3,7 @@ title: "Better Everywhere — Project Overview"
 client: stranville-living
 publish: true
 status: in-review
-date: 2026-08-07
+date: 2026-08-24
 type: brief
 ---
 
@@ -44,7 +44,7 @@ type: brief
 ### Documentary Profiles
 
 - **Profile 1 — The Family (Kim & Trevor)** — **Complete, July 28.** Interview, candid b-roll at their Copperwood home, and drone footage of the house and neighbourhood.
-- **Profile 2 — The Team** — **All three voices complete:** Jenna Schmidt (design), Corissa Mildenberger (sales), and Brent Hardy (construction, filmed Aug 7).
+- **Profile 2 — The Team** — **All three voices complete:** Jenna Schmidt (design), Corissa Price (sales), and Brent Hardy (construction, filmed Aug 7).
 
 ## Pre-Production Milestones
 
@@ -54,7 +54,7 @@ type: brief
 | **Jul 6** | Family selection, pre-interview scheduling, scouting, lifestyle talent booking | ✅ Complete |
 | **Jul 13** | Final prep — shot lists locked, team briefed, PPE coordination | ✅ Complete |
 | **Jul 14** | Production logistics confirmed — family, site contacts, framing location | ✅ Complete |
-| **Jul 16** | Team voices confirmed — Brent Hardy, Jenna Schmidt, Corissa Mildenberger | ✅ Complete |
+| **Jul 16** | Team voices confirmed — Brent Hardy, Jenna Schmidt, Corissa Price | ✅ Complete |
 | **Jul 17** | Lifestyle shoot — Matt & Steph White + kids at BlackWolf Hemsdale + Legacy Park | ✅ Complete |
 | **Jul 20–25** | Production week — Phase 1 (Lethbridge/Coaldale/mountain) | ✅ Complete |
 | **Aug 7** | Final shoot — Brent Hardy construction interview | ✅ Complete |
@@ -63,8 +63,9 @@ type: brief
 
 | Deliverable | Target |
 |------------|--------|
-| First social reels batch | ~Aug 20 |
-| Brand anthem first cut | ~Aug 24 |
+| Edit plan review | ✅ Approved Aug 21 |
+| First social reels batch | Late Aug (in progress) |
+| Brand anthem first cut | Late Aug (in progress) |
 | Documentary first cuts | ~Aug 31 |
 | Final anthem approved | Mid-September |
 | Full package delivery | Late September |
@@ -104,13 +105,17 @@ type: brief
 
 **We're now in post-production, starting rough assembly for the edit.** The brand anthem (Hemsdale match-cut centrepiece), the two documentary profiles, and the social reels are all being cut from the production footage.
 
+**Edit plan approved (Aug 21).** The edit plan went to you and Dell on Aug 20 and came back with a green light the next day. One shift locked in from the interviews: the campaign leads with "the standard travels and the design answers to the place." First social reels and the brand anthem first cut are being cut now.
+
 Key crew and coverage:
-- **Team voices:** Jenna Schmidt (design) ✅, Corissa Mildenberger (sales) ✅, Brent Hardy (construction) ✅
+- **Team voices:** Jenna Schmidt (design) ✅, Corissa Price (sales) ✅, Brent Hardy (construction) ✅
 - **Malloy Landing showhome lifestyle shoot (Cara Charles)** — captured Aug 1 ✅
 - **Mountain lifestyle b-roll** — Mike Miechkota (fly fishing + mountain biking) captured Jul 22–23 ✅
 - **Community event + framing skeleton** — captured Jul 25 ✅
 
 ### Recent Updates
+
+➡️ [Edit Plan Approved & What's Next](/stranville-living/edit-plan-approved-aug21/) — Edit plan approved Aug 21; first reels and anthem first cut in progress. Showhome stills confirmed, quote to follow once scope is set (Aug 24)
 
 ➡️ [Principal Photography Complete — Moving to Edit](/stranville-living/principal-photography-complete-aug7/) — Final shoot (Brent's construction interview) wrapped Aug 7. All shooting done, now into post-production.
 
@@ -138,6 +143,6 @@ Key crew and coverage:
 
 ## Next Up
 
-We're beginning the **rough assembly** of the edit now. As rough cuts and social reels come together, we'll share them here for your review. First reels target around mid-to-late August.
+The **edit plan is approved** and we're cutting now. First social reels and the brand anthem first cut are in progress, and we'll share looks here as they come together. Full package delivery remains on track for late September.
 
 Questions? Reach out to **michael@coalbanks.com**.
