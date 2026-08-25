@@ -42,9 +42,10 @@ The story arc spans three generations — Les & Betty's generation, Ryan & his s
 | **Aug 18**  | Nate Hubbard — field chopping b-roll with crew            | Crops / farm       | ✅ Complete                |
 | **Aug 25**  | Feedlot Challenge coverage — annual competition (5-6 teams) | Sandy Hill        | 📅 Scheduled               |
 | **TBD**     | Nate Hubbard formal on-camera interview                   | Crops / farm       | 📅 Booking request sent    |
-| **Sep 2 or 3** | Shannon interview — headquarters, awaiting her pick     | New HQ             | 📅 Offered Aug 24          |
+| **Aug 31**  | Todd Lang filming — ride-along + interview                | Home lot + HWY52   | ✅ Confirmed Aug 25        |
+| **Sep 3**     | Shannon interview — headquarters (1:00 PM)               | New HQ             | ✅ Confirmed Aug 25        |
 | **Sep 4**     | Bailey interview — pen checks + animal health            | Home lot           | ✅ Confirmed Aug 24        |
-| **TBD**     | Round 2 field sessions — Todd, Greg, Nate                 | Various lots + farm | ⏳ Awaiting dates         |
+| **TBD**     | Round 2 field sessions — Greg, Nate                       | Various lots + farm | ⏳ Awaiting dates         |
 | **Sep TBD**   | Ryan + Les Truck Day (harvest/fall run)                  | Various            | 🔲 Timing flexible |
 
 ## Current Status
@@ -67,7 +68,7 @@ The story arc spans three generations — Les & Betty's generation, Ryan & his s
 - 📅 **Feedlot Challenge (August 25)** — covering the annual competition at Sandy Hill, including the drone pass for the pen work
 - 📅 **Nate Hubbard interview** — Farm Manager, crops. Booking request sent, formal on-camera interview date to confirm
 - ⏳ **Community kitchen anchor frames** — first drone pass captured July 27. Repeatable series continues through October
-- ⏳ **Round 2 interviews** — Dwight captured (Aug 10); Nate field b-roll captured (Aug 18); **Bailey confirmed for Friday, September 4** (home lot morning); **Shannon offered Wednesday Sep 2 or Thursday Sep 3** (headquarters); Todd, Greg, and Nate dates still confirming
+- ⏳ **Round 2 interviews** — Dwight captured (Aug 10); Nate field b-roll captured (Aug 18); **Todd confirmed for Monday, August 31** (ride-along + interview, HWY52 mill backdrop); **Shannon confirmed for Thursday, September 3** (headquarters, 1:00 PM); **Bailey confirmed for Friday, September 4** (home lot morning); Greg and Nate dates still confirming
 - 🔲 **Ryan + Les truck day** — early/late September, harvest season + fall cattle run
 
 ## Next Step for You
@@ -77,7 +78,7 @@ The heart of the film is in the can — June 29 captured three generations on ca
 **Immediate priorities:**
 - Community kitchen anchor frames need to happen — basement construction is underway
 - Nate's formal on-camera interview — booking request sent, confirming date (field b-roll already captured)
-- Round 2 interview scheduling — Bailey locked for Friday Sep 4; Shannon offered Sep 2/3; confirming Todd, Greg, and Nate
+- Round 2 interview scheduling — Todd locked for Monday Aug 31; Shannon locked for Thursday Sep 3; Bailey locked for Friday Sep 4; confirming Greg and Nate
 
 **Upcoming:**
 - Feedlot Challenge coverage — Tuesday Aug 25 at Sandy Hill (setup before the 2:00 PM start)
