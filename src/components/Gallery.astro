@@ -61,7 +61,7 @@ const totalCount = images.length;
               class="gallery__tile-img"
             />
             <div class="gallery__tile-overlay">
-              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="m21 15-5-5L5 21"/></svg>
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="m21 15-5-5L5 21"/></svg>
             </div>
           </button>
         </figure>
@@ -84,7 +84,7 @@ const totalCount = images.length;
   <div class="lightbox__stage">
     <img class="lightbox__img" src="" alt="" />
   </div>
-  <div class="lightbox__footer">
+  <div class="lightbox__footer" aria-live="polite">
     <p class="lightbox__caption"></p>
     <span class="lightbox__counter"></span>
   </div>
@@ -100,15 +100,20 @@ const totalCount = images.length;
 <script>
   // Reveal animation
   const reveals = document.querySelectorAll('.gallery__reveal');
-  const observer = new IntersectionObserver((entries) => {
-    entries.forEach((e) => {
-      if (e.isIntersecting) {
-        e.target.classList.add('gallery__visible');
-        observer.unobserve(e.target);
-      }
-    });
-  }, { threshold: 0.1, rootMargin: '0px 0px 60px 0px' });
-  reveals.forEach((el) => observer.observe(el));
+  if ('IntersectionObserver' in window) {
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach((e) => {
+        if (e.isIntersecting) {
+          e.target.classList.add('gallery__visible');
+          observer.unobserve(e.target);
+        }
+      });
+    }, { threshold: 0.1, rootMargin: '0px 0px 60px 0px' });
+    reveals.forEach((el) => observer.observe(el));
+  } else {
+    // No IntersectionObserver — reveal immediately rather than risk a blank gallery.
+    reveals.forEach((el) => el.classList.add('gallery__visible'));
+  }
 
   // Lightbox — native <dialog>: showModal() traps focus, Esc closes, and the
   // browser restores focus to the tile that opened it.

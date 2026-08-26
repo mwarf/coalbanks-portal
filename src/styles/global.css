@@ -6,7 +6,7 @@
 :root {
   --color-bg:        #F9F8F5;
   --color-text:      #1A1A1A;
-  --color-mid:       #6B6B6B;
+  --color-mid:       #5E5E5E;
   --color-accent:    #2D2D2D;
   --color-rule:      #D4C9B0;
   --color-surface:   #F5F4F0;
@@ -52,7 +52,9 @@ body {
   color: var(--color-text);
   background-color: var(--color-bg);
   /* Full-bleed gallery uses 50vw margins; vw ignores the scrollbar, so clip
-     the sliver of horizontal overflow that can create on scrollbar'd systems. */
+     the sliver of horizontal overflow that can create on scrollbar'd systems.
+     `hidden` is the Safari <16 fallback; `clip` prevents scroll-trap where supported. */
+  overflow-x: hidden;
   overflow-x: clip;
 }
 
@@ -165,6 +167,28 @@ img {
 
 .skip-link:focus {
   top: 1rem;
+}
+
+/* Visible focus for keyboard users. Safari suppresses the default ring on
+   buttons, so draw our own. Accent outline on light surfaces, white on the
+   dark lightbox scrim. */
+a:focus-visible,
+button:focus-visible,
+summary:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+.gallery__hero-link:focus-visible,
+.gallery__tile-link:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+.lightbox__close:focus-visible,
+.lightbox__nav:focus-visible {
+  outline: 2px solid #FFFFFF;
+  outline-offset: 2px;
 }
 
 .sr-only {
@@ -349,7 +373,7 @@ img {
 .project-summary__label,
 .project-summary__stat dt {
   font-family: var(--font-heading);
-  font-size: 0.65rem;
+  font-size: 0.7rem;
   font-weight: 600;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -394,8 +418,8 @@ img {
 }
 
 .badge--draft {
-  background-color: #F5F4F0;
-  color: #6B6B6B;
+  background-color: var(--color-surface);
+  color: var(--color-mid);
 }
 
 .badge--in-review {
@@ -756,7 +780,7 @@ a.deliverable-card__title:hover {
   max-width: 100vw;
 }
 
-@media (max-width: 960px) {
+@media (max-width: 768px) {
   .gallery {
     margin-left: -1rem;
     margin-right: -1rem;
@@ -1066,7 +1090,7 @@ a.deliverable-card__title:hover {
 .lightbox__counter {
   font-family: var(--font-mono);
   font-size: 0.75rem;
-  color: rgba(255, 255, 255, 0.45);
+  color: rgba(255, 255, 255, 0.62);
   flex-shrink: 0;
   margin-left: 1rem;
 }
@@ -1087,6 +1111,79 @@ a.deliverable-card__title:hover {
   .lightbox__footer {
     padding: 0.5rem 1rem 1rem;
   }
+}
+
+/* --- Landing / 404 --- */
+/* Shared by the public landing page and the branded 404 — both use the same
+   "landing card" style, kept in one place so the pair can't drift apart. */
+.landing {
+  min-height: 100vh;
+  min-height: 100dvh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.landing__card {
+  max-width: 480px;
+  width: 100%;
+  text-align: center;
+}
+
+.landing__logo {
+  width: 200px;
+  height: auto;
+  margin-bottom: 2rem;
+}
+
+.landing__rule {
+  width: 48px;
+  height: 1px;
+  background: var(--color-rule);
+  margin: 1.75rem auto;
+}
+
+.landing__title {
+  font-family: var(--font-heading);
+  font-size: var(--size-xl);
+  font-weight: 500;
+  color: var(--color-accent);
+  margin: 0 0 1.25rem;
+  letter-spacing: -0.01em;
+}
+
+.landing__body {
+  font-family: var(--font-body);
+  font-size: var(--size-sm);
+  color: var(--color-mid);
+  line-height: 1.7;
+  margin: 0 0 0.75rem;
+}
+
+.landing__contact {
+  font-family: var(--font-body);
+  font-size: var(--size-sm);
+  color: var(--color-text);
+  margin: 0 0 1.5rem;
+}
+
+.landing__contact a {
+  color: var(--color-accent);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.landing__contact a:hover {
+  color: var(--color-text);
+}
+
+.landing__footer {
+  font-family: var(--font-body);
+  font-size: 0.75rem;
+  color: var(--color-mid);
+  margin: 0;
+  letter-spacing: 0.02em;
 }
 
 /* --- Animations --- */

@@ -18,4 +18,6 @@ export const typeLabelPlural: Record<ProjectType, string> = {
 };
 
 // Order used when grouping / listing types in summaries.
-export const typeOrder: ProjectType[] = ['deliverable', 'update', 'feedback', 'brief'];
+// Mirrors the documented content-type order in PORTAL-CONTENT-SPEC.md
+// (brief → update → deliverable → feedback), so the project overview leads.
+export const typeOrder: ProjectType[] = ['brief', 'update', 'deliverable', 'feedback'];
