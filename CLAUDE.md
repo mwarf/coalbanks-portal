@@ -148,6 +148,11 @@ Conventions that must survive edits:
   scoped under `.js` so blocked/failed scripts never blank out content.
 - **Reduced motion:** the `@media (prefers-reduced-motion: reduce)` block at the end of
   `global.css` zeroes animations/transitions. New animations must respect it.
+- **Gallery hero title is intentional.** `Gallery` renders its `title` prop as the `<h2>`
+  overlaid on the hero image, and both page templates pass the page title to it. This is
+  deliberate layering (title on the photo), NOT a duplication bug — do not remove the
+  `title` prop to "fix" it. Removing it leaves the hero with no text because most galleries
+  have no per-image caption to fall back to.
 - Client-side JS is limited to the gallery lightbox/reveal — keep it that way unless
   strictly necessary. The only other exception is Mermaid Gantt charts (see below).
 
