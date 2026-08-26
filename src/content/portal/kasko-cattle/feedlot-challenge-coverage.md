@@ -3,18 +3,20 @@ title: "Feedlot Challenge Coverage — Video + Round 2 Scheduling"
 client: kasko-cattle
 publish: true
 status: delivered
-date: 2026-08-25
+date: 2026-08-26
 type: update
 videos:
   - id: "a2bd9653c28a30b5a181fd2c25b0fb4d"
     title: "Feedlot Challenge — Sandy Hill (Aug 25)"
+  - id: "42f1a7b450c7d94f58ec9189f371ddad"
+    title: "Feedlot Challenge — Drone Footage (Aug 25)"
 ---
 
 ## What's New
 
 **Feedlot Challenge — covered Tuesday, August 25** ✅
 
-We were on site at Sandy Hill for the annual Feedlot Challenge. Teams competed in the low stress animal handling practice, processing demonstrations in the barns, feed truck loading and driving, and the team quiz, with vets and nutritionists on hand to judge. The coverage above includes the drone pass over the pen work; additional drone footage from the day will be added shortly.
+We were on site at Sandy Hill for the annual Feedlot Challenge. Teams competed in the low stress animal handling practice, processing demonstrations in the barns, feed truck loading and driving, and the team quiz, with vets and nutritionists on hand to judge. The coverage above includes the ground footage from the day, with the drone pass over the pen work now added as well.
 
 **Round 2 interviews — dates locked in**
 

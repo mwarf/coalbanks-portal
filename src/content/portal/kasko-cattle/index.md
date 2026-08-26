@@ -3,7 +3,7 @@ title: "Brand Film — Project Overview & Brief"
 client: kasko-cattle
 publish: true
 status: approved
-date: 2026-08-25
+date: 2026-08-26
 type: brief
 ---
 
@@ -86,7 +86,7 @@ The heart of the film is in the can — June 29 captured three generations on ca
 
 ### Recent Updates
 
-➡️ [Feedlot Challenge Coverage — Video + Round 2 Scheduling](/kasko-cattle/feedlot-challenge-coverage/) — Coverage video from the Aug 25 Feedlot Challenge at Sandy Hill, plus Round 2 interview dates locked in (Aug 25)
+➡️ [Feedlot Challenge Coverage — Video + Round 2 Scheduling](/kasko-cattle/feedlot-challenge-coverage/) — Ground and drone coverage from the Aug 25 Feedlot Challenge at Sandy Hill, plus Round 2 interview dates locked in (Aug 26)
 
 ➡️ [Round 2 — Nate Hubbard Field B-Roll](/kasko-cattle/nate-chopping-broll/) — Field chopping captured with Nate and his crew, gathering b-roll for his interview segment (Aug 18)
 
