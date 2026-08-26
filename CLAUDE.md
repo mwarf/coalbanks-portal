@@ -78,7 +78,7 @@ coalbanks-portal/
 
 Three layers keep unpublished or misfiled content off the internet:
 
-1. **Glob pattern** in `src/content.config.ts` is `['**/*.md', '!**/_*']` — underscore-prefixed
+1. **Glob pattern** in `src/content.config.ts` is `['**/*.md', '**/*.mdx', '!**/_*']` — underscore-prefixed
    Obsidian drafts are excluded at build time (the legacy content API did this automatically;
    the glob loader does NOT — the exclusion must stay in the pattern). `.gitignore` also
    blocks `src/content/portal/**/_*` as a second layer.
@@ -128,13 +128,13 @@ Do not invent a new design language. All tokens and component styles live in
 `src/styles/global.css`. Key tokens:
 
 ```css
---color-bg: #F9F8F5;  --color-text: #1A1A1A;  --color-mid: #6B6B6B;
+--color-bg: #F9F8F5;  --color-text: #1A1A1A;  --color-mid: #5E5E5E;
 --color-accent: #2D2D2D;  --color-rule: #D4C9B0;  --color-surface: #F5F4F0;
 --font-heading: 'Space Grotesk', …;  --font-body: 'Inter', …;  --font-mono: ui-monospace, …;
 --radius: 4px;  --max-width: 720px;  --spacing-section: 3rem;
 ```
 
-Status badge colours — draft `#F5F4F0`/`#6B6B6B`, in-review `#FFF7E6`/`#8B5E00`,
+Status badge colours — draft `var(--color-surface)`/`var(--color-mid)`, in-review `#FFF7E6`/`#8B5E00`,
 delivered `#E8F4E8`/`#2D6A2D`, approved `#E8F0FF`/`#1A3A8B`.
 
 Layout rules: 720px centred content column; header = wordmark left, mailto right;
