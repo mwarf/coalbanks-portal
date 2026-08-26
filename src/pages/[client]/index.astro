@@ -61,7 +61,7 @@ const videos = overviewEntry?.data.videos ?? [];
   )}
 
   {gallery.length > 0 && (
-    <Gallery images={gallery} />
+    <Gallery images={gallery} title={pageTitle} />
   )}
 
   {otherEntries.length > 0 && (
