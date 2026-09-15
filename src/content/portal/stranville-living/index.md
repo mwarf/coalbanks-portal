@@ -3,7 +3,7 @@ title: "Better Everywhere — Project Overview"
 client: stranville-living
 publish: true
 status: in-review
-date: 2026-08-24
+date: 2026-09-15
 type: brief
 ---
 
@@ -64,9 +64,9 @@ type: brief
 | Deliverable | Target |
 |------------|--------|
 | Edit plan review | ✅ Approved Aug 21 |
-| First social reels batch | Late Aug (in progress) |
-| Brand anthem first cut | Late Aug (in progress) |
-| Documentary first cuts | ~Aug 31 |
+| Brand anthem first cut | ✅ Ready for review Sept 15 |
+| First social reels batch | ⏳ In progress |
+| Documentary first cuts | ⏳ In progress |
 | Final anthem approved | Mid-September |
 | Full package delivery | Late September |
 
@@ -105,7 +105,7 @@ type: brief
 
 **We're now in post-production, starting rough assembly for the edit.** The brand anthem (Hemsdale match-cut centrepiece), the two documentary profiles, and the social reels are all being cut from the production footage.
 
-**Edit plan approved (Aug 21).** The edit plan went to you and Dell on Aug 20 and came back with a green light the next day. One shift locked in from the interviews: the campaign leads with "the standard travels and the design answers to the place." First social reels and the brand anthem first cut are being cut now.
+**Brand anthem first cut is ready for your review (Sept 15).** The 90 second anthem is cut and posted, built on the edit plan you approved. Music and sound design are still being refined, and the on-screen graphics are placeholder until we have your logo files, brand typeface, and colour values. Notes back by **Friday, September 18** keep us on track for final approval this month.
 
 Key crew and coverage:
 - **Team voices:** Jenna Schmidt (design) ✅, Corissa Price (sales) ✅, Brent Hardy (construction) ✅
@@ -114,6 +114,8 @@ Key crew and coverage:
 - **Community event + framing skeleton** — captured Jul 25 ✅
 
 ### Recent Updates
+
+➡️ [Brand Anthem — First Cut for Review](/stranville-living/brand-anthem-first-cut/) — The 90 second anthem, first cut. Notes requested by Friday, September 18 (Sept 15)
 
 ➡️ [Edit Plan Approved & What's Next](/stranville-living/edit-plan-approved-aug21/) — Edit plan approved Aug 21; first reels and anthem first cut in progress. Showhome stills confirmed, quote to follow once scope is set (Aug 24)
 
@@ -143,6 +145,6 @@ Key crew and coverage:
 
 ## Next Up
 
-The **edit plan is approved** and we're cutting now. First social reels and the brand anthem first cut are in progress, and we'll share looks here as they come together. Full package delivery remains on track for late September.
+The **brand anthem first cut is up for your review** and we're still cutting the social reels and both documentary profiles. We'll post those here as they come together. Full package delivery remains on track for late September.
 
 Questions? Reach out to **michael@coalbanks.com**.
