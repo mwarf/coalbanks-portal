@@ -3,7 +3,7 @@ title: "40th Anniversary — Project Overview"
 client: essex-lease
 publish: true
 status: approved
-date: 2026-07-29
+date: 2026-09-16
 type: brief
 ---
 
@@ -48,7 +48,7 @@ Client interviews that demonstrate Essex's flexibility compared to traditional b
 | **Jun 23** | Essex HQ — Headshots (AM) + B-roll (PM) | Calgary | ✅ Locked |
 | **Jun 24** | Ross Sten interview + customer story | Calgary | ✅ Complete |
 | **Jun 25** | Buffer day | Calgary | 🟡 Held |
-| **Sep 9** | Essex Charity Golf Classic | Heritage Pointe | 📅 Confirmed |
+| **Sep 9** | Essex Charity Golf Classic | Heritage Pointe | ✅ Complete |
 | **Dec 1** | Final delivery — all assets | — | ⏳ Planned |
 
 ## Current Status
@@ -56,15 +56,19 @@ Client interviews that demonstrate Essex's flexibility compared to traditional b
 - ✅ SOW signed and deposit received (50% — $14,925)
 - ✅ All principal interviews complete — 5 sessions, all transcribed
 - ✅ Story structure locked — 5-act hero film paper edit v1 assembled
-- ✅ 30-second and 2-minute social cuts scripted and buildable
+- ✅ Three social cuts scripted and buildable (sales, recruitment, community)
 - ✅ Camp Kindle event coverage complete (May 29)
 - ✅ Pitbull Energy interview complete (Jun 15)
 - ✅ Staff headshots complete (Jun 23) — **36 edited portraits delivered, revised set delivered Jul 29** (looser crop, lighter backdrop)
 - ✅ Brand photography complete — **133 edited images delivered** (abstract/equipment, building, lifestyle, aerials)
-- ⏳ September Golf Classic shoot — final capture day September 9
-- ⏳ Hero film assembly — post-September
+- ✅ September Golf Classic captured (Sep 9) — employee interviews, founder interview, evening program, full tournament coverage
+- ✅ All September material ingested, organized and transcribed
+- ✅ Delivery timeline confirmed — hero film first cut Oct 15, social cuts Oct 22
+- ⏳ Hero film assembly — underway for the Oct 15 first cut
 
 ### Recent Updates
+
+➡️ [September Golf Classic: Capture Complete](/essex-lease/golf-classic-capture-complete/) — Sep 16
 
 ➡️ [Staff Headshots — Revised Set Delivered](/essex-lease/headshots-revised-jul29/) — Jul 29
 
@@ -72,14 +76,18 @@ Client interviews that demonstrate Essex's flexibility compared to traditional b
 
 ## Next Step for You
 
-Photography is delivered and ready for review. The hero film story structure is locked — see the post-production update for the full breakdown and a few items we need from you for the September shoot.
+Capture is complete and the edit is underway. The latest update covers what came home from the Golf Classic, the confirmed delivery timeline, and the short list of items we need from you before the hero film's first cut on **October 15**.
 
 ### Photography Galleries
 
 ➡️ [Staff Headshots](/essex-lease/headshots-jun23-gallery/) — 36 edited portraits
+
 ➡️ [Abstract Backgrounds & Equipment](/essex-lease/abstract-backgrounds-gallery/) — 67 detail and industrial shots
+
 ➡️ [Building & Headquarters](/essex-lease/building-gallery/) — 4 architectural interiors
+
 ➡️ [Lifestyle & Team](/essex-lease/lifestyle-gallery/) — 25 team and candid moments
+
 ➡️ [Aerials — Drone](/essex-lease/aerials-gallery/) — 37 aerial drone shots
 
 Questions? Reach out to **michael@coalbanks.com**.
