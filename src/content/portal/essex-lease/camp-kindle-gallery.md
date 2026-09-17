@@ -46,6 +46,6 @@ gallery:
 
 ## Camp Kindle — Excavator Treehouse Village
 
-Essex Lease sponsored the construction of this excavator-themed treehouse at Camp Kindle's Shane Homes Treehouse Village. The play structure is designed to look like a full-size excavator — complete with tank tracks, a operator's cab, and a corrugated tube slide.
+Essex Lease sponsored the construction of this excavator-themed treehouse at Camp Kindle's Shane Homes Treehouse Village. The play structure is designed to look like a full-size excavator — complete with tank tracks, an operator's cab, and a corrugated tube slide.
 
 These exteriors were captured during the grand opening on May 29, 2026.

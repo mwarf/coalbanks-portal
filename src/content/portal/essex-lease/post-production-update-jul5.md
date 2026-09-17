@@ -23,7 +23,7 @@ The film follows a five-act structure:
 | 4 | **Beyond Business** | Camp Kindle / Kids Cancer Care, the golf tournament, community impact |
 | 5 | **40 Years & The People** | Growth, employee voices, Ross's thank-you, logo close |
 
-Target runtime: **6–8 minutes** (~7:15 in the current assembly before trims).
+Target runtime: **6–10 minutes** (~7:15 in the current assembly before trims).
 
 ### Interviews Complete
 
@@ -35,12 +35,13 @@ All five sessions are shot, transcribed, and logged:
 - ✅ **Ross & KCC program lead** — Camp Kindle treehouse opening
 - ✅ **Dean Duffin** — Camp Kindle
 
-### Shorter Cuts Ready to Build
+### Social Cuts
 
-Two social cuts are scripted and buildable from existing selects — no dependency on the September shoot:
+Three social cuts are in scope, each 45 to 60 seconds:
 
-- **30-second — "A Handshake"** — Single-idea cut for social scroll. Sami's "Ross means a handshake" anchor.
-- **2-minute — "The Old Way"** — Compressed five-act arc for social and website lead. Can ship as an early pre-anniversary release if you'd like.
+- **Sales — "The Partner for Life"** — commercial borrowers and brokers, built around a client testimonial
+- **Recruitment — "Build Your Career Here"** — culture and autonomy, aimed at potential hires
+- **Community — "Community Heart"** — Kids Cancer Care and the golf tournament
 
 ## What's Next: September Golf Classic
 
@@ -69,9 +70,9 @@ These have lead times, so flagging early:
 | Deliverable | Status |
 |-------------|--------|
 | Hero film — paper edit v1 | ✅ Complete, ready for review |
-| 30-second cut — "A Handshake" | ✅ Scripted, buildable now |
-| 2-minute cut — "The Old Way" | ✅ Scripted, buildable now |
-| September Golf Classic shoot | ⏳ Date TBC, field plan ready |
-| Hero film — final assembly | ⏳ After September shoot |
+| Three social cuts — first draft | 🔲 Due October 22 |
+| September Golf Classic shoot | ✅ Shot September 9 |
+| Hero film — first cut | 🔲 Due October 15 |
+| Hero film — final assembly |  In progress |
 
 Questions? Reach out to **michael@coalbanks.com**.

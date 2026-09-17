@@ -45,18 +45,18 @@ Client interviews that demonstrate Essex's flexibility compared to traditional b
 |------|-------|----------|--------|
 | **May 29** | Camp Kindle — Treehouse Village event | Water Valley, AB | ✅ Complete |
 | **Jun 15** | Pitbull Energy Services interview | SATO Training Facility, Millet | ✅ Complete |
-| **Jun 23** | Essex HQ — Headshots (AM) + B-roll (PM) | Calgary | ✅ Locked |
+| **Jun 23** | Essex HQ — Headshots (AM) + B-roll (PM) | Calgary | ✅ Complete |
 | **Jun 24** | Ross Sten interview + customer story | Calgary | ✅ Complete |
 | **Jun 25** | Buffer day | Calgary | 🟡 Held |
 | **Sep 9** | Essex Charity Golf Classic | Heritage Pointe | ✅ Complete |
-| **Dec 1** | Final delivery — all assets | — | ⏳ Planned |
+| **Nov 30** | Final delivery — all assets | — | ⏳ Planned |
 
 ## Current Status
 
-- ✅ SOW signed and deposit received (50% — $14,925)
-- ✅ All principal interviews complete — 5 sessions, all transcribed
+- ✅ Agreement in place and deposit received
+- ✅ All interviews complete and transcribed — spring sessions plus the September Golf Classic
 - ✅ Story structure locked — 5-act hero film paper edit v1 assembled
-- ✅ Three social cuts scripted and buildable (sales, recruitment, community)
+- ✅ Three social cuts planned — sales, recruitment and community
 - ✅ Camp Kindle event coverage complete (May 29)
 - ✅ Pitbull Energy interview complete (Jun 15)
 - ✅ Staff headshots complete (Jun 23) — **36 edited portraits delivered, revised set delivered Jul 29** (looser crop, lighter backdrop)

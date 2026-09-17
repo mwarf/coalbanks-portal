@@ -20,7 +20,7 @@ These should drop cleanly into your site's circular photo frames without clippin
 
 - **Crop** — wider framing, less tight to the face
 - **Backdrop** — lighter off-white tone replacing the grey
-- **Full set** — all 36 portraits re-edited, plus the 6 that were missing from the original delivery (Lexi, Shiraj, Ankur, Edward, Sam, Colton) are included
+- **Full set** — all 36 portraits re-edited, including the 6 that were missing from the original delivery (Lexi, Shiraj, Ankur, Edward, Sam, Colton)
 
 ## Where to Find Them
 
