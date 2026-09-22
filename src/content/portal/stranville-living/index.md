@@ -2,8 +2,8 @@
 title: "Better Everywhere — Project Overview"
 client: stranville-living
 publish: true
-status: in-review
-date: 2026-09-15
+status: draft
+date: 2026-09-22
 type: brief
 ---
 
@@ -64,7 +64,7 @@ type: brief
 | Deliverable | Target |
 |------------|--------|
 | Edit plan review | ✅ Approved Aug 21 |
-| Brand anthem first cut | ✅ Ready for review Sept 15 |
+| Brand anthem first cut | ✅ Reviewed — revisions underway |
 | First social reels batch | ⏳ In progress |
 | Documentary first cuts | ⏳ In progress |
 | Final anthem approved | Mid-September |
@@ -105,7 +105,7 @@ type: brief
 
 **We're now in post-production, starting rough assembly for the edit.** The brand anthem (Hemsdale match-cut centrepiece), the two documentary profiles, and the social reels are all being cut from the production footage.
 
-**Brand anthem first cut is ready for your review (Sept 15).** The 90 second anthem is cut and posted, built on the edit plan you approved. Music and sound design are still being refined, and the on-screen graphics are placeholder until we have your logo files, brand typeface, and colour values. Notes back by **Friday, September 18** keep us on track for final approval this month.
+**Your notes on the brand anthem are in (Sept 19) and revisions are underway.** Thank you for the detailed pass — we're applying all five notes: the dining-room shot, giving the interior shots more room to breathe, tightening the action toward the end, the bookend, and closing on "you deserve better." Your logo files, brand typeface, and colour values arrived too, so the on-screen graphics move off placeholder on the next pass. The revised cut is coming next.
 
 Key crew and coverage:
 - **Team voices:** Jenna Schmidt (design) ✅, Corissa Price (sales) ✅, Brent Hardy (construction) ✅
@@ -115,7 +115,7 @@ Key crew and coverage:
 
 ### Recent Updates
 
-➡️ [Brand Anthem — First Cut for Review](/stranville-living/brand-anthem-first-cut/) — The 90 second anthem, first cut. Notes requested by Friday, September 18 (Sept 15)
+➡️ [Brand Anthem — First Cut for Review](/stranville-living/brand-anthem-first-cut/) — The 90 second anthem, first cut. Notes received Sept 19, revisions underway.
 
 ➡️ [Edit Plan Approved & What's Next](/stranville-living/edit-plan-approved-aug21/) — Edit plan approved Aug 21; first reels and anthem first cut in progress. Showhome stills confirmed, quote to follow once scope is set (Aug 24)
 
@@ -145,6 +145,6 @@ Key crew and coverage:
 
 ## Next Up
 
-The **brand anthem first cut is up for your review** and we're still cutting the social reels and both documentary profiles. We'll post those here as they come together. Full package delivery remains on track for late September.
+Your notes on the anthem are in and the **revised anthem cut is coming next**, while we continue cutting the social reels and both documentary profiles. We'll post those here as they come together.
 
 Questions? Reach out to **michael@coalbanks.com**.

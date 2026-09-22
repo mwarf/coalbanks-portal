@@ -2,8 +2,8 @@
 title: "Better Everywhere — Brand Anthem, First Cut"
 client: stranville-living
 publish: true
-status: in-review
-date: 2026-09-15
+status: draft
+date: 2026-09-22
 type: deliverable
 videos:
   - id: "43ac73d2b10a30e6793f3be40605f0ad"
@@ -23,7 +23,7 @@ The film closes on **"You deserve better. Everywhere."**
 Two things are still in progress, so you can skip past them:
 
 - **Music and sound design** are still rough and will be refined for the next pass.
-- **On-screen graphics** are placeholder type and colour. Once we have your logo files, brand typeface, and colour values, we can lock the graphics to your brand.
+- **On-screen graphics** are placeholder type and colour — your logo files and brand guide are now in hand, so these lock to your brand on the next pass.
 
 ## What to Look For
 
@@ -31,8 +31,8 @@ Two things are still in progress, so you can skip past them:
 - Are these the right interview selections and the right moments from each person?
 - Does the film sit right between home, craftsmanship, and community, or does one of the three need more room?
 
-## How to Send Feedback
+## Notes Received — Thank You
 
-Send your notes to michael@coalbanks.com by **Friday, September 18**. That keeps us on track for final anthem approval this month and full package delivery in late September.
+Your notes came in September 19 and we're applying all five: the dining-room shot at 0:53, giving the interior shots more room to breathe, tightening the action toward the end, bookending with a home or team shot instead of the pizza, and closing on "you deserve better" (dropping "everywhere").
 
-Timestamps are very helpful for video notes (for example, "at 0:47, the cut feels early").
+The revised cut is coming next. We'll post it here as soon as it's through.
