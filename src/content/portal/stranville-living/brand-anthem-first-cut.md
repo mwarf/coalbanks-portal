@@ -35,4 +35,4 @@ Two things are still in progress, so you can skip past them:
 
 Your notes came in September 19 and we're applying all five: the dining-room shot at 0:53, giving the interior shots more room to breathe, tightening the action toward the end, bookending with a home or team shot instead of the pizza, and closing on "you deserve better" (dropping "everywhere").
 
-The revised cut is coming next. We'll post it here as soon as it's through.
+The revised cut is now live: [Brand Anthem — Revision](/stranville-living/brand-anthem-revision/).

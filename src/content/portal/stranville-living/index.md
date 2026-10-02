@@ -3,7 +3,7 @@ title: "Better Everywhere — Project Overview"
 client: stranville-living
 publish: true
 status: draft
-date: 2026-09-22
+date: 2026-10-02
 type: brief
 ---
 
@@ -64,10 +64,10 @@ type: brief
 | Deliverable | Target |
 |------------|--------|
 | Edit plan review | ✅ Approved Aug 21 |
-| Brand anthem first cut | ✅ Reviewed — revisions underway |
+| Brand anthem first cut | ✅ Reviewed — revision delivered Oct 2 |
 | First social reels batch | ⏳ In progress |
 | Documentary first cuts | ⏳ In progress |
-| Final anthem approved | Mid-September |
+| Final anthem approved | Pending your notes |
 | Full package delivery | Late September |
 
 ## Project Timeline So Far
@@ -105,7 +105,7 @@ type: brief
 
 **We're now in post-production, starting rough assembly for the edit.** The brand anthem (Hemsdale match-cut centrepiece), the two documentary profiles, and the social reels are all being cut from the production footage.
 
-**Your notes on the brand anthem are in (Sept 19) and revisions are underway.** Thank you for the detailed pass — we're applying all five notes: the dining-room shot, giving the interior shots more room to breathe, tightening the action toward the end, the bookend, and closing on "you deserve better." Your logo files, brand typeface, and colour values arrived too, so the on-screen graphics move off placeholder on the next pass. The revised cut is coming next.
+**The revised anthem is now up for your review.** Your five notes from September 19 are all applied: the dining-room shot is gone, the interiors have more room to breathe, there are more family moments including the kids on the bed, the later community sequence is tightened, and the film closes on "you deserve better." Your logo files and brand guide are in hand, so the framing and logo treatment are cleaned up too. Head to the revision page to watch. Once your notes are in, we'll lock the final sound design and make any minor edits for delivery.
 
 Key crew and coverage:
 - **Team voices:** Jenna Schmidt (design) ✅, Corissa Price (sales) ✅, Brent Hardy (construction) ✅
@@ -115,7 +115,9 @@ Key crew and coverage:
 
 ### Recent Updates
 
-➡️ [Brand Anthem — First Cut for Review](/stranville-living/brand-anthem-first-cut/) — The 90 second anthem, first cut. Notes received Sept 19, revisions underway.
+➡️ [Brand Anthem — Revision](/stranville-living/brand-anthem-revision/) — The revised 90 second anthem with all five notes applied. Your feedback before final sound design.
+
+➡️ [Brand Anthem — First Cut for Review](/stranville-living/brand-anthem-first-cut/) — The 90 second anthem, first cut. Notes received Sept 19, revised cut now live.
 
 ➡️ [Edit Plan Approved & What's Next](/stranville-living/edit-plan-approved-aug21/) — Edit plan approved Aug 21; first reels and anthem first cut in progress. Showhome stills confirmed, quote to follow once scope is set (Aug 24)
 
@@ -145,6 +147,6 @@ Key crew and coverage:
 
 ## Next Up
 
-Your notes on the anthem are in and the **revised anthem cut is coming next**, while we continue cutting the social reels and both documentary profiles. We'll post those here as they come together.
+The **revised anthem is up for your review**. Once your notes are in, we'll lock the final sound design and wrap the anthem. In the meantime we're cutting the social reels and both documentary profiles, and we'll post those here as they come together.
 
 Questions? Reach out to **michael@coalbanks.com**.
