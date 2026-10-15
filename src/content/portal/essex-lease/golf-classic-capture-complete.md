@@ -3,7 +3,7 @@ title: "September Golf Classic: Capture Complete"
 client: essex-lease
 publish: true
 status: in-review
-date: 2026-09-16
+date: 2026-10-15
 type: update
 ---
 
@@ -33,14 +33,14 @@ Three things improved because of that day. Russ now opens the film rather than b
 |-----------|------|
 | **Hero film, first cut** | **Thursday, October 15, 2026** |
 | **Three social cuts, first draft** | **Thursday, October 22, 2026** |
-| Your consolidated feedback back to us | Friday, November 6, 2026 |
-| Fine cut delivered | Friday, November 13, 2026 |
-| Final revisions | Friday, November 20, 2026 |
-| Final delivery, all assets | Monday, November 30, 2026 |
+| Your consolidated feedback back to us | **Friday, October 30, 2026** |
+| Fine cut delivered | **Friday, November 6, 2026** |
+| Final revisions | **Friday, November 13, 2026** |
+| Final delivery, all assets | **Monday, November 23, 2026** |
 
 We have put the three social cuts a week behind the hero film rather than sending everything on the same day. All four landing together would put the hero film in the same review pass as three other pieces during the week it matters most. Staggering them means each first version gets proper consideration.
 
-This holds the December 1 delivery in our agreement. If your notes come together faster than November 6, we can pull the fine cut in to match.
+This lands everything a full week ahead of the December 1 launch in our agreement, as you asked. The pull-forward rests on one thing: your notes reaching us by **October 30**. If they come together sooner, we can pull the fine cut in to match and bring the whole back end forward with it.
 
 ## What We Need From You
 
