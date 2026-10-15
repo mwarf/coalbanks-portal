@@ -65,9 +65,12 @@ Client interviews that demonstrate Essex's flexibility compared to traditional b
 - ✅ All September material ingested, organized and transcribed
 - ✅ Delivery timeline locked — social cuts Oct 22, feedback round Oct 30, fine cut Nov 6, revisions Nov 13, **final delivery Nov 23**, a full week ahead of your December 1 launch
 - ✅ Delivery pulled a week earlier — final assets now land Nov 23, a full week ahead of your December 1 launch
+- ⏳ Story review — the five-act outline and a graded sample of the opening are with you and Ross (sent Oct 14)
 - ⏳ Hero film — in production, awaiting your notes on the story outline
 
 ### Recent Updates
+
+➡️ [Story Review & First Look](/essex-lease/story-review-and-look-sample/) — Oct 15 — the proposed story in five acts, plus a graded sample of the opening
 
 ➡️ [September Golf Classic: Capture Complete](/essex-lease/golf-classic-capture-complete/) — Sep 16
 

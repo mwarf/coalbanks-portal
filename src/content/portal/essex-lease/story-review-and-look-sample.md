@@ -1,7 +1,7 @@
 ---
 title: "40th Anniversary — Story Review & First Look"
 client: essex-lease
-publish: false
+publish: true
 status: in-review
 date: 2026-10-15
 type: deliverable
