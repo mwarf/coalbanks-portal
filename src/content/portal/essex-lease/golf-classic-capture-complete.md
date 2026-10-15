@@ -31,7 +31,7 @@ Three things improved because of that day. Russ now opens the film rather than b
 
 | Milestone | Date |
 |-----------|------|
-| **Hero film, first cut** | **Thursday, October 15, 2026** |
+| **Hero film, first cut** | In production — awaiting your notes on the story |
 | **Three social cuts, first draft** | **Thursday, October 22, 2026** |
 | Your consolidated feedback back to us | **Friday, October 30, 2026** |
 | Fine cut delivered | **Friday, November 6, 2026** |
@@ -44,13 +44,12 @@ This lands everything a full week ahead of the December 1 launch in our agreemen
 
 ## What We Need From You
 
-These have lead times, so we are flagging them now rather than at the fine cut:
+Most of this list has come through — the names and titles, the SATO number, the fundraising totals and the 40th logo were all confirmed in late September, and the archive photos came in from Russ. Thank you. What is still open:
 
-1. **The million dollar milestone.** Ross says on camera at the tournament that he was hoping to eclipse the million dollar mark this year. Please confirm the final number, whether we can state it on screen, and in what wording.
-2. **The SATO driver number.** Sami says "almost a thousand" drivers trained; public material says 747. We need to know which number you want on screen.
-3. **Names and titles for the lower thirds.** Machine transcription gets names wrong, so we would rather confirm than guess. Please check the spelling of: Shelagh (or Sheila) Benning, Pamela Anderson and her full title, Russ's surname, Caleb Crosby, and Tracy Martin at Kids Cancer Care. We also need a surname for Jeff, the newer hire from the ATB side.
-4. **Spokeskid material and releases.** The update videos from past spokeskids that played at the dinner, and any tournament photos you have on hand. If those exist and we can use them, they strengthen the community piece. Anything with children on screen needs Kids Cancer Care's blessing.
-5. **40th branding.** Is there an approved 40th lockup or tagline? We are building the graphics now and would rather use yours than make one.
+1. **Your go-ahead on the million dollar figure.** Ross speaks on camera about hoping to eclipse the million dollar mark, and we have your totals. What we still need is your confirmation that we can state the cumulative figure on screen, and the wording you would prefer.
+2. **Kids Cancer Care's blessing on the spokeskid videos** — the update videos from past spokeskids that played at the dinner. Anything with children on screen needs their sign-off before it can be used.
+3. **Caleb's surname**, for the title card.
+4. **The gala or anniversary date, and the screen format** — we will back-time the final cut from it.
 
 ## One Question That Could Move the Date
 

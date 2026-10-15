@@ -3,7 +3,7 @@ title: "40th Anniversary — Project Overview"
 client: essex-lease
 publish: true
 status: approved
-date: 2026-09-22
+date: 2026-10-15
 type: brief
 ---
 
@@ -63,9 +63,9 @@ Client interviews that demonstrate Essex's flexibility compared to traditional b
 - ✅ Brand photography complete — **133 edited images delivered** (abstract/equipment, building, lifestyle, aerials)
 - ✅ September Golf Classic captured (Sep 9) — employee interviews, founder interview, evening program, full tournament coverage
 - ✅ All September material ingested, organized and transcribed
-- ✅ Delivery timeline locked — hero film first cut Oct 15, social cuts Oct 22, feedback round Oct 30, fine cut Nov 6, revisions Nov 13, final delivery Nov 23
+- ✅ Delivery timeline locked — social cuts Oct 22, feedback round Oct 30, fine cut Nov 6, revisions Nov 13, **final delivery Nov 23**, a full week ahead of your December 1 launch
 - ✅ Delivery pulled a week earlier — final assets now land Nov 23, a full week ahead of your December 1 launch
-- ⏳ Hero film assembly — underway for the Oct 15 first cut
+- ⏳ Hero film — in production, awaiting your notes on the story outline
 
 ### Recent Updates
 
@@ -77,14 +77,14 @@ Client interviews that demonstrate Essex's flexibility compared to traditional b
 
 ## Next Step for You
 
-Capture is complete and the edit is underway for the **October 15** first cut. To hold the revised delivery date of **November 23** (a full week before your December 1 launch), we still need a few items from your team:
+Capture is complete and the edit is in production, awaiting your notes on the story outline. To hold the revised delivery date of **November 23** (a full week before your December 1 launch), we need four things from your team:
 
-- The final $1M figure for the story — due **September 30**
-- The SATO driver count
-- Your blessing on the spokeskid video
-- Caleb's surname for the title card
+- Your go-ahead to state the cumulative million dollar figure on screen, and the wording you would prefer
+- Kids Cancer Care's blessing on the spokeskid videos
+- Caleb's surname, for the title card
+- The gala or anniversary date, and the screen format
 
-Everything else on the list came through September 21 — thank you.
+Everything else on the list came through in late September — thank you.
 
 ### Photography Galleries
 

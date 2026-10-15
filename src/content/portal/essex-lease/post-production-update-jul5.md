@@ -3,7 +3,7 @@ title: "Post-Production Update — Story Structure & Edit Progress"
 client: essex-lease
 publish: true
 status: in-review
-date: 2026-07-05
+date: 2026-10-15
 type: update
 ---
 
@@ -54,9 +54,11 @@ The final shoot day is the Essex Golf Classic in September. This is where we cap
 5. **Sponsor vox pops** — short grabs from tournament sponsors
 6. **Sami's 40th pickup** — if Pitbull sponsors or golfs, a 60-second congratulations
 
-### A Few Things We Need From You
+### A Few Things We Needed From You — all closed
 
-These have lead times, so flagging early:
+Every item below came through in September. It is kept here for the record; the current open list lives on the project overview.
+
+These had lead times, so we flagged them early:
 
 - **Golf Classic logistics** — date confirmation, run of show, and a quiet spot for employee interviews
 - **Employee shortlist** — which staff to interview, cleared with managers ahead of time
@@ -69,10 +71,10 @@ These have lead times, so flagging early:
 
 | Deliverable | Status |
 |-------------|--------|
-| Hero film — paper edit v1 | ✅ Complete, ready for review |
+| Hero film — paper edit v1 | ✅ Complete, sent for review October 14 |
 | Three social cuts — first draft | 🔲 Due October 22 |
 | September Golf Classic shoot | ✅ Shot September 9 |
-| Hero film — first cut | 🔲 Due October 15 |
-| Hero film — final assembly |  In progress |
+| Hero film — first cut | In production — awaiting your notes on the story |
+| Hero film — final assembly | In progress |
 
 Questions? Reach out to **michael@coalbanks.com**.
