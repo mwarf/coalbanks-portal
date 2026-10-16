@@ -3,7 +3,7 @@ title: "September Golf Classic: Capture Complete"
 client: essex-lease
 publish: true
 status: in-review
-date: 2026-10-15
+date: 2026-09-16
 type: update
 ---
 
