@@ -48,3 +48,5 @@ Send **one consolidated set of notes** to **michael@coalbanks.com** by **Friday,
 | Final delivery, all assets | **Monday, November 23** |
 
 That lands everything a full week ahead of your December 1 launch.
+
+The three social cuts are cut down from this film and start once you approve it — **first drafts Friday, November 6**.

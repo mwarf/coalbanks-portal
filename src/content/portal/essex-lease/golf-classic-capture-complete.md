@@ -32,13 +32,13 @@ Three things improved because of that day. Russ now opens the film rather than b
 | Milestone | Date |
 |-----------|------|
 | **Hero film, rough cut** | **Wednesday, October 21, 2026** — all five acts |
-| **Three social cuts, first draft** | **Thursday, October 22, 2026** |
+| **Three social cuts, first draft** | **Friday, November 6, 2026** |
 | Your consolidated feedback back to us | **Friday, October 30, 2026** |
 | Fine cut delivered | **Friday, November 6, 2026** |
 | Final revisions | **Friday, November 13, 2026** |
 | Final delivery, all assets | **Monday, November 23, 2026** |
 
-We have put the three social cuts a week behind the hero film rather than sending everything on the same day. All four landing together would put the hero film in the same review pass as three other pieces during the week it matters most. Staggering them means each first version gets proper consideration.
+The three social cuts are cut down from the finished hero film, so they follow your notes on the rough cut rather than running alongside it. They cannot start until the main film is approved — first drafts now land **Friday, November 6**, cut from the version you sign off on. Nothing gets rebuilt because the hero changed underneath it.
 
 This lands everything a full week ahead of the December 1 launch in our agreement, as you asked. The pull-forward rests on one thing: your notes reaching us by **October 30**. If they come together sooner, we can pull the fine cut in to match and bring the whole back end forward with it.
 

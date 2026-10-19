@@ -50,6 +50,7 @@ Client interviews that demonstrate Essex's flexibility compared to traditional b
 | **Jun 25** | Buffer day | Calgary | 🟡 Held |
 | **Sep 9** | Essex Charity Golf Classic | Heritage Pointe | ✅ Complete |
 | **Oct 21** | Hero film rough cut — your review | On your portal | ⏳ Scheduled in |
+| **Nov 6** | Three social cuts — first drafts | On your portal | ⏳ Planned |
 | **Nov 23** | Final delivery — all assets | — | ⏳ Planned |
 
 ## Current Status
@@ -65,9 +66,9 @@ Client interviews that demonstrate Essex's flexibility compared to traditional b
 - ✅ Brand photography complete — **133 edited images delivered** (abstract/equipment, building, lifestyle, aerials)
 - ✅ September Golf Classic captured (Sep 9) — employee interviews, founder interview, evening program, full tournament coverage
 - ✅ All September material ingested, organized and transcribed
-- ✅ Delivery timeline locked — social cuts Oct 22, feedback round Oct 30, fine cut Nov 6, revisions Nov 13, **final delivery Nov 23**, a full week ahead of your December 1 launch
+- ✅ Delivery timeline locked — hero rough cut Oct 21, your notes Oct 30, **three social first drafts Nov 6**, fine cut Nov 6, revisions Nov 13, **final delivery Nov 23**, a full week ahead of your December 1 launch
 - ⏳ **Hero film rough cut — all five acts assembled; the Pitbull and SATO act is being completed now; on your portal for review Wednesday, October 21**
-- ⏳ Three social cuts — first drafts in production
+- ⏳ Three social cuts — cut down from the approved hero film, **first drafts Friday, November 6**
 
 ### Recent Updates
 

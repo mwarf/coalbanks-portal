@@ -11,7 +11,13 @@ type: update
 
 The full rough cut of the hero film — all five acts, start to finish — will be waiting for you here on **Wednesday, October 21, 2026**. That is the date to book your executive meeting around.
 
-Michael will send you a note the moment it is live, with the link and the handful of things we most need your read on. Nothing else on the schedule has moved: your consolidated notes by **Friday, October 30**, fine cut **Friday, November 6**, revisions **Friday, November 13**, and final delivery **Monday, November 23** — a full week ahead of your December 1 launch.
+Michael will send you a note the moment it is live, with the link and the handful of things we most need your read on. Your consolidated notes are still due **Friday, October 30**, the hero fine cut **Friday, November 6**, revisions **Friday, November 13**, and final delivery **Monday, November 23** — a full week ahead of your December 1 launch.
+
+## The Social Cuts Follow the Hero Film
+
+One change to the schedule, and it is a good one for you: the three social cuts — sales, recruitment and community — are cut down from the finished hero film rather than built alongside it. They cannot start until you have approved the main film, so the old October 22 date is gone.
+
+**The three social first drafts now land Friday, November 6**, cut from the version of the hero film you sign off on after your October 30 notes. That means every social cut carries the story you have already approved, and nothing gets rebuilt because the hero changed underneath it.
 
 ## What the Rough Cut Will Show
 
