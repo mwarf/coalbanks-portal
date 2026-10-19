@@ -2,13 +2,15 @@
 title: "40th Anniversary — Story Review & First Look"
 client: essex-lease
 publish: true
-status: in-review
+status: approved
 date: 2026-10-15
 type: deliverable
 videos:
   - id: "c87da006d3fffbf41db51882feccf925"
     title: "40th Anniversary film — the opening, graded"
 ---
+
+> **Approved — October 16, 2026.** You signed off on this version of the story the day after your notes came in. The five-act structure carried forward into the rough cut, which lands on your portal **Wednesday, October 21**.
 
 ## What You're Reviewing
 
@@ -61,9 +63,11 @@ For anything about the sample, **timestamps** are very helpful ("at 0:20 the cut
 
 ## Still Needed From Your Team
 
-These are the last open items, and each one has to land before final delivery:
+**Nothing — all four items below were provided in your October 16 notes. Closing the list here for the record:**
 
-- **The million-dollar total** — Ross speaks on camera about hoping to pass the million-dollar mark. We have your figures ($315,987 this year, $1,067,763 cumulative). We need your **go-ahead to state the cumulative figure on screen**, and the wording you would prefer.
-- **Kids Cancer Care blessing** on the spokeskid videos from past years.
-- **Caleb's surname**, for the title card.
-- **The gala or anniversary date, and the screen format** — we will back-time the final cut from it.
+- ✅ **The million-dollar total** — cleared for on-screen use. The cumulative **$1,067,763** is in the cut.
+- ✅ **Kids Cancer Care blessing** on the spokeskid videos — confirmed in your September 23 email.
+- ✅ **Caleb's surname** — not used, per Kids Cancer Care's privacy request. He appears as *Kids Cancer Care 2026 Spokeskid*.
+- ✅ **Screen format** — standard widescreen; the film goes live ahead of your Holiday Party.
+
+The one item left on the project is your consolidated notes on the rough cut, due **Friday, October 30**.

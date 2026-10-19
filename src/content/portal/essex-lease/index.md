@@ -3,7 +3,7 @@ title: "40th Anniversary — Project Overview"
 client: essex-lease
 publish: true
 status: approved
-date: 2026-10-15
+date: 2026-10-19
 type: brief
 ---
 
@@ -49,13 +49,15 @@ Client interviews that demonstrate Essex's flexibility compared to traditional b
 | **Jun 24** | Ross Sten interview + customer story | Calgary | ✅ Complete |
 | **Jun 25** | Buffer day | Calgary | 🟡 Held |
 | **Sep 9** | Essex Charity Golf Classic | Heritage Pointe | ✅ Complete |
+| **Oct 21** | Hero film rough cut — your review | On your portal | ⏳ Scheduled in |
 | **Nov 23** | Final delivery — all assets | — | ⏳ Planned |
 
 ## Current Status
 
 - ✅ Agreement in place and deposit received
 - ✅ All interviews complete and transcribed — spring sessions plus the September Golf Classic
-- ✅ Story structure locked — 5-act hero film paper edit v1 assembled
+- ✅ **Story signed off** — the five-act paper edit was revised with your and Ross's notes on October 16 and you approved it the same day
+- ✅ Every clearance closed — the cumulative $1,067,763 cleared for on-screen use, Kids Cancer Care's blessing on the spokeskid videos confirmed, Caleb appearing by first name only, and the film going out in standard widescreen
 - ✅ Three social cuts planned — sales, recruitment and community
 - ✅ Camp Kindle event coverage complete (May 29)
 - ✅ Pitbull Energy interview complete (Jun 15)
@@ -64,11 +66,12 @@ Client interviews that demonstrate Essex's flexibility compared to traditional b
 - ✅ September Golf Classic captured (Sep 9) — employee interviews, founder interview, evening program, full tournament coverage
 - ✅ All September material ingested, organized and transcribed
 - ✅ Delivery timeline locked — social cuts Oct 22, feedback round Oct 30, fine cut Nov 6, revisions Nov 13, **final delivery Nov 23**, a full week ahead of your December 1 launch
-- ✅ Delivery pulled a week earlier — final assets now land Nov 23, a full week ahead of your December 1 launch
-- ⏳ Story review — the five-act outline and a graded sample of the opening are with you and Ross (sent Oct 14)
-- ⏳ Hero film — in production, awaiting your notes on the story outline
+- ⏳ **Hero film rough cut — all five acts assembled; the Pitbull and SATO act is being completed now; on your portal for review Wednesday, October 21**
+- ⏳ Three social cuts — first drafts in production
 
 ### Recent Updates
+
+➡️ [Rough Cut Review Scheduled](/essex-lease/hero-film-rough-cut-scheduled/) — Oct 19 — all five acts land on your portal Wednesday, October 21; notes due October 30
 
 ➡️ [Story Review & First Look](/essex-lease/story-review-and-look-sample/) — Oct 15 — the proposed story in five acts, plus a graded sample of the opening
 
@@ -80,14 +83,12 @@ Client interviews that demonstrate Essex's flexibility compared to traditional b
 
 ## Next Step for You
 
-Capture is complete and the edit is in production, awaiting your notes on the story outline. To hold the revised delivery date of **November 23** (a full week before your December 1 launch), we need four things from your team:
+**Everything we needed from your team has now come through — thank you.** Nothing is outstanding on your side except the review itself.
 
-- Your go-ahead to state the cumulative million dollar figure on screen, and the wording you would prefer
-- Kids Cancer Care's blessing on the spokeskid videos
-- Caleb's surname, for the title card
-- The gala or anniversary date, and the screen format
+1. **Book your executive review for Wednesday, October 21** — the full rough cut, all five acts, will be on this portal that morning.
+2. **Send one consolidated set of notes by Friday, October 30**, from you and Ross together, with timestamps where you can.
 
-Everything else on the list came through in late September — thank you.
+That October 30 date is the one that carries everything after it — fine cut November 6, revisions November 13, final delivery November 23. If the notes come together sooner, the whole back end moves in with them.
 
 ### Photography Galleries
 

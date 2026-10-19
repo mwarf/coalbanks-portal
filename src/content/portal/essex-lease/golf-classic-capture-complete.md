@@ -31,7 +31,7 @@ Three things improved because of that day. Russ now opens the film rather than b
 
 | Milestone | Date |
 |-----------|------|
-| **Hero film, first cut** | In production — awaiting your notes on the story |
+| **Hero film, rough cut** | **Wednesday, October 21, 2026** — all five acts |
 | **Three social cuts, first draft** | **Thursday, October 22, 2026** |
 | Your consolidated feedback back to us | **Friday, October 30, 2026** |
 | Fine cut delivered | **Friday, November 6, 2026** |
