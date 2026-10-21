@@ -6,7 +6,7 @@ status: in-review
 date: 2026-10-21
 type: deliverable
 videos:
-  - id: "4a5e5cf3d5731a80aa116511fdbbbc75"
+  - id: "7afdfa7fd7425b7c52c1275392ca2a2e"
     title: "Better Everywhere — Brand Anthem, Final (1:30)"
 ---
 
