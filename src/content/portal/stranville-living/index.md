@@ -3,7 +3,7 @@ title: "Better Everywhere — Project Overview"
 client: stranville-living
 publish: true
 status: draft
-date: 2026-10-02
+date: 2026-10-21
 type: brief
 ---
 
@@ -65,10 +65,10 @@ type: brief
 |------------|--------|
 | Edit plan review | ✅ Approved Aug 21 |
 | Brand anthem first cut | ✅ Reviewed — revision delivered Oct 2 |
+| Brand anthem final cut | ✅ Delivered Oct 21 — awaiting your sign-off |
 | First social reels batch | ⏳ In progress |
 | Documentary first cuts | ⏳ In progress |
-| Final anthem approved | Pending your notes |
-| Full package delivery | Late September |
+| Full package delivery | Documentary profiles + reels still to come |
 
 ## Project Timeline So Far
 
@@ -96,16 +96,17 @@ type: brief
 | Malloy Landing showhome lifestyle shoot (Cara Charles) | Aug 1 | ✅ Complete |
 | **Brent Hardy construction interview** | **Aug 7** | ✅ Complete |
 | **Principal photography — ALL** | **Aug 7** | ✅ **Complete** |
-| Rough assembly + edit | Aug 2026 | ⏳ In progress |
-| Final delivery | Late September | ⏳ Planned |
+| Rough assembly + edit | Aug–Sep 2026 | ✅ Complete |
+| Brand anthem — first cut, revision, final | Sep 15 · Oct 2 · Oct 21 | ✅ Delivered |
+| Documentary profiles + social reels | In progress | ⏳ In progress |
 
 ## Current Status
 
 **All principal photography is complete.** We wrapped the final shoot Friday, August 7 — Brent Hardy's construction interview at 135 Miners Rd (a home in the framing stage), with two-camera interview, drone, vehicle, and interior coverage. That completes all three team voices (Jenna, Corissa, Brent), both documentary profiles, and every planned location.
 
-**We're now in post-production, starting rough assembly for the edit.** The brand anthem (Hemsdale match-cut centrepiece), the two documentary profiles, and the social reels are all being cut from the production footage.
+**We're now in post-production, with the anthem finished.** The brand anthem (Hemsdale match-cut centrepiece) is cut and locked pending your sign-off; the two documentary profiles and the social reels are being cut from the same production footage.
 
-**The revised anthem is now up for your review.** Your five notes from September 19 are all applied: the dining-room shot is gone, the interiors have more room to breathe, there are more family moments including the kids on the bed, the later community sequence is tightened, and the film closes on "you deserve better." Your logo files and brand guide are in hand, so the framing and logo treatment are cleaned up too. Head to the revision page to watch. Once your notes are in, we'll lock the final sound design and make any minor edits for delivery.
+**The final cut of the anthem is ready for you.** Every note from your October 8 email is in it: the stabilizer drift on the toddler-on-the-bed moment is smoothed, the park screen has picture on it, the closing logo is animated, and the music has been replaced end to end with the cut retimed to it. It runs 1:30. Head to the final page to watch, and send anything that needs to change before we lock it.
 
 Key crew and coverage:
 - **Team voices:** Jenna Schmidt (design) ✅, Corissa Price (sales) ✅, Brent Hardy (construction) ✅
@@ -114,6 +115,8 @@ Key crew and coverage:
 - **Community event + framing skeleton** — captured Jul 25 ✅
 
 ### Recent Updates
+
+➡️ [Brand Anthem — Final](/stranville-living/brand-anthem-final/) — The final 1:30 cut with your October 8 notes all in: stabilizer smoothed, park screen replaced, animated logo, new music and retiming.
 
 ➡️ [Brand Anthem — Revision](/stranville-living/brand-anthem-revision/) — The revised 90 second anthem with all five notes applied. Your feedback before final sound design.
 
@@ -147,6 +150,6 @@ Key crew and coverage:
 
 ## Next Up
 
-The **revised anthem is up for your review**. Once your notes are in, we'll lock the final sound design and wrap the anthem. In the meantime we're cutting the social reels and both documentary profiles, and we'll post those here as they come together.
+The **final anthem is up for your sign-off**. Watch it, and send any last notes before we lock it. Alongside that we're cutting the two documentary profiles and the social reels, and we'll post those here as they come together.
 
 Questions? Reach out to **michael@coalbanks.com**.
