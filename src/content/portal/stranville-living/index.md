@@ -3,7 +3,7 @@ title: "Better Everywhere — Project Overview"
 client: stranville-living
 publish: true
 status: draft
-date: 2026-10-21
+date: 2026-10-22
 type: brief
 ---
 
@@ -65,7 +65,7 @@ type: brief
 |------------|--------|
 | Edit plan review | ✅ Approved Aug 21 |
 | Brand anthem first cut | ✅ Reviewed — revision delivered Oct 2 |
-| Brand anthem final cut | ✅ Delivered Oct 21 — awaiting your sign-off |
+| Brand anthem final cut | ✅ Delivered Oct 21 · sound design pass added Oct 22 — awaiting your sign-off |
 | First social reels batch | ⏳ In progress |
 | Documentary first cuts | ⏳ In progress |
 | Full package delivery | Documentary profiles + reels still to come |
@@ -97,7 +97,7 @@ type: brief
 | **Brent Hardy construction interview** | **Aug 7** | ✅ Complete |
 | **Principal photography — ALL** | **Aug 7** | ✅ **Complete** |
 | Rough assembly + edit | Aug–Sep 2026 | ✅ Complete |
-| Brand anthem — first cut, revision, final | Sep 15 · Oct 2 · Oct 21 | ✅ Delivered |
+| Brand anthem — first cut, revision, final, sound design | Sep 15 · Oct 2 · Oct 21 · Oct 22 | ✅ Delivered |
 | Documentary profiles + social reels | In progress | ⏳ In progress |
 
 ## Current Status
@@ -106,7 +106,7 @@ type: brief
 
 **We're now in post-production, with the anthem finished.** The brand anthem (Hemsdale match-cut centrepiece) is cut and locked pending your sign-off; the two documentary profiles and the social reels are being cut from the same production footage.
 
-**The final cut of the anthem is ready for you.** Every note from your October 8 email is in it: the stabilizer drift on the toddler-on-the-bed moment is smoothed, the park screen has picture on it, the closing logo is animated, and the music has been replaced end to end with the cut retimed to it. It runs 1:30. Head to the final page to watch, and send anything that needs to change before we lock it.
+**The final cut of the anthem is ready for you, with the sound design pass in.** Every note from your October 8 email is in it: the stabilizer drift on the toddler-on-the-bed moment is smoothed, the park screen has picture on it, the closing logo is animated, and the music has been replaced end to end with the cut retimed to it. It runs 1:30. After your October 21 note, the narration has been lifted so it now sits clearly above the music — that is the only thing that changed in this pass. Head to the final page to watch or listen, and the 1080p and UHD masters are in a shared Drive folder linked there.
 
 Key crew and coverage:
 - **Team voices:** Jenna Schmidt (design) ✅, Corissa Price (sales) ✅, Brent Hardy (construction) ✅
@@ -116,7 +116,7 @@ Key crew and coverage:
 
 ### Recent Updates
 
-➡️ [Brand Anthem — Final](/stranville-living/brand-anthem-final/) — The final 1:30 cut with your October 8 notes all in: stabilizer smoothed, park screen replaced, animated logo, new music and retiming.
+➡️ [Brand Anthem — Final (updated mix)](/stranville-living/brand-anthem-final/) — The final 1:30 cut with your October 8 notes all in, now with the narration lifted per your October 21 note. 1080p and UHD masters available to download.
 
 ➡️ [Brand Anthem — Revision](/stranville-living/brand-anthem-revision/) — The revised 90 second anthem with all five notes applied. Your feedback before final sound design.
 
@@ -150,6 +150,6 @@ Key crew and coverage:
 
 ## Next Up
 
-The **final anthem is up for your sign-off**. Watch it, and send any last notes before we lock it. Alongside that we're cutting the two documentary profiles and the social reels, and we'll post those here as they come together.
+The **final anthem is up for your sign-off, with the narration now lifted**. Watch or listen to it, and if it reads clearly, say the word and we'll call it delivered. Alongside that we're cutting the two documentary profiles and the social reels, and we'll post those here as they come together.
 
 Questions? Reach out to **michael@coalbanks.com**.
