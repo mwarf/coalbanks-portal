@@ -25,11 +25,11 @@ One thing worth saying plainly before you start, because a rough cut is easy to 
 | **Statistics and graphic overlays** | The fundraising and company figures aren't on screen yet |
 | **Motion graphics** | The Pitbull and SATO act leans on graphics that are being built now |
 | **Titles and name cards** | Placeholders, or not in yet |
-| **The closing brand card** | Still to be built — the cut currently runs out on the tournament footage |
+| **The closing brand card** | In place over the tournament footage, built on the 40th lockup — it gets refined in the finishing pass |
 
 **Some sections are deliberately open.** A few places are held at length on purpose for pacing, and they'll be filled with additional B-roll. Where a section feels bare or runs quiet, that's the space the next pass fills, not missing picture.
 
-**The golf montage near the end runs long on purpose.** The fundraising total and the company statistics will be overlaid across it, and the length will make sense once they're in. It is the section most likely to feel long in isolation and most likely to feel right in context.
+**The golf montage near the end runs long on purpose.** It is the bridge from the tournament into the final act, so it is carrying a transition as well as its own material. The fundraising total and the company statistics will be overlaid across it, and the length will make sense once they're in. It is the section most likely to feel long in isolation and most likely to feel right in context.
 
 ## What to Look For
 
