@@ -6,15 +6,17 @@ status: in-review
 date: 2026-10-22
 type: deliverable
 videos:
-  - id: "937483181b8646462443255d2ff7d1d1"
+  - id: "c518b370ffdf9561d4f210c66b0d6e42"
     title: "40th Anniversary film — rough cut, all five acts"
 ---
 
 ## What You're Watching
 
-The complete rough cut of the hero film — all five acts, start to finish, following the story you signed off on October 16. It runs just under six minutes at this stage. This is the first time the whole film plays as one piece, so it is the version worth your full attention.
+The complete rough cut of the hero film — all five acts, start to finish, following the story you signed off on October 16. It runs a little over five and a half minutes at this stage. This is the first time the whole film plays as one piece, so it is the version worth your full attention.
 
 One thing worth saying plainly before you start, because a rough cut is easy to misread: **this is a rough cut, not a near-final film.** What you are reviewing is the content and the pacing — whether the story holds and whether it plays at the right speed. Everything that makes it look and sound finished is still to come, and none of it has been done yet.
+
+**If you watched an earlier version of this cut,** act five's music was out of alignment in it. This version corrects that. It also changed the running time slightly, so timestamps from an earlier viewing won't line up exactly — a description of the moment works just as well.
 
 ## What Isn't Finished Yet
 
