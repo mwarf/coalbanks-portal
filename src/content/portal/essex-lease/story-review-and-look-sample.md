@@ -10,7 +10,7 @@ videos:
     title: "40th Anniversary film — the opening, graded"
 ---
 
-> **Approved — October 16, 2026.** You signed off on this version of the story the day after your notes came in. The five-act structure carried forward into the rough cut, which lands on your portal **Wednesday, October 21**.
+> **Approved — October 16, 2026.** You signed off on this version of the story the day after your notes came in. The five-act structure carried forward into the rough cut, which is now on your portal — [all five acts, start to finish](/essex-lease/hero-film-rough-cut/).
 
 ## What You're Reviewing
 

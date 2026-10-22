@@ -74,7 +74,7 @@ These had lead times, so we flagged them early:
 | Hero film — paper edit v1 | ✅ Complete, sent for review October 14 |
 | Three social cuts — first draft | 🔲 Due November 6 — cut down from the approved hero film |
 | September Golf Classic shoot | ✅ Shot September 9 |
-| Hero film — rough cut | Wednesday, October 21 — all five acts |
+| Hero film — rough cut | ✅ Delivered Thursday, October 22 — all five acts |
 | Hero film — final assembly | In progress |
 
 Questions? Reach out to **michael@coalbanks.com**.

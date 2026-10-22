@@ -1,42 +1,50 @@
 ---
 title: "Hero Film — Rough Cut for Review"
 client: essex-lease
-publish: false
+publish: true
 status: in-review
-date: 2026-10-21
+date: 2026-10-22
 type: deliverable
 videos:
-  - id: "20a4afed20ddac36f289d73348d8f01a"
+  - id: "937483181b8646462443255d2ff7d1d1"
     title: "40th Anniversary film — rough cut, all five acts"
 ---
 
 ## What You're Watching
 
-The complete rough cut of the hero film — all five acts, start to finish, following the story you signed off on October 16. This is the first time the whole film plays as one piece, so it is the version worth your full attention.
+The complete rough cut of the hero film — all five acts, start to finish, following the story you signed off on October 16. It runs just under six minutes at this stage. This is the first time the whole film plays as one piece, so it is the version worth your full attention.
+
+One thing worth saying plainly before you start, because a rough cut is easy to misread: **this is a rough cut, not a near-final film.** What you are reviewing is the content and the pacing — whether the story holds and whether it plays at the right speed. Everything that makes it look and sound finished is still to come, and none of it has been done yet.
 
 ## What Isn't Finished Yet
 
-So that nothing here reads as a mistake:
+| Still to come | What you're looking at now |
+|---|---|
+| **Sound design** | Temporary music only, there to show pacing — not to be judged as the final score |
+| **Colour correction** | Ungraded picture throughout |
+| **Statistics and graphic overlays** | The fundraising and company figures aren't on screen yet |
+| **Motion graphics** | The Pitbull and SATO act leans on graphics that are being built now |
+| **Titles and name cards** | Placeholders, or not in yet |
+| **The closing brand card** | Still to be built — the cut currently runs out on the tournament footage |
 
-- **The Pitbull and SATO act is still being completed.** Sami's story is carried partly by motion graphics — the figures, the training facility, the driver numbers — and those are being built now. Where that section opens up, it is the space a graphic will fill.
-- **Music is temporary.** It is there to show pacing, not to be judged as the final score.
-- **Titles and name cards are placeholders** until the story is locked.
-- **Colour correction has not been applied.** This cut is for story and pacing.
+**Some sections are deliberately open.** A few places are held at length on purpose for pacing, and they'll be filled with additional B-roll. Where a section feels bare or runs quiet, that's the space the next pass fills, not missing picture.
+
+**The golf montage near the end runs long on purpose.** The fundraising total and the company statistics will be overlaid across it, and the length will make sense once they're in. It is the section most likely to feel long in isolation and most likely to feel right in context.
 
 ## What to Look For
 
-The story is agreed, so this pass is about how it plays:
+The story itself is agreed, so this pass is about how it plays:
 
-1. **Pacing** — does each act hold your attention, and does any section run long or arrive too late?
-2. **Interview selections** — is anything in the cut that should come out, or anything missing that the act needs?
-3. **Balance** — does the weight between the customer stories, the training facility, Camp Kindle, the tournament and the Essex team feel right?
+1. **Pacing** — does each act hold your attention, and does anything run long or arrive too late?
+2. **Interview selections** — is anything in the cut that should come out, or something missing that an act needs?
+3. **Balance** — does the weight between the customer stories, the training facility, Camp Kindle, the tournament and the Essex team feel right to you? Is the balance of voices across your team the one you want, with the company voice as strong as it should be and the wider team represented the way you'd expect?
 4. **Anything factually wrong** — a name, a company, a number.
 
-Please don't spend time on the grade, the music or the graphics at this stage. Those change next.
+Please don't spend time on the grade, the music, the graphics or the titles at this stage. Those all change next.
 
 ## How to Send Feedback
 
-Send **one consolidated set of notes** to **michael@coalbanks.com** by **Friday, October 30**, from you and Ross together, referencing the act and a timestamp where you can ("at 3:12 the act feels long").
+Send **one consolidated set of notes** to **michael@coalbanks.com** by **Friday, October 30**, from you and Ross together. Referencing the act and a rough timestamp helps ("in act two, around three minutes, this feels long") — but a description of the moment works just as well, and after the next round of changes timestamps will shift anyway.
 
 ## The Schedule
 

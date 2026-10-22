@@ -7,11 +7,11 @@ date: 2026-10-19
 type: update
 ---
 
+> **Delivered — Thursday, October 22, 2026.** The rough cut is now on the portal: [Hero Film — Rough Cut for Review](/essex-lease/hero-film-rough-cut/). This page recorded the plan going in and is kept for that record.
+
 ## Your Review Date
 
-The full rough cut of the hero film — all five acts, start to finish — will be waiting for you here on **Wednesday, October 21, 2026**. That is the date to book your executive meeting around.
-
-Michael will send you a note the moment it is live, with the link and the handful of things we most need your read on. Your consolidated notes are still due **Friday, October 30**, the hero fine cut **Friday, November 6**, revisions **Friday, November 13**, and final delivery **Monday, November 23** — a full week ahead of your December 1 launch.
+The full rough cut of the hero film — all five acts, start to finish — is waiting for you here on the portal as of **Thursday, October 22, 2026**, with the link sent the same day. Your consolidated notes are due **Friday, October 30**, the hero fine cut **Friday, November 6**, revisions **Friday, November 13**, and final delivery **Monday, November 23** — a full week ahead of your December 1 launch.
 
 ## The Social Cuts Follow the Hero Film
 
@@ -42,16 +42,16 @@ On the "Team team team" point: the customer stories stay in their own words, and
 
 Two things are unfinished on purpose, and neither is a slip:
 
-- **The Pitbull and SATO act is being completed now.** Sami's story is carried partly by motion graphics — the figures, the training facility, the driver numbers — and those are being built this week. Any gaps you see in that section on Wednesday are the space those graphics will fill.
+- **The Pitbull and SATO act is being completed now.** Sami's story is carried partly by motion graphics — the figures, the training facility, the driver numbers — and those are being built this week. Any gaps you see in that section are the space those graphics will fill.
 - **Music is temporary and titles are placeholders.** Both come in the finishing pass, once the story is locked.
 
-Colour correction is also still to come. What you watch on Wednesday is the story and the pacing, not the final grade.
+Colour correction is also still to come. What you're watching is the story and the pacing, not the final grade.
 
 ## What We Need From You
 
-1. **Book your executive review for Wednesday, October 21.**
+1. **Watch the rough cut with your executives** — [all five acts, start to finish](/essex-lease/hero-film-rough-cut/).
 2. **Send one consolidated set of notes by Friday, October 30** — from you and Ross together, with timestamps where you can ("at 3:12 that act feels long"). A single combined set is what holds the November 23 delivery; two separate lists would cost us about a week, and we would rather spend that week on the finish.
 
-If the Wednesday meeting needs to move by a day or two, tell us and we will work to it — the October 30 notes date is the one that carries the rest of the schedule.
+If the review meeting needs to move by a day or two, tell us and we will work to it — the October 30 notes date is the one that carries the rest of the schedule.
 
 Questions? Reach out to **michael@coalbanks.com**.

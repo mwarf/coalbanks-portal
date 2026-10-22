@@ -3,7 +3,7 @@ title: "40th Anniversary — Project Overview"
 client: essex-lease
 publish: true
 status: approved
-date: 2026-10-19
+date: 2026-10-22
 type: brief
 ---
 
@@ -49,7 +49,7 @@ Client interviews that demonstrate Essex's flexibility compared to traditional b
 | **Jun 24** | Ross Sten interview + customer story | Calgary | ✅ Complete |
 | **Jun 25** | Buffer day | Calgary | 🟡 Held |
 | **Sep 9** | Essex Charity Golf Classic | Heritage Pointe | ✅ Complete |
-| **Oct 21** | Hero film rough cut — your review | On your portal | ⏳ Scheduled in |
+| **Oct 22** | Hero film rough cut — your review | On your portal | ✅ Delivered |
 | **Nov 6** | Three social cuts — first drafts | On your portal | ⏳ Planned |
 | **Nov 23** | Final delivery — all assets | — | ⏳ Planned |
 
@@ -66,13 +66,15 @@ Client interviews that demonstrate Essex's flexibility compared to traditional b
 - ✅ Brand photography complete — **133 edited images delivered** (abstract/equipment, building, lifestyle, aerials)
 - ✅ September Golf Classic captured (Sep 9) — employee interviews, founder interview, evening program, full tournament coverage
 - ✅ All September material ingested, organized and transcribed
-- ✅ Delivery timeline locked — hero rough cut Oct 21, your notes Oct 30, **three social first drafts Nov 6**, fine cut Nov 6, revisions Nov 13, **final delivery Nov 23**, a full week ahead of your December 1 launch
-- ⏳ **Hero film rough cut — all five acts assembled; the Pitbull and SATO act is being completed now; on your portal for review Wednesday, October 21**
+- ✅ Delivery timeline locked — hero rough cut, your notes Oct 30, **three social first drafts Nov 6**, fine cut Nov 6, revisions Nov 13, **final delivery Nov 23**, a full week ahead of your December 1 launch
+- ✅ **Hero film rough cut delivered** — all five acts, start to finish, on your portal for your executive review. This one is about content and pacing: sound design, colour correction, statistics and graphic overlays, motion graphics and titles all come in the finishing pass
 - ⏳ Three social cuts — cut down from the approved hero film, **first drafts Friday, November 6**
 
 ### Recent Updates
 
-➡️ [Rough Cut Review Scheduled](/essex-lease/hero-film-rough-cut-scheduled/) — Oct 19 — all five acts land on your portal Wednesday, October 21; notes due October 30
+➡️ [Hero Film — Rough Cut for Review](/essex-lease/hero-film-rough-cut/) — Oct 22 — all five acts, start to finish; this pass is content and pacing, with finishing still to come; notes due October 30
+
+➡️ [Rough Cut Review Scheduled](/essex-lease/hero-film-rough-cut-scheduled/) — Oct 19 — what the rough cut would cover, and what was still being built at the time
 
 ➡️ [Story Review & First Look](/essex-lease/story-review-and-look-sample/) — Oct 15 — the proposed story in five acts, plus a graded sample of the opening
 
@@ -86,8 +88,8 @@ Client interviews that demonstrate Essex's flexibility compared to traditional b
 
 **Everything we needed from your team has now come through — thank you.** Nothing is outstanding on your side except the review itself.
 
-1. **Book your executive review for Wednesday, October 21** — the full rough cut, all five acts, will be on this portal that morning.
-2. **Send one consolidated set of notes by Friday, October 30**, from you and Ross together, with timestamps where you can.
+1. **Watch the rough cut** — all five acts, start to finish, on the [review page](/essex-lease/hero-film-rough-cut/). It's a rough cut: content and pacing only, with no sound design, grade, overlays, motion graphics or finished titles in it yet.
+2. **Send one consolidated set of notes by Friday, October 30**, from you and Ross together, with timestamps or descriptions where you can.
 
 That October 30 date is the one that carries everything after it — fine cut November 6, revisions November 13, final delivery November 23. If the notes come together sooner, the whole back end moves in with them.
 
