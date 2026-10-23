@@ -2,13 +2,15 @@
 title: "Hero Film — Rough Cut for Review"
 client: essex-lease
 publish: true
-status: in-review
+status: delivered
 date: 2026-10-22
 type: deliverable
 videos:
   - id: "c518b370ffdf9561d4f210c66b0d6e42"
     title: "40th Anniversary film — rough cut, all five acts"
 ---
+
+> **Your feedback on this cut came through on October 23 — thank you.** The plan for the next pass is on the [Revision 1 page](/essex-lease/rough-cut-feedback-revision-1/). This page stays up as the reference for the cut you reviewed.
 
 ## What You're Watching
 
