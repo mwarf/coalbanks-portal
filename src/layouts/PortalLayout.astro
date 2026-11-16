@@ -4,6 +4,7 @@ import StatusBadge from '../components/StatusBadge.astro';
 import DateStamp from '../components/DateStamp.astro';
 import TypeBadge from '../components/TypeBadge.astro';
 import type { ProjectType } from '../lib/projectTypes';
+import { clientDisplayName } from '../lib/portal';
 
 interface Props {
   title:   string;
@@ -15,10 +16,7 @@ interface Props {
 
 const { title, client, status, date, type } = Astro.props;
 
-const clientDisplayName = client
-  .split('-')
-  .map((word: string) => word.charAt(0).toUpperCase() + word.slice(1))
-  .join(' ');
+const displayName = clientDisplayName(client);
 ---
 <BaseLayout title={`${title} — Coalbanks Creative`}>
   <div class="portal-wrapper">
@@ -35,7 +33,7 @@ const clientDisplayName = client
     <!-- Breadcrumb — the client name links back to the project overview.
          (No "Projects" crumb: there is deliberately no all-projects index.) -->
     <nav class="portal-breadcrumb" aria-label="Breadcrumb">
-      <a href={`/${client}/`}>{clientDisplayName}</a>
+      <a href={`/${client}/`}>{displayName}</a>
     </nav>
 
     <!-- Main -->
@@ -58,7 +56,7 @@ const clientDisplayName = client
     <!-- Footer -->
     <footer class="portal-footer">
       <span>&copy; Coalbanks Creative Inc.</span>
-      <span>{clientDisplayName}</span>
+      <span>{displayName}</span>
     </footer>
   </div>
 </BaseLayout>

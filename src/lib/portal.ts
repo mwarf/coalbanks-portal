@@ -25,3 +25,23 @@ export async function getPublishedEntries(): Promise<CollectionEntry<'portal'>[]
 export function entrySlug(entry: { id: string; data: { client: string } }): string {
   return entry.id.replace(entry.data.client + '/', '');
 }
+
+/**
+ * Display names for client slugs whose slug is not their name, or whose name
+ * cannot be derived from the slug (acronyms, single words). Anything not listed
+ * falls back to title-casing the slug, which is what breadcrumbs and footers
+ * rendered before this existed.
+ */
+const CLIENT_NAMES: Record<string, string> = {
+  pwc: 'Progressive West Consulting',
+};
+
+/** Human-readable client name for breadcrumbs, footers and page chrome. */
+export function clientDisplayName(slug: string): string {
+  const mapped = CLIENT_NAMES[slug];
+  if (mapped) return mapped;
+  return slug
+    .split('-')
+    .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+    .join(' ');
+}
