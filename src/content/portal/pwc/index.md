@@ -1,7 +1,7 @@
 ---
 title: "Taber Region Investment Attraction Video — Project Overview"
 client: pwc
-publish: false
+publish: true
 status: in-review
 date: 2026-11-16
 type: brief
@@ -58,7 +58,7 @@ The filming day is the only stage that can move, for weather, crop and site acce
 
 ## Current Status
 
-Awarded November 16, 2026. The statement of work goes out with this page. Work begins once it is signed, and the first thing we do is a kickoff call and a review of the footage you and your partners already hold.
+Awarded November 16, 2026. The statement of work follows separately. Work begins once it is signed, and the first thing we do is a kickoff call and a review of the footage you and your partners already hold.
 
 ## Next Up for You
 
