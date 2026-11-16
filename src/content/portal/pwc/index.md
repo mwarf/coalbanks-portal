@@ -45,20 +45,20 @@ Media is cleared for investor presentations, boardroom use, digital advertising 
 | Stage | Target | Status |
 |---|---|---|
 | Statement of work signed | By Friday, November 20, 2026 | ⏳ |
-| Kickoff call and footage review | Week of November 23, 2026 | ⏳ |
-| Script, shot list and direction approved | Friday, December 11, 2026 | ⏳ |
-| Filming day, Taber Region | Week of December 14, 2026 | ⏳ |
-| First cut delivered | Friday, January 8, 2027 | ⏳ |
-| Consolidated feedback due | Friday, January 15, 2027 | ⏳ |
-| Revised cut delivered | Friday, January 29, 2027 | ⏳ |
-| Final feedback due | Friday, February 5, 2027 | ⏳ |
+| Kickoff call and footage review | Week of January 4, 2027 | ⏳ |
+| Script, shot list and direction approved | Friday, January 8, 2027 | ⏳ |
+| Filming day, Taber Region | Week of January 11, 2027 | ⏳ |
+| First cut delivered | Friday, January 22, 2027 | ⏳ |
+| Consolidated feedback due | Friday, January 29, 2027 | ⏳ |
+| Revised cut delivered | Friday, February 5, 2027 | ⏳ |
+| Final feedback due | Wednesday, February 10, 2027 | ⏳ |
 | Final delivery | Friday, February 12, 2027 | ⏳ |
 
-The filming day is the only stage that can move, for weather, crop and site access, or facility availability.
+Production starts in January, so December stays clear apart from signing. That leaves two revision rounds inside three weeks, which works if notes come back within five business days of each cut. The filming day is the only stage that can move, for weather, crop and site access, or facility availability.
 
 ## Current Status
 
-Awarded November 16, 2026. The statement of work follows separately. Work begins once it is signed, and the first thing we do is a kickoff call and a review of the footage you and your partners already hold.
+Awarded November 16, 2026. The statement of work follows separately. Work begins once it is signed, in the first week of January, and the first thing we do is a kickoff call and a review of the footage you and your partners already hold.
 
 ## Next Up for You
 
