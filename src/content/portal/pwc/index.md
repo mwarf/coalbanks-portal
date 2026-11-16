@@ -42,6 +42,8 @@ Media is cleared for investor presentations, boardroom use, digital advertising 
 
 ## Production Schedule
 
+Proposed dates, pending signature of the statement of work. Once it is signed these become the working schedule, and this page is where any change to them will show up.
+
 | Stage | Target | Status |
 |---|---|---|
 | Statement of work signed | By Friday, November 20, 2026 | ⏳ |
