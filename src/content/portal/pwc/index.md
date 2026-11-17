@@ -47,7 +47,8 @@ Proposed dates, pending signature of the statement of work. Once it is signed th
 | Stage | Target | Status |
 |---|---|---|
 | Statement of work signed | By Friday, November 20, 2026 | ⏳ |
-| Kickoff call and footage review | Week of January 4, 2027 | ⏳ |
+| Kickoff call | Early December 2026, date to be confirmed | ⏳ |
+| Footage review | Week of January 4, 2027 | ⏳ |
 | Script, shot list and direction approved | Friday, January 8, 2027 | ⏳ |
 | Filming day, Taber Region | Week of January 11, 2027 | ⏳ |
 | First cut delivered | Friday, January 22, 2027 | ⏳ |
@@ -56,7 +57,7 @@ Proposed dates, pending signature of the statement of work. Once it is signed th
 | Final feedback due | Wednesday, February 10, 2027 | ⏳ |
 | Final delivery | Friday, February 12, 2027 | ⏳ |
 
-Production starts in January, so December stays clear apart from signing. That leaves two revision rounds inside three weeks, which works if notes come back within five business days of each cut. The filming day is the only stage that can move, for weather, crop and site access, or facility availability.
+The kickoff call comes forward to early December at your request. Production itself starts in January, so December stays clear apart from signing and that call. That leaves two revision rounds inside three weeks, which works if notes come back within five business days of each cut. The filming day is the only stage that can move, for weather, crop and site access, or facility availability.
 
 ## Current Status
 
@@ -65,7 +66,7 @@ Awarded November 16, 2026. The statement of work follows separately. Work begins
 ## Next Up for You
 
 - Sign and return the statement of work, and the deposit invoice clears the filming day
-- Confirm the kickoff call date. We proposed the week of January 4, 2027, and you asked whether it could come earlier; either way the filming week stays in January
+- Confirm the kickoff call date. We have offered Tuesday, December 8 and Thursday, December 10, and the filming week stays in January either way
 - Send the postal code for the billing address so our invoice records are complete
 
 Already received, thank you: brand colours and fonts, the Town and MD logos, your two reference videos from last season, Peter as signing authority, and confirmation that no purchase order is needed.
