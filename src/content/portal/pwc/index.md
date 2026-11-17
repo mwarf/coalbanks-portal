@@ -64,13 +64,11 @@ Awarded November 16, 2026. The statement of work follows separately. Work begins
 
 ## Next Up for You
 
-- Sign and return the statement of work
-- Tell us whether a purchase order number is required, and who should receive invoices
-- Send brand guidelines and approved logos for the Town of Taber, the MD of Taber and Progressive West, vector where possible
-- Point us at existing footage, including anything from the previous Taber Region campaign, and confirm what may be reused
-- Confirm current land opportunities and the approved value or price statements
-- Name one approval contact who can consolidate feedback from the Town, the MD and other partners
-- Confirm the closing call to action, planning@taber.ca as advised
+- Sign and return the statement of work, and the deposit invoice clears the filming day
+- Confirm the kickoff call date. We proposed the week of January 4, 2027, and you asked whether it could come earlier; either way the filming week stays in January
+- Send the postal code for the billing address so our invoice records are complete
+
+Already received, thank you: brand colours and fonts, the Town and MD logos, your two reference videos from last season, Peter as signing authority, and confirmation that no purchase order is needed.
 
 ## Questions
 
