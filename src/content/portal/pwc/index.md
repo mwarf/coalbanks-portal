@@ -67,7 +67,6 @@ Awarded November 16, 2026. The statement of work follows separately. Work begins
 
 - Sign and return the statement of work, and the deposit invoice clears the filming day
 - Confirm the kickoff call date. We have offered Tuesday, December 8 and Thursday, December 10, and the filming week stays in January either way
-- Send the postal code for the billing address so our invoice records are complete
 
 Already received, thank you: brand colours and fonts, the Town and MD logos, your two reference videos from last season, Peter as signing authority, and confirmation that no purchase order is needed.
 
